@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "Wiki 0: Meisterschulen-am-Ostbahnhof-Munchen Docs"
-copyright = "2022-2023, Meisterschulen am Ostbahnhof, München"
+copyright = "2022-2025, Meisterschulen am Ostbahnhof - München"
 author = "Franz Höpfinger"
 
 html_baseurl = "https://docs.ms-muc-docs.de/de/latest/"
@@ -15,7 +15,10 @@ html_baseurl = "https://docs.ms-muc-docs.de/de/latest/"
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["myst_parser"]
+extensions = [
+    "myst_parser",
+    "sphinxcontrib.googleanalytics",
+]
 
 version = "0.0.1"
 release = version
@@ -37,6 +40,7 @@ myst_enable_extensions = [
 ]
 myst_heading_anchors = 7
 
+googleanalytics_id = 'G-4WPKCFX4NN'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output

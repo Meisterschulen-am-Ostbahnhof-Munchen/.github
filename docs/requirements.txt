@@ -11,11 +11,12 @@ sphinxcontrib-websupport
 sphinx_design
 sphinxext.rediraffe
 sphinxcontrib.mermaid
+sphinxcontrib.googleanalytics
 sphinxext.opengraph
 sphinx_pyscript
 sphinx_tippy
 sphinx-markdown-tables
-clang
+
 hawkmoth
 sphinxcontrib.autoprogram
 sphinx_c_autodoc
