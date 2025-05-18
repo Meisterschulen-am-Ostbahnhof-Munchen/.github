@@ -38,9 +38,7 @@ Meisterschulen:
 
 Foren zu IEC 61499: 
 
-<https://www.reddit.com/r/UAOCofPractice/>
-
-<https://www.reddit.com/r/IEC61499/>
+<https://uao-cop.discourse.group/>
 
 Telegram ISOBUS Group:
 
