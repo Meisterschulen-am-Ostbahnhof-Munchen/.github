@@ -21,9 +21,28 @@
 
 ---
 
+
+
+
 ##### Sonstiges
 
 Gitlab: https://gitlab.com/meisterschulen-am-ostbahnhof-munchen
+
+
+## Podcasts
+
+### Eclipse 4diac™ DE
+
+### Eclipse 4diac™ EN
+
+### IEC 61499: Grundkurs DE
+
+### IEC 61499: primer course EN
+
+### ISOBUS-VT-Objects DE
+
+### logiBUS® DE
+
 
 ## Hi there 👋
 
