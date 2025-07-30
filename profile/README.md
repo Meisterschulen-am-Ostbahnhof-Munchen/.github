@@ -54,9 +54,9 @@ Podcasts auch auf Apple Music, Amazon Music, Audible, Spotify, Castbox, YouTube 
 
 ### IEC 61499: primer course EN
 
-<https://creators.spotify.com/pod/profile/iec-61499-grundkurs-de>
+<https://creators.spotify.com/pod/profile/iec-61499-prime-course-en>
 
-<https://creators.spotify.com/pod/show/iec-61499-grundkurs-de>
+<https://creators.spotify.com/pod/show/iec-61499-prime-course-en>
 
 
 ### ISOBUS-VT-Objects DE
