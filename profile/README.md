@@ -35,15 +35,41 @@ Podcasts auch auf Apple Music, Amazon Music, Audible, Spotify, Castbox, YouTube 
 
 ### Eclipse 4diac™ DE
 
+<https://creators.spotify.com/pod/profile/eclipse-4diac-de>
+
+<https://creators.spotify.com/pod/show/eclipse-4diac-de>
+
 ### Eclipse 4diac™ EN
+
+<https://creators.spotify.com/pod/profile/eclipse-4diac-de>
+
+<https://creators.spotify.com/pod/show/eclipse-4diac-de>
 
 ### IEC 61499: Grundkurs DE
 
+<https://creators.spotify.com/pod/profile/iec-61499-grundkurs-de>
+
+<https://creators.spotify.com/pod/show/iec-61499-grundkurs-de>
+
+
 ### IEC 61499: primer course EN
+
+<https://creators.spotify.com/pod/profile/iec-61499-grundkurs-de>
+
+<https://creators.spotify.com/pod/show/iec-61499-grundkurs-de>
+
 
 ### ISOBUS-VT-Objects DE
 
+<https://creators.spotify.com/pod/profile/isobus-vt-objects>
+
+<https://creators.spotify.com/pod/show/isobus-vt-objects>
+
 ### logiBUS® DE
+
+<https://creators.spotify.com/pod/profile/logibus>
+
+<https://creators.spotify.com/pod/show/logibus>
 
 ### Meisterschulen am Ostbahnhof, München
 
