@@ -41,9 +41,9 @@ Podcasts auch auf Apple Music, Amazon Music, Audible, Spotify, Castbox, YouTube 
 
 ### Eclipse 4diac™ EN
 
-<https://creators.spotify.com/pod/profile/eclipse-4diac-de>
+<https://creators.spotify.com/pod/profile/eclipse-4diac-en>
 
-<https://creators.spotify.com/pod/show/eclipse-4diac-de>
+<https://creators.spotify.com/pod/show/eclipse-4diac-en>
 
 ### IEC 61499: Grundkurs DE
 
