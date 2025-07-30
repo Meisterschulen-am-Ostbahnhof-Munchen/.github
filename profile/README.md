@@ -31,6 +31,8 @@ Gitlab: https://gitlab.com/meisterschulen-am-ostbahnhof-munchen
 
 ## Podcasts
 
+Podcasts auch auf Apple Music, Amazon Music, Audible, Spotify, Castbox, YouTube Music
+
 ### Eclipse 4diac™ DE
 
 ### Eclipse 4diac™ EN
@@ -45,6 +47,9 @@ Gitlab: https://gitlab.com/meisterschulen-am-ostbahnhof-munchen
 
 ### Meisterschulen am Ostbahnhof, München
 
+<https://creators.spotify.com/pod/profile/ms-muc-lama>
+
+<https://creators.spotify.com/pod/show/ms-muc-lama>
 
 
 ## Hi there 👋
