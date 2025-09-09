@@ -1,56 +1,13 @@
 # Meisterschulen am Ostbahnhof, München
 
-### Need help or have a question? 
+all links are now here centrally: <https://www.ms-muc-docs.de/>
 
-[open a new Discussion](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/discussions) -- Some Repos have own Channels
-
----
-
-
-## Hi there 👋
-
-🙋‍♀️ A short introduction - what is your organization all about?  
-🌈 Contribution guidelines - how can the community get involved?  
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?  
-🍿 Fun facts - what does your team eat for breakfast?  
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
-Meisterschulen:  
-<https://www.meisterschulen-mchn.de/>
-
-Foren zu IEC 61499: 
-
-<https://uao-cop.discourse.group/>
-
-Telegram ISOBUS Group:
-
-<https://t.me/+V_7QkEUfnYjFlJo0>
-
-Telegram Gruppe über ISOBUS:
-
-<https://t.me/+V_7QkEUfnYjFlJo0>
-
-<https://t.me/joinchat/B1-SThBCW-w6klLwK3zLjw>
-
-Telegram Gruppe zu CCI:
-
-<https://t.me/joinchat/8_KHdpS2ynVjOTUy>
-
-Telegram Gruppe zu AgIsoStack:
-
-<https://t.me/openagriculture>
-
-ISOBUS Wiki von Tobias Tenberg:
-
-<https://isobus-studio.com/en/isobus-wiki>
 
 LinkedIn:
 
 <https://www.linkedin.com/groups/102887/>
 
-YouTube Kanal der Meisterschule: <https://www.youtube.com/user/Meisterschulen>
 
-YouTube Kanal Meisterschule Landmaschinenmechanik: <https://youtube.com/@ms-muc-lama>
 
 ## logiBUS®
 
