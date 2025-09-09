@@ -9,8 +9,6 @@ myst:
     "property=og:locale": "de"
 ---
 
-# Wiki 0: Wiki der Meisterschulen am Ostbahnhof München
-
 das „über“ Wiki
 eine Suche im über Wiki findet Ergebnisse aus allen 5 Wikis
 
