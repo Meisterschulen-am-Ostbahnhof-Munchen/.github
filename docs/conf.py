@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = "Wiki 0: Meisterschulen-am-Ostbahnhof-Munchen Docs"
+project = "Wiki der Meisterschulen am Ostbahnhof München (0)"
 copyright = "2022-2025, Meisterschulen am Ostbahnhof - München"
 author = "Franz Höpfinger"
 
@@ -20,7 +20,7 @@ extensions = [
     "sphinxcontrib.googleanalytics",
 ]
 
-version = "0.0.1"
+version = "0.0.2"
 release = version
 templates_path = ["_templates"]
 
