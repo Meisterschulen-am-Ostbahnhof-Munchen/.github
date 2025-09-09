@@ -9,15 +9,16 @@ myst:
     "property=og:locale": "de"
 ---
 
+# Wiki 0: Wiki der Meisterschulen am Ostbahnhof München
 
-```{include} ../README.md
-```
+das „über“ Wiki
+eine Suche im über Wiki findet Ergebnisse aus allen 5 Wikis
 
 **Welcome to Meisterschulen-am-Ostbahnhof-Munchen's documentation!**
 
-:::{note}
-This project is under active development.
-:::
+Main Menu: <https://www.ms-muc-docs.de/>
+
+
 
 **Contents**
 
@@ -27,13 +28,5 @@ This project is under active development.
 :numbered: true
 
 Home <self>
-Meisterschulen
-Empty
-genindex
-search
 ```
 
-# Indices and tables
-
-- {ref}`genindex`
-- {ref}`search`
