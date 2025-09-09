@@ -114,7 +114,7 @@ LinkedIn:
 
 YouTube Kanal der Meisterschule: <https://www.youtube.com/user/Meisterschulen>
 
-YouTube Kanal Meisterschule Landmaschinenmechankik: <https://youtube.com/@ms-muc-lama>
+YouTube Kanal Meisterschule Landmaschinenmechanik: <https://youtube.com/@ms-muc-lama>
 
 ## logiBUS®
 
