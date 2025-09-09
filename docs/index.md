@@ -9,6 +9,7 @@ myst:
     "property=og:locale": "de"
 ---
 
+# Super-Suche
 das „über“ Wiki
 eine Suche im über Wiki findet Ergebnisse aus allen 5 Wikis
 
