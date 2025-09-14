@@ -17,6 +17,8 @@ eine Suche im über Wiki findet Ergebnisse aus allen 5 Wikis
 
 Main Menu: <https://www.ms-muc-docs.de/>
 
+Entdecken Sie die offizielle Dokumentation der Meisterschulen am Ostbahnhof München. Finden Sie alle wichtigen Informationen und Anleitungen in diesem Wiki. Nutzen Sie die integrierte Super-Suche, um schnell und einfach Ergebnisse aus allen fünf Wikis der Meisterschulen zu finden. Diese Seite ist Ihr zentraler Anlaufpunkt für die Dokumentation und Ressourcen der Meisterschulen am Ostbahnhof München.
+
 
 
 **Contents**
