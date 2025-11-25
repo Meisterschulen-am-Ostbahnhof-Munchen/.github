@@ -30,7 +30,7 @@ epub_show_urls = "footnote"
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "CHANGELOG.rst"]
-html_extra_path = ["robots.txt", "sitemap_4604338.xml", "sitemap_4604338_images.xml", "sitemap_4604338_mobile.xml", "sitemap_4604338_news.xml", "sitemap_4604338_video.xml" ]
+html_extra_path = ["robots.txt", "sitemap.xml"]
 
 # -- MyST settings ---------------------------------------------------
 
