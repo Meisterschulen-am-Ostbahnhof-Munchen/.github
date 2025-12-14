@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/main/docs/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="600">
+  <img src="https://raw.githubusercontent.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/main/docs/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof">
   <h1>Meisterschulen am Ostbahnhof, München</h1>
 </div>
 
