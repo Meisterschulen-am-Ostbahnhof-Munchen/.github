@@ -12,7 +12,7 @@ myst:
   <img src="logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400">
 
 # Willkommen bei der Dokumentation
-### Meisterschulen am Ostbahnhof, München
+## Meisterschulen am Ostbahnhof, München
 
 </div>
 
