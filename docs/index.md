@@ -2,54 +2,48 @@
 myst:
   enable_extensions: ["colon_fence"]
   html_meta:
-    "description lang=en": "metadata description"
-    "description lang=de": "metadata description"
-    "description lang=fr": "description des métadonnées"
-    "keywords": "Sphinx, MyST"
+    "description lang=en": "Central documentation hub for Meisterschulen am Ostbahnhof München"
+    "description lang=de": "Zentrale Dokumentationsplattform der Meisterschulen am Ostbahnhof München"
+    "keywords": "Sphinx, MyST, Dokumentation, Meisterschulen"
     "property=og:locale": "de"
 ---
 
-# Super-Suche
-das „über“ Wiki
-eine Suche im über Wiki findet Ergebnisse aus allen 5 Wikis
+<div align="center">
+  <img src="logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400">
 
-**Welcome to Meisterschulen-am-Ostbahnhof-Munchen's documentation!**
+# Willkommen bei der Dokumentation
+### Meisterschulen am Ostbahnhof, München
 
-Main Menu: <https://www.ms-muc-docs.de/>
+</div>
 
-Entdecken Sie die offizielle Dokumentation der Meisterschulen am Ostbahnhof München. Finden Sie alle wichtigen Informationen und Anleitungen in diesem Wiki. Nutzen Sie die integrierte Super-Suche, um schnell und einfach Ergebnisse aus allen fünf Wikis der Meisterschulen zu finden. Diese Seite ist Ihr zentraler Anlaufpunkt für die Dokumentation und Ressourcen der Meisterschulen am Ostbahnhof München.
+---
 
-## Wiki 0: Wiki der Meisterschulen am Ostbahnhof München
-[Wiki der Meisterschulen am Ostbahnhof München (0)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) 
+**Entdecken Sie die offizielle Dokumentation der Meisterschulen am Ostbahnhof München.**
 
-## Wiki 1: Grundlagen der C-Programmierung in ISOBUS (1) 
-[Grundlagen der C-Programmierung in ISOBUS (1)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/) 
+Diese Seite ist Ihr zentraler Anlaufpunkt („Super-Suche“). Eine Suche hier im Haupt-Wiki durchsucht automatisch alle unten aufgeführten Wikis gleichzeitig. Finden Sie Anleitungen, technische Grundlagen und Lehrmaterialien schnell und effizient.
 
-## Wiki 2: ISOBUS Virtual Terminal: Benutzeroberfläche und Objekte
-[ISOBUS Virtual Terminal: Benutzeroberfläche und Objekte (2)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) 
+## 📚 Unsere Wikis und Projekte
 
-## Wiki 3: ISOBUS: Technische Grundlagen und Kommunikation
-[ISOBUS: Technische Grundlagen und Kommunikation (3)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) 
+Hier finden Sie den direkten Zugang zu den spezialisierten Dokumentationsbereichen:
 
-## Wiki 4: Visuelle Programmiersprachen: Low-Code
-[Visuelle Programmiersprachen: Low-Code (4)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) 
+| Wiki | Bereich / Thema | Link |
+| :--- | :--- | :---: |
+| **Wiki 0** | **Haupt-Wiki der Meisterschulen**<br>Allgemeine Informationen, Anleitungen und Ressourcen. | [📖 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
+| **Wiki 1** | **C-Programmierung in ISOBUS**<br>Grundlagen der C-Programmierung und Einrichtung der Umgebung. | [🚜 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/) |
+| **Wiki 2** | **ISOBUS Virtual Terminal**<br>Detaillierte Dokumentation zu Benutzeroberflächen und Objekten. | [🖥️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) |
+| **Wiki 3** | **ISOBUS Technik**<br>Technische Grundlagen, Kommunikation und Protokolle. | [📡 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) |
+| **Wiki 4** | **Visuelle Programmiersprachen**<br>Einführung und Handbuch zu Low-Code Entwicklungsumgebungen. | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
+| **Wiki 5** | **Elektronik-Werkzeuge**<br>Handbuch für Löttechnik, Messgeräte und Werkstatt-Ausstattung. | [🛠️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |
 
-## Wiki 5: Handbuch für Elektronik-Werkzeuge: Lötkolben und mehr
-[Handbuch für Elektronik-Werkzeuge: Lötkolben und mehr (5)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) 
+---
 
-
-
-
-
-
-
-**Contents**
+<div align="center">
+  <sub>Hauptmenü: <a href="https://www.ms-muc-docs.de/">www.ms-muc-docs.de</a></sub>
+</div>
 
 ```{toctree}
-:caption: 'Contents:'
-:maxdepth: 7
-:numbered: true
+:caption: 'Inhalt:'
+:maxdepth: 2
+:hidden:
 
 Home <self>
-```
-
