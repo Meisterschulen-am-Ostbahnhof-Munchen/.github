@@ -12,6 +12,9 @@ myst:
   <img src="logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400">
 
 # Wiki 0: Haupt-Wiki
+
+```{index} single: Wiki 0: Haupt-Wiki
+```
 ## Meisterschulen am Ostbahnhof, München
 
 ---
