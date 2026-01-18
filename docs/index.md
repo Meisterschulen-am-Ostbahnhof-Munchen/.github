@@ -50,7 +50,15 @@ Hier finden Sie den direkten Zugang zu den spezialisierten Dokumentationsbereich
 
 ```{toctree}
 :caption: 'Inhalt:'
-:maxdepth: 2
-:hidden:
+:maxdepth: 7
+:numbered: true
 
 Home <self>
+genindex
+search
+```
+
+# Indices and tables
+
+- {ref}`genindex`
+- {ref}`search`
