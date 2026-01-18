@@ -48,11 +48,11 @@ def cleanup():
             output_lines.append(line)
             continue
         elif stripped.startswith("## 📂 Thematische Übersicht"):
-            current_section = "REST"
+            current_section = "THEMATIC"
             output_lines.append(line)
             continue
-        elif stripped.startswith("## ") and current_section == "YOUTUBE":
-             # Ein anderer Header beendet YouTube Sektion (falls Thematische Übersicht umbenannt wurde)
+        elif stripped.startswith("## ") and current_section in ["YOUTUBE", "THEMATIC"]:
+             # Ein anderer Header beendet Sektion
              current_section = "REST"
              output_lines.append(line)
              continue
@@ -78,12 +78,35 @@ def cleanup():
                     if len(t_agg) > 15 and (t_agg in p_agg or p_agg in t_agg):
                         is_duplicate = True
                         removed_count += 1
-                        # print(f"Removing Duplicate Video: {title}")
                         break
                 
                 if is_duplicate:
                     continue # Zeile überspringen
             
+            output_lines.append(line)
+
+        elif current_section == "THEMATIC":
+            # Filtern in Thematischer Übersicht
+            # Format oft: * **[YouTube]** [Titel](Link)
+            # Prüfe ob YouTube Link
+            if "youtube.com" in line or "youtu.be" in line:
+                 links = re.findall(r"\[(.*?)\]\((https?://.*?)\)", line)
+                 if links:
+                     # Letzter Link ist wahrscheinlich der Content Link
+                     title, url = links[-1]
+                     
+                     if "youtube" in url or "youtu.be" in url:
+                         t_agg = normalize_aggressive(title)
+                         
+                         is_duplicate = False
+                         for p_agg in podcasts_titles:
+                             if len(t_agg) > 15 and (t_agg in p_agg or p_agg in t_agg):
+                                 is_duplicate = True
+                                 removed_count += 1
+                                 break
+                         
+                         if is_duplicate:
+                             continue
             output_lines.append(line)
             
         else:
