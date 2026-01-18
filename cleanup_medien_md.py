@@ -44,7 +44,7 @@ def cleanup():
             current_section = "THEMATIC"
             output_lines.append(line)
             continue
-        elif stripped.startswith("## ") and current_section in ["YOUTUBE", "THEMATIC"]:
+        elif stripped.startswith("## ") and not stripped.startswith("###") and current_section in ["YOUTUBE", "THEMATIC"]:
              current_section = "REST"
              output_lines.append(line)
              continue
@@ -79,7 +79,9 @@ def cleanup():
 
         elif current_section == "THEMATIC":
             if "youtube.com" in line or "youtu.be" in line:
-                 links = re.findall(r"\[(.*?)\]\((https?://.*?)\)", line)
+                 # Remove known prefixes to avoid polluting the title extraction
+                 clean_line = line.replace("**[YouTube]**", "").replace("**[ YouTube ]**", "")
+                 links = re.findall(r"\[(.*?)\]\((https?://.*?)\)", clean_line)
                  if links:
                      title, url = links[-1]
                      if "youtube" in url or "youtu.be" in url:
