@@ -11,16 +11,20 @@ myst:
 
   <img src="logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400">
 
-# Willkommen bei der Dokumentation
+# Wiki 0: Haupt-Wiki
 ## Meisterschulen am Ostbahnhof, München
-
-
 
 ---
 
 **Entdecken Sie die offizielle Dokumentation der Meisterschulen am Ostbahnhof München.**
 
 Diese Seite ist Ihr zentraler Anlaufpunkt („Super-Suche“). Eine Suche hier im Haupt-Wiki durchsucht automatisch alle unten aufgeführten Wikis gleichzeitig. Finden Sie Anleitungen, technische Grundlagen und Lehrmaterialien schnell und effizient.
+
+**Nützliche Links:**
+* [🏠 Hauptmenü](https://www.ms-muc-docs.de/)
+* [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
+
+---
 
 ## 📚 Unsere Wikis und Projekte
 
