@@ -29,6 +29,7 @@ Diese Seite ist Ihr zentraler Anlaufpunkt („Super-Suche“). Eine Suche hier i
 **Nützliche Links:**
 * [🏠 Hauptmenü](https://www.ms-muc-docs.de/)
 * [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
+* [🎙️ Medien-Bibliothek (Videos & Podcasts)](medien.md)
 
 ---
 
