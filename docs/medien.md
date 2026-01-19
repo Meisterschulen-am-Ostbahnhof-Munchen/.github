@@ -3062,10 +3062,10 @@ Für die folgenden Wiki-Themen sind aktuell noch keine dedizierten Videos oder P
 
 ## 📓 NotebookLM
 
-* [Uebung_000: Arithmetische Grundfunktionen (ADD)](https://notebooklm.google.com/notebook/a6872e59-1dfc-4132-a118-aff1bc7bc944)
-* [Uebung_000_AX: Einfache Addition](https://notebooklm.google.com/notebook/041f4df4-b729-484d-b786-b6dcdf151961)
-* [Videos Deutsch](https://notebooklm.google.com/notebook/c0639f91-23c3-4194-b347-e789f4a32732)
-* [Videos Deutsch](https://notebooklm.google.com/notebook/bf1b73cf-1ca5-4ba2-a2f1-0c336f75af09)
+* [Direkte IO-Verschaltung in logiBUS®: Übung 001](https://notebooklm.google.com/notebook/a6872e59-1dfc-4132-a118-aff1bc7bc944)
+* [Digitale Ein- und Ausgangsverbindung mit logiBUS® Uebung_001_AX](https://notebooklm.google.com/notebook/041f4df4-b729-484d-b786-b6dcdf151961)
+* [Trend im Engineering: IEC 61131 vs. IEC 61499](https://notebooklm.google.com/notebook/c0639f91-23c3-4194-b347-e789f4a32732)
+* [Trends im Engineering: IEC 61131 vs. IEC 61499](https://notebooklm.google.com/notebook/bf1b73cf-1ca5-4ba2-a2f1-0c336f75af09)
 * [3M Doppelseitiges Klebeband 93020LE](https://notebooklm.google.com/notebook/d14c7b68-a9dc-4006-9950-25c5fffed702)
 * [3M Transfer-Klebeband 468MP](https://notebooklm.google.com/notebook/e84f563b-d6d5-47c5-8db2-c3df74a934ee)
 * [CPU / Mikroprozessor Grundlagen](https://notebooklm.google.com/notebook/d713f107-c0c5-4694-8f3a-86da920095cb)

@@ -1,0 +1,44 @@
+﻿Ich habe in deinem Google Drive nach NotebookLM-Links gesucht. Dabei bin ich vor allem im Dokument „Hutschienenmoped XL“ fündig geworden, das eine umfangreiche Sammlung solcher Links zu verschiedenen technischen Themen enthält.
+Hier sind die gefundenen NotebookLM-Links, gruppiert nach Themen:
+Projekt & Grundlagen
+* Hutschienenmoped XL: Projekt und Hardware-Details: https://notebooklm.google.com/notebook/4e876888-8950-4705-baf9-f663135fa836 1
+
+* Montage Hutschienenmoped: Einführung und Löten: https://notebooklm.google.com/notebook/148edf72-37ea-4070-8bed-62b202a2daad 2
+
+* Mikroprozessor MPU: https://notebooklm.google.com/notebook/d713f107-c0c5-4694-8f3a-86da920095cb 3
+
+* Leiterplatten Entwurf: https://notebooklm.google.com/notebook/4cd4a61e-1b89-47d9-b0c2-03d819c7c629 4
+
+Komponenten & Bauteile
+   * ESP32-S3 Devkit Entwicklungsplatinen Dokumentation: https://notebooklm.google.com/notebook/6b6e4eae-d37f-49e8-b359-d89c3baedfd0 5
+
+   * Taktile Schalter von Würth Elektronik eiSos: https://notebooklm.google.com/notebook/f5ff7c06-99cf-4b2d-bbf6-bb2c510dbea6 6
+
+   * Kontakt-Entprellschaltung für Taster: https://notebooklm.google.com/notebook/6d8f93c4-c2f9-4c80-8b88-e798be5351da 7
+
+   * ESP-IoT-Lösung: Taster-Treiber und Ereignissteuerung: https://notebooklm.google.com/notebook/14313ad8-e034-4932-97ea-aaaffff20a53 8
+
+   * Relais-Typen: Kleinsignal, Last und Hybrid-Funktion: https://notebooklm.google.com/notebook/32d7fd8a-1194-4349-9830-9b587d509e3a 9
+
+   * Klemmenleisten: Standard, Modifiziert und Kundenspezifisch: https://notebooklm.google.com/notebook/2fb764a2-6818-4d74-8633-38f3ce5e81cd 10
+
+   * Datenblatt: WR-TBL 7097 Horizontaler SMT-Klemmenblock: https://notebooklm.google.com/notebook/8dca03a5-da20-4b09-99f4-46421ce90077 11
+
+   * Kondensator (Kontext): https://notebooklm.google.com/notebook/4713dd98-58e1-4457-a152-e3f4df6970d5 12
+
+Leistungselektronik & Schutz
+      * Derating von Steckverbindern: Theorie und Kennlinien: https://notebooklm.google.com/notebook/1d182618-3af1-4cac-b37a-f39d7b65f3fe 13
+
+      * Einschaltstromverhalten von Steckverbindern: Eine Analyse: https://notebooklm.google.com/notebook/527713e4-7ac3-46ea-9273-21ac09a0812d 14
+
+      * MX74700T: Ideal-Dioden-Controller für Batterieschutz: https://notebooklm.google.com/notebook/c08e5a3f-4128-4464-bef0-28e51fc440b5 15
+
+      * LM74700-Q1 Ideal-Dioden-Controller für Batterieschutz: https://notebooklm.google.com/notebook/b3814089-e201-4d2c-a552-ee1bfbcc7459 16
+
+      * Leistungstreiber (Kontext 1): https://notebooklm.google.com/notebook/d9695871-9860-4ebf-8328-4bd8d75a6383 17
+
+      * Leistungstreiber (Kontext 2): https://notebooklm.google.com/notebook/0c1e6043-316e-475f-b63c-4250da86d865 18
+
+      * Leistungstreiber (Kontext 3): https://notebooklm.google.com/notebook/96e8daca-37c9-4c80-8cd6-f87884fb031d 19
+
+Das Dokument „Normungsorganisationen.pptx“ erwähnt ebenfalls NotebookLM-Inhalte (z. B. „Normungsorganisationen und Standardsetzer im Überblick“), enthält im ausgelesenen Text jedoch keine direkten Links. 20

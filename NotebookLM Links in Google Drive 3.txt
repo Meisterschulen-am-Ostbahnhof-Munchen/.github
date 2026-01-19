@@ -1,0 +1,22 @@
+﻿Hier sind die NotebookLM-Links aus Ihren Google Drive-Dokumenten mit ihren Titeln nebeneinander:
+* Notebook LM Link - Datentypen: https://notebooklm.google.com/notebook/42980c6a-51a9-4c1c-8b42-258dec92e570 1111
+
+* Notebook LM Link - Eclipse 4diac™: https://notebooklm.google.com/notebook/ea007636-7163-451b-9ff6-de748b8b5530 2222
+
+* Notebook LM Link - Event und Bool: https://notebooklm.google.com/notebook/28172f3b-1936-4173-99ab-7d96bec5fd17 3333
+
+* Notebook: Die Mathematische Analyse der Logik: https://notebooklm.google.com/notebook/b253ca36-906d-45c4-a92b-0678948a2cbc 444
+
+* Infografik: Booles Algebra der Logik: https://notebooklm.google.com/notebook/b253ca36-906d-45c4-a92b-0678948a2cbc?artifactId=802912d0-564e-4e24-8acb-e0db92f0f271 555
+
+* IEC 61499 Adapter-Konzept: Vereinfachung: https://notebooklm.google.com/notebook/de2bae74-e4c9-4069-a8ac-7a7525d0b36d 666
+
+* IEC 61499 Adapter-Konzept: EVENT & BOOL: https://notebooklm.google.com/notebook/c308fbfc-ed3f-4cf7-90b4-a12ef4331150 777
+
+* LogiBUS® auf dem Weg zu Eclipse 4diac™ 3.0: https://notebooklm.google.com/notebook/ae3392c4-c3c5-4457-b354-6adf3eefa7af 888
+
+* ISODesigner Quiz-Fragen: https://notebooklm.google.com/notebook/994cb0f6-6470-4470-ac6a-830b168de098 9999
+
+* Grundlagen und Verknüpfungen der Digitaltechnik: https://notebooklm.google.com/notebook/80002b86-13fe-4afc-8479-56667abeb18e 10
+
+* IEC 61499 Adapter-Konzept: Vereinfachte Funktionsbaustein-Netzwerk: https://notebooklm.google.com/notebook/f5e86f38-7a72-448a-bef5-7e9ac480895d 11

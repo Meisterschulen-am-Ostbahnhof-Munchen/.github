@@ -1,0 +1,45 @@
+﻿Hier sind die NotebookLM-Links, die ich in deinen Google Drive Dokumenten gefunden habe, sortiert nach den Dateien, in denen sie vorkommen:
+
+
+Aus der Datei "Hutschienenmoped XL" 1:
+Dieses Dokument enthält eine umfangreiche Sammlung von Notebooks zu verschiedenen technischen Themen:
+* Projekt und Hardware-Details: https://notebooklm.google.com/notebook/4e876888-8950-4705-baf9-f663135fa836 2
+
+* Montage Hutschienenmoped (Einführung und Löten): https://notebooklm.google.com/notebook/148edf72-37ea-4070-8bed-62b202a2daad 3
+
+* Grundlagen und Verknüpfungen der Digitaltechnik: https://notebooklm.google.com/notebook/80002b86-13fe-4afc-8479-56667abeb18e 4
+
+* CPU / Mikroprozessor Grundlagen: https://notebooklm.google.com/notebook/d713f107-c0c5-4694-8f3a-86da920095cb 5
+
+* Leiterplatten Entwurf: https://notebooklm.google.com/notebook/4cd4a61e-1b89-47d9-b0c2-03d819c7c629 6
+
+* Taktile Schalter (Würth Elektronik): https://notebooklm.google.com/notebook/f5ff7c06-99cf-4b2d-bbf6-bb2c510dbea6 7
+
+* Kontakt-Entprellschaltung für Taster: https://notebooklm.google.com/notebook/6d8f93c4-c2f9-4c80-8b88-e798be5351da 8
+
+* ESP-IoT-Lösung (Taster-Treiber): https://notebooklm.google.com/notebook/14313ad8-e034-4932-97ea-aaaffff20a53 9
+
+* Relais-Typen (Kleinsignal vs. Last): https://notebooklm.google.com/notebook/32d7fd8a-1194-4349-9830-9b587d509e3a 10
+
+* Klemmenleisten Übersicht: https://notebooklm.google.com/notebook/2fb764a2-6818-4d74-8633-38f3ce5e81cd 11
+
+* Datenblatt WR-TBL 7097 Klemmenblock: https://notebooklm.google.com/notebook/8dca03a5-da20-4b09-99f4-46421ce90077 12
+
+* Derating von Steckverbindern: https://notebooklm.google.com/notebook/1d182618-3af1-4cac-b37a-f39d7b65f3fe 13
+
+* Einschaltstromverhalten von Steckverbindern: https://notebooklm.google.com/notebook/527713e4-7ac3-46ea-9273-21ac09a0812d 14
+
+* 3M Transfer-Klebeband 468MP: https://notebooklm.google.com/notebook/e84f563b-d6d5-47c5-8db2-c3df74a934ee 15
+
+* 3M Doppelseitiges Klebeband 93020LE: https://notebooklm.google.com/notebook/d14c7b68-a9dc-4006-9950-25c5fffed702 16
+
+
+
+Aus den Dateien "Normungsorganisationen" (.pdf/.pptx) und "Harmonisierte Normen Präsentation" 171717171717171717:
+
+
+   * https://notebooklm.google.com/notebook/9f10342a-5502-4bc6-a041-d728fce508e5 (Thema: Harmonisierte Normen / Einführung in die europäische Normung) 18181818
+
+   * https://notebooklm.google.com/notebook/555cd42e-86bc-4542-929d-63224b8bb9e6 19
+
+   * https://notebooklm.google.com/notebook/2aad5c97-3c0f-4608-b48c-3251bb41150a 20
