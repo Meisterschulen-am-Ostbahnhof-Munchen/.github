@@ -16,6 +16,7 @@ sphinxext.opengraph
 sphinx_pyscript
 sphinx_tippy
 sphinx-markdown-tables
+snowballstemmer
 
 hawkmoth
 sphinxcontrib.autoprogram
