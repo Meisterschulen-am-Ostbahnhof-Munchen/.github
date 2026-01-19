@@ -6,7 +6,7 @@ docutils
 sphinxcontrib-serializinghtml
 myst_parser
 sphinx-rtd-theme
-sphinx
+sphinx<8.0
 sphinxcontrib-websupport
 sphinx_design
 sphinxext.rediraffe
