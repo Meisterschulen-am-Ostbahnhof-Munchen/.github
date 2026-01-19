@@ -10,9 +10,11 @@ project = "Wiki der Meisterschulen am Ostbahnhof München (0)"
 copyright = "2022-2025, Meisterschulen am Ostbahnhof - München"
 author = "Franz Höpfinger"
 
-
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
+
+language = "de"
+html_search_language = "de"
 
 extensions = [
     "myst_parser",
