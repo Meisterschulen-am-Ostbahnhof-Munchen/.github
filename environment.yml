@@ -11,7 +11,7 @@ dependencies:
   - sphinxcontrib-mermaid
   - sphinxext-opengraph
   - jinja2
-  - requests
+  - requests>=2.32.0
   - docutils
   - snowballstemmer
   - setuptools>=78.1.1
@@ -20,6 +20,7 @@ dependencies:
   - pip:
     - linkify
     - rtd
+    - sphinx-rtd-size
     - sphinxcontrib-serializinghtml
     - sphinxcontrib-websupport
     - sphinxext.rediraffe
@@ -27,7 +28,4 @@ dependencies:
     - sphinx_pyscript
     - sphinx_tippy
     - sphinx-markdown-tables
-    - hawkmoth
-    - sphinxcontrib-autoprogram
-    - sphinx_c_autodoc
     - zipp>=3.19.1
