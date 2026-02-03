@@ -19,6 +19,7 @@ html_search_language = "de"
 extensions = [
     "myst_parser",
     "sphinxcontrib.googleanalytics",
+    "sphinxemoji.sphinxemoji",
 ]
 
 version = "0.0.2"

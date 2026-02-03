@@ -28,4 +28,6 @@ dependencies:
     - sphinx_pyscript
     - sphinx_tippy
     - sphinx-markdown-tables
+    - sphinxemoji
+    - hawkmoth
     - zipp>=3.19.1
