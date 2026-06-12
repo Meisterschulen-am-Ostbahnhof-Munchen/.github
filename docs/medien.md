@@ -2,12 +2,9 @@
 
 Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am Ostbahnhof München.
 
-```{index} single: Medien-Bibliothek
-```
-```{index} single: Podcasts
-```
-```{index} single: YouTube-Videos
-```
+
+
+
 
 ## 🎧 Podcasts
 

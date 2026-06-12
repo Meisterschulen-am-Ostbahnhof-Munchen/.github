@@ -9,15 +9,11 @@ myst:
 ---
 
 
-```{image} _static/logos/Meisterschulen_LogoG1_4c.gif
-:alt: Logo Meisterschulen am Ostbahnhof
-:width: 400px
-```
+<img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
 
 # Wiki 0: Haupt-Wiki
 
-```{index} single: Wiki 0: Haupt-Wiki
-```
+
 
 
 
@@ -60,8 +56,6 @@ Hier finden Sie den direkten Zugang zu den spezialisierten Dokumentationsbereich
 
 
 
-### Index & Suche
-* {ref}`genindex`
-* {ref}`search`
+
 
 [🏠 Hauptmenü](https://www.ms-muc-docs.de/) | [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) | [Schnelle Suche (IEC 61499)](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)
