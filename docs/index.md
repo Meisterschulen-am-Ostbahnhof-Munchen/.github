@@ -19,15 +19,7 @@ myst:
 ```{index} single: Wiki 0: Haupt-Wiki
 ```
 
-```{toctree}
-:maxdepth: 1
-:caption: 'Inhalt:'
-:maxdepth: 7
-:numbered: true
 
-Home <self>
-medien
-```
 
 ## Meisterschulen am Ostbahnhof, München
 
@@ -66,13 +58,7 @@ Hier finden Sie den direkten Zugang zu den spezialisierten Dokumentationsbereich
 
 ---
 
-```{toctree}
-:maxdepth: 1
-:caption: 'Index & Suche'
-:maxdepth: 2
-genindex
-search
-```
+
 
 ### Index & Suche
 * {ref}`genindex`
