@@ -151,7 +151,7 @@ def rewrite_content(content, file_src_path, path_to_id, docs_dir):
             dest = f"<{dest}>"
         return f"{prefix}{text}]({dest})"
         
-    content = re.sub(r'(!?\\[)([^\\]]*)\\]\\(([^\\)]*)\\)', replace_url, content) # Note: changed ([^\\)]+) to ([^\\)]*) to allow empty parentheses ()
+    content = re.sub(r'(!?\[)([^]]*)\]\(([^)]*)\)', replace_url, content) # Note: changed ([^)]+) to ([^)]*) to allow empty parentheses ()
     
     # 2. HTML image sources <img src="path" ...> to Markdown image syntax
     def replace_html_img(match):
@@ -192,7 +192,7 @@ def rewrite_content(content, file_src_path, path_to_id, docs_dir):
         return f"![Image]({dest}){width_attr}"
         
     # Match any <img ...> tag
-    content = re.sub(r'<img\\s+[^>]*>', replace_html_img, content)
+    content = re.sub(r'<img\s+[^>]*>', replace_html_img, content)
     
     return content
 
@@ -230,7 +230,7 @@ def shift_headings(markdown_text, shift, page_id):
                 id_suffix = ""
                 if not attached_id:
                     # Strip any existing id if present in the header
-                    title = re.sub(r'\\{#[^}]+\\}', '', title).strip()
+                    title = re.sub(r'\{#[^}]+\}', '', title).strip()
                     id_suffix = f" {{#{page_id}}}"
                     attached_id = True
                     
