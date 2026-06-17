@@ -10,6 +10,8 @@ plugins:
 site_name: Wiki der Meisterschulen am Ostbahnhof München (0)
 site_url: https://docs.ms-muc-docs.de/
 repo_url: https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github
+edit_uri: edit/main/docs/
+view_uri: blob/main/docs/
 theme:
   features:
   - navigation.sections
