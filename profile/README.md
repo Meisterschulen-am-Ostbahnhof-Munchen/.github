@@ -26,6 +26,9 @@ Hier ist eine Übersicht unserer spezialisierten Dokumentationsbereiche:
 | **Wiki 4** | **Visuelle Programmiersprachen**<br>Low-Code Entwicklung. | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
 | **Wiki 5** | **Elektronik-Werkzeuge**<br>Handbuch für Lötkolben und mehr. | [🛠️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |
 
+
+Thanks @timjm25 for being our Sponsor ! 
+
 ---
 
 <div align="center">
