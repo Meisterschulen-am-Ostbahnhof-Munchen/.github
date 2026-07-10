@@ -27,7 +27,7 @@ Hier ist eine Übersicht unserer spezialisierten Dokumentationsbereiche:
 | **Wiki 5** | **Elektronik-Werkzeuge**<br>Handbuch für Lötkolben und mehr. | [🛠️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |
 
 
-Thanks @timjm25 for being our Sponsor ! 
+Thanks [@timjm25](https://github.com/timjm25) for being our Sponsor ! 
 
 ---
 
