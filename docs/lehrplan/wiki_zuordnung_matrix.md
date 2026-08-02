@@ -1,3 +1,7 @@
+> 🌐 **Zentrales Portal der Meisterschulen München:**  
+> Visit the main platform: [**www.ms-muc-docs.de**](https://www.ms-muc-docs.de/) | [📋 Interaktiver Rahmenlehrplan 2025](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan) | [📚 Wiki-Übersicht](https://www.ms-muc-docs.de/wikis) | [📄 PDF-Downloads](https://www.ms-muc-docs.de/wikis/alle-pdfs)
+
+
 # 🗺️ Wiki-Zuordnungsmatrix (Rahmenlehrplan 2025)
 
 > 📌 **Quellennachweis & Rechtsgrundlage:**  

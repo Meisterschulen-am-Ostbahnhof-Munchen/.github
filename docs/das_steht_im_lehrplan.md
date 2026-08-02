@@ -36,7 +36,7 @@ Der Rahmenlehrplan 2025 umfasst **1.190 Unterrichtsstunden (UE/UStd.)**, aufgete
 
 ---
 
-## 🔗 Übersicht & Direktlinks zu den 6 Wikis
+## 🔗 Hauptportal & Direktlinks zu den 6 Wikis
 
 | Wiki | Thema / Beschreibung | Link |
 | :--- | :--- | :---: |
@@ -58,3 +58,9 @@ Der Rahmenlehrplan 2025 umfasst **1.190 Unterrichtsstunden (UE/UStd.)**, aufgete
 | **IEC 61499, Low-Code & 4diac** | Teil I LE 1.4, 2.6 / Teil II LE 1.1 | **Wiki 4** (Visuelle Programmiersprachen) | [🧩 Wiki 4 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
 | **Löttechnik, Crimpen & Werkstattausstattung** | Teil I LE 1.3, 2.2 / Teil II LE 1.2 | **Wiki 5** (Elektronik-Werkzeuge) | [🛠️ Wiki 5 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |
 | **Lehrplan-Gesamtsystematik & Prüfungsordnung** | Übergreifend | **Wiki 0** (Haupt-Wiki) | [📖 Wiki 0 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
+
+
+---
+
+> 🌐 **Zentrales Portal der Meisterschulen München:**  
+> Visit the main platform: [**www.ms-muc-docs.de**](https://www.ms-muc-docs.de/) | [📋 Interaktiver Rahmenlehrplan 2025](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan) | [📚 Wiki-Übersicht](https://www.ms-muc-docs.de/wikis) | [📄 PDF-Downloads](https://www.ms-muc-docs.de/wikis/alle-pdfs)
