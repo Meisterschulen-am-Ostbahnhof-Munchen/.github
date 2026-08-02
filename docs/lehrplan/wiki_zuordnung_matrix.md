@@ -1,7 +1,3 @@
-> 🌐 **Zentrales Portal der Meisterschulen München:**  
-> Visit the main platform: [**www.ms-muc-docs.de**](https://www.ms-muc-docs.de/) | [📋 Interaktiver Rahmenlehrplan 2025](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan) | [📚 Wiki-Übersicht](https://www.ms-muc-docs.de/wikis) | [📄 PDF-Downloads](https://www.ms-muc-docs.de/wikis/alle-pdfs)
-
-
 # 🗺️ Wiki-Zuordnungsmatrix (Rahmenlehrplan 2025)
 
 > 📌 **Quellennachweis & Rechtsgrundlage:**  
@@ -11,55 +7,70 @@
 
 ---
 
+> 🌐 **Zentrales Web-Portal der Meisterschulen München:**  
+> [**www.ms-muc-docs.de**](https://www.ms-muc-docs.de/) | [📋 Interaktiver Rahmenlehrplan 2025](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan) | [📚 Wiki-Übersicht](https://www.ms-muc-docs.de/wikis) | [📄 PDF-Downloads](https://www.ms-muc-docs.de/wikis/alle-pdfs)
+
+---
 
 Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderten technischen Lehrinhalte auf unsere 6 Themen-Wikis.
 
 ---
 
-## 📌 Übersicht der 6 Dokumentations-Wikis
+## 📌 Übersicht der 6 Dokumentations-Wikis (Klickbare Direktlinks)
 
-### Wiki 0: Haupt-Wiki (`.github`)
-- **Fokus:** Gesamtlehrplan, Prüfungsordnung, Medien-Bibliothek, zentrale Suche.
-- **Inhalte:** [`das_steht_im_lehrplan.md`](../das_steht_im_lehrplan.md), Gesamtstruktur.
+### [📖 Wiki 0: Haupt-Wiki (`.github`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
+- **Fokus:** Gesamtlehrplan 2025, Prüfungsordnung (Teil I & II), Medien-Bibliothek, zentrale Suche.
+- **Inhalte:** [`das_steht_im_lehrplan.md`](../das_steht_im_lehrplan.md), [`pruefungsordnung_teil1_teil2.md`](./pruefungsordnung_teil1_teil2.md), Gesamtstruktur.
+- **Direktlink:** 🌐 [**Wiki 0 auf ReadTheDocs öffnen**](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
 
-### Wiki 1: C-Programmierung in ISOBUS (`Install-ISOBUS-Environment-docs`)
-- **Fokus:** C/C++ Entwicklung, Toolchains, C-Libraries für ISO 11783.
+---
+
+### [🚜 Wiki 1: C-Programmierung in ISOBUS (`Install-ISOBUS-Environment-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/)
+- **Fokus:** C/C++ Entwicklung, Toolchains, C-Libraries für ISO 11783, IsoAgLib.
 - **Lehrplan-Bezug:** Teil I LE 1.4 | Teil II LE 1.1 (Systemtechnik & Programmierung).
+- **Direktlink:** 🌐 [**Wiki 1 auf ReadTheDocs öffnen**](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/)
 
-### Wiki 2: ISOBUS Virtual Terminal (`ISOBUS-VT-Objects-docs`) – 🖥️ **Mensch-Maschine-Schnittstelle (HMI)**
+---
+
+### [🖥️ Wiki 2: ISOBUS Virtual Terminal (`ISOBUS-VT-Objects-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) – **Mensch-Maschine-Schnittstelle (HMI)**
 - **Fokus:** ISOBUS Virtual Terminal (UT / VT nach ISO 11783-6), ISO-Designer, VT-Objektpools (Data Mask, SoftKey Mask, Alarm Mask), HMI-Ergonomie, Tasten-Events & Eingabe-Attribute.
 - **Lehrplan-Bezug:** Teil I LE 1.4 (Bedienung & Visualisierung automatisierter Funktionen) | Teil II LE 1.1 (Mensch-Maschine-Schnittstellen & Systemtechnik), LE 1.4 (Planung von Bedienoberflächen & Maskenlayouts).
+- **Direktlink:** 🌐 [**Wiki 2 auf ReadTheDocs öffnen**](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/)
 
+---
 
-### Wiki 3: ISOBUS Technik & Maschinensysteme (`ISOBUS-other-docs`)
-- **Fokus:** Hydraulik, Pneumatik, Motoren, HV-Technik, Getriebe, Maschinensicherheit & CAN-Protokolle (J1939, PGNs).
+### [📡 Wiki 3: ISOBUS Technik & Maschinensysteme (`ISOBUS-other-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/)
+- **Fokus:** Hydraulik, Pneumatik, Motoren (Stage V), HV-Technik (DGUV 209-093), Getriebe, Maschinensicherheit (ISO 25119 AgPL) & CAN-Protokolle (SAE J1939, PGNs).
 - **Lehrplan-Bezug:** Teil I LE 2.3, 2.4, 2.5 | Teil II LE 1.1, 1.3 (Diagnose & Instandsetzung).
+- **Direktlink:** 🌐 [**Wiki 3 auf ReadTheDocs öffnen**](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/)
 
-### Wiki 4: Visuelle Programmiersprachen (`visual-programming-languages-docs`) – ⭐ **Zentrale Hauptmethode des Lehrplans 2025**
+---
+
+### [🧩 Wiki 4: Visuelle Programmiersprachen (`visual-programming-languages-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) – ⭐ **Zentrale Hauptmethode des Lehrplans 2025**
 - **Fokus:** IEC 61499, Eclipse 4diac IDE, Low-Code, ereignisgesteuerte Bausteinnetze, ESP32 DualCAN Steuerung.
 - **Lehrplan-Bezug:** Teil I LE 1.4 (Automatisierte Funktionen), LE 2.6 (Autonome Systeme) | Teil II LE 1.1 (Systemtechnik & Programmiermethodik), LE 1.3 (Diagnose in Bausteinnetzen).
 - **Zentrale Rolle:** Der Rahmenlehrplan 2025 fordert grafisch-visuelle Modellierung statt reiner Text-Code-Schreibung für vernetzte Automatisierung und Autonomie.
+- **Direktlink:** 🌐 [**Wiki 4 auf ReadTheDocs öffnen**](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/)
 
+---
 
-### Wiki 5: Werkzeug- & Messmittel-Handbuch (`werkzeug-docs`) – 🛠️ **Werkstattausrüstung & Diagnosewerkzeuge**
+### [🛠️ Wiki 5: Werkzeug- & Messmittel-Handbuch (`werkzeug-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) – **Werkstattausrüstung & Diagnosewerkzeuge**
 - **Fokus (Alle 3 Werkzeug-Kategorien):**
   1. **Mess- & Diagnosewerkzeuge (Analysierend):** Oszilloskope, Multimeter, CAN-Tester (PEAK, Busmaster, AEF-Check), digitale Mikroskope zur Lötstellen- & Crimp-Inspektion.
   2. **Produzierende Werkzeuge (Verarbeitend):** Löttechnik (SMD/THT, Hotair, Hotplates, JBC/Aixun/Ersa), Crimptechnik (Deutsch-Stecker, AMP, Hydraulikcrimpen).
   3. **Werkstattinfrastruktur (Versorgend):** Labornetzteile, Solder Paste Dispenser, ESD-Schutzplätze.
 - **Lehrplan-Bezug:** Teil I LE 1.3 (Kabelbaumfertigung & Einbau), LE 2.1 & 2.2 (Fehlerdiagnose & Platinenreparatur) | Teil II LE 1.2 (Werkstattorganisation & Qualitätssicherung), LE 1.3 (Diagnose- & Messsysteme).
-
-
-
+- **Direktlink:** 🌐 [**Wiki 5 auf ReadTheDocs öffnen**](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/)
 
 ---
 
-## 🔗 Übersicht & Direktlinks zu den 6 Wikis
+## 🔗 Übersicht, Hauptportal & Direktlinks zu allen 6 Wikis
 
-| Wiki | Thema / Beschreibung | Link |
+| Wiki | Thema / Beschreibung | Link auf ReadTheDocs |
 | :--- | :--- | :---: |
 | **Wiki 0** | **Wiki der Meisterschulen**<br>Allgemeine Informationen, Lehrplan 2025 & Haupt-Wiki. | [📖 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
 | **Wiki 1** | **C-Programmierung in ISOBUS**<br>Grundlagen der C-Programmierung und ISOBUS-Umgebung. | [🚜 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/) |
-| **Wiki 2** | **ISOBUS Virtual Terminal**<br>Benutzeroberflächen, ISO-Designer & VT-Objekte. | [🖥️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) |
+| **Wiki 2** | **ISOBUS Virtual Terminal (VT)**<br>Benutzeroberflächen, ISO-Designer, VT-Objektpools & HMI. | [🖥️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) |
 | **Wiki 3** | **ISOBUS Technik & Maschinensysteme**<br>Hydraulik, Pneumatik, Motoren, HV-Technik, Getriebe & Maschinensicherheit. | [📡 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) |
 | **Wiki 4** | **Visuelle Programmiersprachen**<br>Low-Code Entwicklung, IEC 61499 & 4diac IDE (Lehrplan-Hauptthema). | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
 | **Wiki 5** | **Elektronik-Werkzeuge & Messgeräte**<br>Handbuch für Crimptechnik, Lötstationen, Oszilloskope & Mikroskope. | [🛠️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |
