@@ -31,12 +31,14 @@ myst:
 
 Diese Seite ist Ihr zentraler Anlaufpunkt („Super-Suche“). Eine Suche hier im Haupt-Wiki durchsucht automatisch alle unten aufgeführten Wikis gleichzeitig. Finden Sie Anleitungen, technische Grundlagen und Lehrmaterialien schnell und effizient.
 
-**Nützliche Links:**
+**Nützliche Links & Hauptportal:**
+* 🌐 [**Hauptportal Meisterschulen München**](https://www.ms-muc-docs.de/)
+* 🌐 [**Seiten-Übersicht des Hauptportals (140 Portal-Seiten)**](./portal_seiten_uebersicht.md)
 * 📋 **[Das steht im Lehrplan (Lehrplan 2025)](./das_steht_im_lehrplan.md)**
-* [🏠 Hauptmenü](https://www.ms-muc-docs.de/)
 * [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
 * [🎙️ Medien-Bibliothek (Videos & Podcasts)](medien.md)
 * [📄 PDF-Handbuch herunterladen](https://meisterschulen-am-ostbahnhof-munchen.github.io/.github/pdf/meisterschulen-wiki.pdf)
+
 
 ---
 
