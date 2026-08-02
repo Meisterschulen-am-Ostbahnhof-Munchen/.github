@@ -36,7 +36,11 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 - **Zentrale Rolle:** Der Rahmenlehrplan 2025 fordert grafisch-visuelle Modellierung statt reiner Text-Code-Schreibung für vernetzte Automatisierung und Autonomie.
 
 
-### Wiki 5: Elektronik-Werkzeuge (`werkzeug-docs`) – 🛠️ **Praktisch-handwerkliche Meisterfertigkeiten**
-- **Fokus:** Crimptechnik (Deutsch-Stecker, AMP, Hydraulik-Crimpen), Löttechnik & Platinen-Bestückung (SMD/THT, Hotair, Hotplate, JBC/Aixun/Ersa), Messgeräte (Oszilloskop, Labornetzteile) & Werkstattausstattung.
-- **Lehrplan-Bezug:** Teil I LE 1.3 (Praktischer Einbau & Kabelbaumfertigung), LE 2.2 (Reparatur von Steckkontakten/Platinen) | Teil II LE 1.2 (Werkstattausstattung & Crimp-/Löt-Qualitätssicherung), LE 1.3 (Diagnose-Messgeräte).
+### Wiki 5: Werkzeug- & Messmittel-Handbuch (`werkzeug-docs`) – 🛠️ **Werkstattausrüstung & Diagnosewerkzeuge**
+- **Fokus (Alle 3 Werkzeug-Kategorien):**
+  1. **Mess- & Diagnosewerkzeuge (Analysierend):** Oszilloskope, Multimeter, CAN-Tester (PEAK, Busmaster, AEF-Check), digitale Mikroskope zur Lötstellen- & Crimp-Inspektion.
+  2. **Produzierende Werkzeuge (Verarbeitend):** Löttechnik (SMD/THT, Hotair, Hotplates, JBC/Aixun/Ersa), Crimptechnik (Deutsch-Stecker, AMP, Hydraulikcrimpen).
+  3. **Werkstattinfrastruktur (Versorgend):** Labornetzteile, Solder Paste Dispenser, ESD-Schutzplätze.
+- **Lehrplan-Bezug:** Teil I LE 1.3 (Kabelbaumfertigung & Einbau), LE 2.1 & 2.2 (Fehlerdiagnose & Platinenreparatur) | Teil II LE 1.2 (Werkstattorganisation & Qualitätssicherung), LE 1.3 (Diagnose- & Messsysteme).
+
 
