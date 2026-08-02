@@ -7,30 +7,36 @@
 
 ---
 
-
 **Regelung der Meisterprüfung in den Teilen I und II im Land- und Baumaschinenmechatroniker-Handwerk**
 
 ---
 
 ## Teil I der Meisterprüfung (Fachpraxis)
 
-Der Teil I umfasst folgende Prüfungsleistungen:
+Der Teil I umfasst genau **drei Prüfungsleistungen**:
 
-1. **Meisterprüfungsprojekt (§ 5 MPVO):**
-   - Erstellung einer komplexen Projektplanung, Installation, Konfiguration oder Diagnose an einer Land- oder Baumaschine.
-   - Gewichtung: Durchführungsarbeiten (50 %), Planungsunterlagen (25 %), Dokumentation & Kontrolle (25 %).
+### 1. Meisterprüfungsprojekt (§ 5 MPVO)
+- Erstellung einer komplexen Projektplanung, Installation, Konfiguration oder Diagnose an einer Land- oder Baumaschine.
+- **Gewichtung:** Durchführungsarbeiten (50 %), Planungsunterlagen (25 %), Dokumentation & Kontrolle (25 %).
+- **Systemauswahl:** Für den Kundenauftrag sind 2 Systeme aus den 7 gesetzlichen Systemkategorien auszuwählen (1–4: Elektrohydraulik, Elektropneumatik, Mechanik, Mechatronik; 5–7: Antrieb, Vernetzung, Autonomie).
 
-2. **Fachgespräch (§ 6 MPVO):**
-   - Max. 30-minütiges Fachgespräch auf Basis des durchgeführten Meisterprüfungsprojekts (Kundenberatung, Vorgehensbegründung, Fehleranalyse).
+### 2. Fachgespräch (§ 6 MPVO)
+- Max. 30-minütiges Fachgespräch auf Basis des durchgeführten Meisterprüfungsprojekts (Kundenberatung, Vorgehensbegründung, Fehleranalyse).
 
-3. **Situationsaufgabe (§ 7 MPVO):**
-   - Praktische Diagnose- und Instandsetzungsaufgabe an vernetzten mechatronischen Systemen (Dauer: ca. 6 bis 8 Stunden).
+### 3. Situationsaufgabe (§ 7 MPVO)
+- Praktische Diagnose- und Instandsetzungsaufgabe an vernetzten mechatronischen Systemen (Dauer: ca. 6 bis 8 Stunden).
 
 ---
 
 ## Teil II der Meisterprüfung (Fachtheorie)
 
-Der Teil II wird in drei schriftlichen Prüfungsbereichen geprüft:
-1. **Handlungsfeld 1:** Anforderungen von Kunden analysieren, Lösungen erarbeiten & anbieten (Fallstudie).
-2. **Handlungsfeld 2:** Leistungen eines Betriebs erbringen, kontrollieren & übergeben.
-3. **Handlungsfeld 3:** Einen Betrieb führen und organisieren (Kaufmännisch/Rechtlich).
+Der Teil II wird in **drei schriftlichen Prüfungsbereichen** geprüft:
+
+### 1. Handlungsfeld 1
+Anforderungen von Kunden analysieren, Lösungen erarbeiten & anbieten (Fallstudie / Fachtheorie).
+
+### 2. Handlungsfeld 2
+Leistungen eines Betriebs erbringen, kontrollieren & übergeben.
+
+### 3. Handlungsfeld 3
+Einen Betrieb im Land- und Baumaschinenmechatroniker-Handwerk führen und organisieren (Kaufmännisch/Rechtlich).
