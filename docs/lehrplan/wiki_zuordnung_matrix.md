@@ -30,9 +30,11 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 - **Fokus:** Hydraulik, Pneumatik, Motoren, HV-Technik, Getriebe, Maschinensicherheit & CAN-Protokolle (J1939, PGNs).
 - **Lehrplan-Bezug:** Teil I LE 2.3, 2.4, 2.5 | Teil II LE 1.1, 1.3 (Diagnose & Instandsetzung).
 
-### Wiki 4: Visuelle Programmiersprachen (`visual-programming-languages-docs`)
-- **Fokus:** IEC 61499, Eclipse 4diac IDE, Low-Code, ESP32 DualCAN Steuerung.
-- **Lehrplan-Bezug:** Teil I LE 1.4, 2.6 | Teil II LE 1.1 (Automatisierung & Autonomie).
+### Wiki 4: Visuelle Programmiersprachen (`visual-programming-languages-docs`) – ⭐ **Zentrale Hauptmethode des Lehrplans 2025**
+- **Fokus:** IEC 61499, Eclipse 4diac IDE, Low-Code, ereignisgesteuerte Bausteinnetze, ESP32 DualCAN Steuerung.
+- **Lehrplan-Bezug:** Teil I LE 1.4 (Automatisierte Funktionen), LE 2.6 (Autonome Systeme) | Teil II LE 1.1 (Systemtechnik & Programmiermethodik), LE 1.3 (Diagnose in Bausteinnetzen).
+- **Zentrale Rolle:** Der Rahmenlehrplan 2025 fordert grafisch-visuelle Modellierung statt reiner Text-Code-Schreibung für vernetzte Automatisierung und Autonomie.
+
 
 ### Wiki 5: Elektronik-Werkzeuge (`werkzeug-docs`)
 - **Fokus:** Werkstattausstattung, Löttechnik (Aixun/JBC/Ersa), Crimpwerkzeuge, Oszilloskope, Messgeräte.
