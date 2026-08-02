@@ -36,6 +36,7 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 - **Zentrale Rolle:** Der Rahmenlehrplan 2025 fordert grafisch-visuelle Modellierung statt reiner Text-Code-Schreibung für vernetzte Automatisierung und Autonomie.
 
 
-### Wiki 5: Elektronik-Werkzeuge (`werkzeug-docs`)
-- **Fokus:** Werkstattausstattung, Löttechnik (Aixun/JBC/Ersa), Crimpwerkzeuge, Oszilloskope, Messgeräte.
-- **Lehrplan-Bezug:** Teil I LE 1.3, 2.2 | Teil II LE 1.2 (Instandhaltung & Werkzeuge).
+### Wiki 5: Elektronik-Werkzeuge (`werkzeug-docs`) – 🛠️ **Praktisch-handwerkliche Meisterfertigkeiten**
+- **Fokus:** Crimptechnik (Deutsch-Stecker, AMP, Hydraulik-Crimpen), Löttechnik & Platinen-Bestückung (SMD/THT, Hotair, Hotplate, JBC/Aixun/Ersa), Messgeräte (Oszilloskop, Labornetzteile) & Werkstattausstattung.
+- **Lehrplan-Bezug:** Teil I LE 1.3 (Praktischer Einbau & Kabelbaumfertigung), LE 2.2 (Reparatur von Steckkontakten/Platinen) | Teil II LE 1.2 (Werkstattausstattung & Crimp-/Löt-Qualitätssicherung), LE 1.3 (Diagnose-Messgeräte).
+
