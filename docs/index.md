@@ -11,13 +11,19 @@ myst:
 
 <img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
 
-# Wiki 0: Haupt-Wiki
-
-
-
-
+# Wiki 0: Haupt-Wiki der Meisterschulen
 
 ## Meisterschulen am Ostbahnhof, München
+
+---
+
+### 📋 [Das steht im Lehrplan (Rahmenlehrplan 2025)](./das_steht_im_lehrplan.md)
+> **Zentraler Lehrplan-Hub:** Alle technischen und fachlichen Anforderungen der neuen Meisterprüfungsverordnung 2025 (LandBauMechMstrV vom 09.09.2024, in Kraft ab 01.08.2025) sowie die Wiki-Zuordnungsmatrix.
+
+* 📋 **[Das steht im Lehrplan – Gesamtsystematik & Technik-Mapping](./das_steht_im_lehrplan.md)**
+  * 📖 [Gesamtlehrplan 2025 & Stundenverteilung (380 UE + 810 UStd.)](./lehrplan/gesamtlehrplan_uebersicht_2025.md)
+  * 🗺️ [Wiki-Zuordnungsmatrix (Wo finde ich welches Thema?)](./lehrplan/wiki_zuordnung_matrix.md)
+  * 📝 [Prüfungsstruktur & Anforderungen (Teil I & Teil II)](./lehrplan/pruefungsordnung_teil1_teil2.md)
 
 ---
 
@@ -26,6 +32,7 @@ myst:
 Diese Seite ist Ihr zentraler Anlaufpunkt („Super-Suche“). Eine Suche hier im Haupt-Wiki durchsucht automatisch alle unten aufgeführten Wikis gleichzeitig. Finden Sie Anleitungen, technische Grundlagen und Lehrmaterialien schnell und effizient.
 
 **Nützliche Links:**
+* 📋 **[Das steht im Lehrplan (Lehrplan 2025)](./das_steht_im_lehrplan.md)**
 * [🏠 Hauptmenü](https://www.ms-muc-docs.de/)
 * [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
 * [🎙️ Medien-Bibliothek (Videos & Podcasts)](medien.md)
@@ -39,12 +46,13 @@ Hier finden Sie den direkten Zugang zu den spezialisierten Dokumentationsbereich
 
 | Wiki | Bereich / Thema | Link |
 | :--- | :--- | :---: |
-| **Wiki 0** | **Haupt-Wiki der Meisterschulen**<br>Allgemeine Informationen, Anleitungen und Ressourcen. | [📖 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
+| **Wiki 0** | **Haupt-Wiki der Meisterschulen**<br>Allgemeine Informationen, Lehrplan 2025 & Ressourcen. | [📖 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
 | **Wiki 1** | **C-Programmierung in ISOBUS**<br>Grundlagen der C-Programmierung und Einrichtung der Umgebung. | [🚜 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/) |
 | **Wiki 2** | **ISOBUS Virtual Terminal**<br>Detaillierte Dokumentation zu Benutzeroberflächen und Objekten. | [🖥️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) |
-| **Wiki 3** | **ISOBUS Technik**<br>Technische Grundlagen, Kommunikation und Protokolle. | [📡 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) |
-| **Wiki 4** | **Visuelle Programmiersprachen**<br>Einführung und Handbuch zu Low-Code Entwicklungsumgebungen. | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
+| **Wiki 3** | **ISOBUS Technik & Maschinensysteme**<br>Hydraulik, Pneumatik, Motoren, HV-Technik, Getriebe & Maschinensicherheit. | [📡 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) |
+| **Wiki 4** | **Visuelle Programmiersprachen**<br>Einführung und Handbuch zu Low-Code Entwicklungsumgebungen (4diac). | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
 | **Wiki 5** | **Elektronik-Werkzeuge**<br>Handbuch für Löttechnik, Messgeräte und Werkstatt-Ausstattung. | [🛠️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |
+
 
 ---
 
