@@ -22,9 +22,10 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 - **Fokus:** C/C++ Entwicklung, Toolchains, C-Libraries für ISO 11783.
 - **Lehrplan-Bezug:** Teil I LE 1.4 | Teil II LE 1.1 (Systemtechnik & Programmierung).
 
-### Wiki 2: ISOBUS Virtual Terminal (`ISOBUS-VT-Objects-docs`)
-- **Fokus:** VT-Objektpools, ISO-Designer, Maskenlayout, Softkeys.
-- **Lehrplan-Bezug:** Teil I LE 1.4 | Teil II LE 1.1 & 1.4 (Bedienkonzepte & Zeichnungen).
+### Wiki 2: ISOBUS Virtual Terminal (`ISOBUS-VT-Objects-docs`) – 🖥️ **Mensch-Maschine-Schnittstelle (HMI)**
+- **Fokus:** ISOBUS Virtual Terminal (UT / VT nach ISO 11783-6), ISO-Designer, VT-Objektpools (Data Mask, SoftKey Mask, Alarm Mask), HMI-Ergonomie, Tasten-Events & Eingabe-Attribute.
+- **Lehrplan-Bezug:** Teil I LE 1.4 (Bedienung & Visualisierung automatisierter Funktionen) | Teil II LE 1.1 (Mensch-Maschine-Schnittstellen & Systemtechnik), LE 1.4 (Planung von Bedienoberflächen & Maskenlayouts).
+
 
 ### Wiki 3: ISOBUS Technik & Maschinensysteme (`ISOBUS-other-docs`)
 - **Fokus:** Hydraulik, Pneumatik, Motoren, HV-Technik, Getriebe, Maschinensicherheit & CAN-Protokolle (J1939, PGNs).
