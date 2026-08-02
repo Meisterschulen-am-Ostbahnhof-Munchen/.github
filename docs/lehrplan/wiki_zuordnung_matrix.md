@@ -44,3 +44,17 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 - **Lehrplan-Bezug:** Teil I LE 1.3 (Kabelbaumfertigung & Einbau), LE 2.1 & 2.2 (Fehlerdiagnose & Platinenreparatur) | Teil II LE 1.2 (Werkstattorganisation & Qualitätssicherung), LE 1.3 (Diagnose- & Messsysteme).
 
 
+
+
+---
+
+## 🔗 Übersicht & Direktlinks zu den 6 Wikis
+
+| Wiki | Thema / Beschreibung | Link |
+| :--- | :--- | :---: |
+| **Wiki 0** | **Wiki der Meisterschulen**<br>Allgemeine Informationen, Lehrplan 2025 & Haupt-Wiki. | [📖 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
+| **Wiki 1** | **C-Programmierung in ISOBUS**<br>Grundlagen der C-Programmierung und ISOBUS-Umgebung. | [🚜 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/) |
+| **Wiki 2** | **ISOBUS Virtual Terminal**<br>Benutzeroberflächen, ISO-Designer & VT-Objekte. | [🖥️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) |
+| **Wiki 3** | **ISOBUS Technik & Maschinensysteme**<br>Hydraulik, Pneumatik, Motoren, HV-Technik, Getriebe & Maschinensicherheit. | [📡 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) |
+| **Wiki 4** | **Visuelle Programmiersprachen**<br>Low-Code Entwicklung, IEC 61499 & 4diac IDE (Lehrplan-Hauptthema). | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
+| **Wiki 5** | **Elektronik-Werkzeuge & Messgeräte**<br>Handbuch für Crimptechnik, Lötstationen, Oszilloskope & Mikroskope. | [🛠️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |

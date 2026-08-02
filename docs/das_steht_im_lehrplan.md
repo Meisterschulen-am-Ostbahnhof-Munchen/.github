@@ -36,6 +36,18 @@ Der Rahmenlehrplan 2025 umfasst **1.190 Unterrichtsstunden (UE/UStd.)**, aufgete
 
 ---
 
+## 🔗 Übersicht & Direktlinks zu den 6 Wikis
+
+| Wiki | Thema / Beschreibung | Link |
+| :--- | :--- | :---: |
+| **Wiki 0** | **Wiki der Meisterschulen**<br>Allgemeine Informationen, Lehrplan 2025 & Haupt-Wiki. | [📖 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
+| **Wiki 1** | **C-Programmierung in ISOBUS**<br>Grundlagen der C-Programmierung und ISOBUS-Umgebung. | [🚜 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/) |
+| **Wiki 2** | **ISOBUS Virtual Terminal**<br>Benutzeroberflächen, ISO-Designer & VT-Objekte. | [🖥️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) |
+| **Wiki 3** | **ISOBUS Technik & Maschinensysteme**<br>Hydraulik, Pneumatik, Motoren, HV-Technik, Getriebe & Maschinensicherheit. | [📡 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) |
+| **Wiki 4** | **Visuelle Programmiersprachen**<br>Low-Code Entwicklung, IEC 61499 & 4diac IDE (Lehrplan-Hauptthema). | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
+| **Wiki 5** | **Elektronik-Werkzeuge & Messgeräte**<br>Handbuch für Crimptechnik, Lötstationen, Oszilloskope & Mikroskope. | [🛠️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |
+
+
 ## 🧭 Matrix-Übersicht: Welches Lehrplanthema steht in welchem Wiki?
 
 | Lehrgebiet / Thema | Betroffene Lerneinheiten | Wiki-Zuordnung | Direktlink |
