@@ -2,7 +2,7 @@
 > 📌 **Zentrales Webseiten-Verzeichnis:** Vollständige Übersicht aller auf dem Hauptportal [www.ms-muc-docs.de](https://www.ms-muc-docs.de/) verfügbaren Webseiten, Lehrinhalte, Infografiken und interaktiven Tools.
 ---
 
-**Gesamtzahl der erfassten Portal-Seiten:** `172 Seiten`
+**Gesamtzahl der erfassten Portal-Seiten:** `173 Seiten`
 
 ---
 
@@ -297,6 +297,8 @@ Lötspitzen
 Aktive Lötspitzen bieten in der Regel eine höhere Leistung und bessere Temperaturstabilität an der Lötstelle, was das Arbeiten schneller ...
 * [Mess- und Prüftechnik in der Werkstatt](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/messtechnik/mess-und-prüftechnik-in-der-werkstatt/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
+* [Sichtprüfung von Crimpverbindungen](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/crimptechnik/sichtpruefung-von-crimpverbindungen/)
+  > Kompakte Übersicht zur Qualitätssicherung und Sichtprüfung offener Crimpverbindungen nach Prüfpostern von Kabelforum.com.
 * [Web-App: Lötspitzen für Profis](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/web-app-lötspitzen-für-profis/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 
