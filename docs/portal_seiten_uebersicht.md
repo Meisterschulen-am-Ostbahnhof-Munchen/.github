@@ -2,7 +2,7 @@
 > 📌 **Zentrales Webseiten-Verzeichnis:** Vollständige Übersicht aller auf dem Hauptportal [www.ms-muc-docs.de](https://www.ms-muc-docs.de/) verfügbaren Webseiten, Lehrinhalte, Infografiken und interaktiven Tools.
 ---
 
-**Gesamtzahl der erfassten Portal-Seiten:** `156 Seiten`
+**Gesamtzahl der erfassten Portal-Seiten:** `166 Seiten`
 
 ---
 
@@ -106,10 +106,12 @@
 
 ---
 
-## 🔲 Elektronik & Halbleiter
+## 🔲 Elektronik I: Dioden, LED, BJT, FET & OPV
 * [Bipolarer Transistor](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Diode](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/diode/diode/)
+  > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
+* [ESD-Dioden für CAN und CAN-FD](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/diode/esd-dioden-für-can-und-can-fd/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Elektronik I](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
@@ -125,6 +127,16 @@
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Ideale Diode](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/smart-switch/ideale-diode_1/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
+* [Kontaktprellen und Entprellung](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/schalter-und-taster/kontaktprellen-und-entprellung/)
+  > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
+* [LED mit Konstantstromdiode](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/led/led-mit-konstantstromdiode/)
+  > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
+* [LED — Leuchtdiode](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/led/led-leuchtdiode/)
+  > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
+* [LED-Treiber statt Vorwiderstand](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/led/led-treiber-statt-vorwiderstand/)
+  > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
+* [LED-Vorwiderstand berechnen](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/led/led-vorwiderstand-berechnen/)
+  > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [MOSFETs und Feldeffekttransistoren](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/feldeffektransitor/mosfets-und-feldeffekttransistoren/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Operationsverstärker und Komparatoren](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/operationsverstaerker/operationsverstärker-und-komparatoren/)
@@ -133,9 +145,17 @@
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Relais vs. Smart Switch](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/smart-switch/relais-vs-smart-switch_1/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
+* [Schalter und Taster](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/schalter-und-taster/schalter-und-taster/)
+  > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Smart Switch vs Relais](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/smart-switch/smart-switch-vs-relais/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Spannungswandler - Linearregler vs Schaltregler](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/spannungswandler/spannungswandler-linearregler-vs-schaltregler/)
+  > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
+* [TVS-Dioden](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/diode/tvs-dioden/)
+  > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
+* [Verpolungsschutz](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/verpolschutz/verpolungsschutz/)
+  > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
+* [Verpolungsschutz](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/verpolschutz/verpolungsschutz_1/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 
 ---
