@@ -390,7 +390,6 @@ def process_nav(items, path_to_id, docs_dir, output_file, depth=0):
             
             # Append to output
             output_file.write(f"\n\n<!-- PAGE_START: {src_path} -->\n")
-            output_file.write(f"\n\n```{{=typst}}\n<{page_id}>\n```\n")
             output_file.write(content)
             output_file.write(f"\n<!-- PAGE_END: {src_path} -->\n")
 
