@@ -312,24 +312,22 @@ def shift_headings(markdown_text, shift, page_id):
                 title = match.group(1)
                 
                 # Check if we should attach the target ID to the first heading we see in the file
-                id_suffix = ""
                 if not attached_id:
                     # Strip any existing id if present in the header
                     title = re.sub(r'\{#[^}]+\}', '', title).strip()
-                    id_suffix = f" {{#{page_id}}}"
                     attached_id = True
                     
                 if shift > 0:
                     new_hashes = '#' * (len(hashes) + shift)
-                    line = f"{new_hashes} {title}{id_suffix}"
+                    line = f"{new_hashes} {title}"
                 else:
-                    line = f"{hashes} {title}{id_suffix}"
+                    line = f"{hashes} {title}"
                     
         new_lines.append(line)
         
     # If no heading was found in the file, we prepend a target anchor
     if not attached_id:
-        new_lines.insert(0, f"\n# {page_id.replace('-', ' ').title()} {{#{page_id}}}\n")
+        new_lines.insert(0, f"\n# {page_id.replace('-', ' ').title()}\n")
         
     return '\n'.join(new_lines)
 
@@ -390,6 +388,7 @@ def process_nav(items, path_to_id, docs_dir, output_file, depth=0):
             
             # Append to output
             output_file.write(f"\n\n<!-- PAGE_START: {src_path} -->\n")
+            output_file.write(f"\n\n```{{=typst}}\n<{page_id}>\n```\n")
             output_file.write(content)
             output_file.write(f"\n<!-- PAGE_END: {src_path} -->\n")
 
