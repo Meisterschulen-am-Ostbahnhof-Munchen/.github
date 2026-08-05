@@ -235,7 +235,7 @@ def rewrite_content(content, file_src_path, path_to_id, docs_dir):
             url_part = match.group(5)
             return rewrite_single_link(prefix, text, url_part)
             
-    pattern = r'(?:\[(!\[[^]]*\]\([^)]*\))\]\(([^)]*)\))|(?:(!?\[)([^]]*)\]\(([^)]*)\))'
+    pattern = r'(?:\[(!\[[^]]*\]\((?:[^()]+|\([^()]*\))*\))\]\(((?:[^()]+|\([^()]*\))*)\))|(?:(!?\[)([^]]*)\]\(((?:[^()]+|\([^()]*\))*)\))'
     content = re.sub(pattern, replace_any_link, content)
     
     # 2. HTML image sources <img src="path" ...> to Markdown image syntax
