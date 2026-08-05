@@ -35,9 +35,9 @@ This page is your central hub ("super search"). A search here in the main wiki a
 * 🌐 [**Main Portal Master Schools Munich**](https://www.ms-muc-docs.de/)
 * 🌐 [**Page overview of the main portal (140 portal pages)**](./portal_seiten_uebersicht.md)
 * 📋 **[This is in the curriculum (Curriculum 2025)](./das_steht_im_lehrplan.md)**
-* [🔍 Super search (all wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
+* [🔍 Super search (all wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/en/latest/)
 * [🎙️ Media Library (Videos & Podcasts)](medien.md)
-* [📄 Download PDF manual ](https://meisterschulen-am-ostbahnhof-munchen.github.io/.github/pdf/meisterschulen-wiki.pdf)
+* [📄 Download PDF manual ](https://meisterschulen-am-ostbahnhof-munchen.github.io/.github/en/pdf/meisterschulen-wiki-en.pdf)
 
 
 ---
@@ -48,12 +48,12 @@ Here you will find direct access to the specialized documentation areas:
 
 | Wiki | Section / Topic | Link |
 | :--- | :--- | :---: |
-| **Wiki 0** | **Main Wiki of the Master Schools** <br> General information, Curriculum 2025 & resources. | [📖 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
-| **Wiki 1** | **C Programming in ISOBUS** <br> Fundamentals of C programming and setting up the environment. | [🚜 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/) |
-| **Wiki 2** | **ISOBUS Virtual Terminal** <br> Detailed documentation on user interfaces and objects. | [🖥️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) |
-| **Wiki 3** | **ISOBUS Technology & Machine Systems** <br>Hydraulics, Pneumatics, Motors, High-Voltage Technology, Gearboxes & Machine Safety. | [📡 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) |
-| **Wiki 4** | **Visual Programming Languages** <br> Introduction and manual to low-code development environments (4diac). | [🧩 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
-| **Wiki 5** | **Electronics Tools** <br> Handbook for soldering techniques, measuring instruments and workshop equipment. | [🛠️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |
+| **Wiki 0** | **Main Wiki of the Master Schools** <br> General information, Curriculum 2025 & resources. | [📖 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/en/latest/) |
+| **Wiki 1** | **C Programming in ISOBUS** <br> Fundamentals of C programming and setting up the environment. | [🚜 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/en/latest/) |
+| **Wiki 2** | **ISOBUS Virtual Terminal** <br> Detailed documentation on user interfaces and objects. | [🖥️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/en/latest/) |
+| **Wiki 3** | **ISOBUS Technology & Machine Systems** <br>Hydraulics, Pneumatics, Motors, High-Voltage Technology, Gearboxes & Machine Safety. | [📡 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/en/latest/) |
+| **Wiki 4** | **Visual Programming Languages** <br> Introduction and manual to low-code development environments (4diac). | [🧩 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/en/latest/) |
+| **Wiki 5** | **Electronics Tools** <br> Handbook for soldering techniques, measuring instruments and workshop equipment. | [🛠️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/) |
 
 
 ---
@@ -69,7 +69,7 @@ Here you will find direct access to the specialized documentation areas:
 
 
 
-[🏠 Main Menu ](https://www.ms-muc-docs.de/) | [🔍 Super Search (All Wikis) ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) | [Quick Search (IEC 61499) ](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)
+[🏠 Main Menu ](https://www.ms-muc-docs.de/) | [🔍 Super Search (All Wikis) ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/en/latest/) | [Quick Search (IEC 61499) ](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)
 
 
 ---

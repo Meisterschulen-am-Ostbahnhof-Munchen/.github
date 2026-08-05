@@ -37,7 +37,7 @@ Diese Seite ist Ihr zentraler Anlaufpunkt („Super-Suche“). Eine Suche hier i
 * 📋 **[Das steht im Lehrplan (Lehrplan 2025)](./das_steht_im_lehrplan.md)**
 * [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
 * [🎙️ Medien-Bibliothek (Videos & Podcasts)](medien.md)
-* [📄 PDF-Handbuch herunterladen](https://meisterschulen-am-ostbahnhof-munchen.github.io/.github/pdf/meisterschulen-wiki.pdf)
+* [📄 PDF-Handbuch herunterladen](https://meisterschulen-am-ostbahnhof-munchen.github.io/.github/de/pdf/meisterschulen-wiki-de.pdf)
 
 
 ---

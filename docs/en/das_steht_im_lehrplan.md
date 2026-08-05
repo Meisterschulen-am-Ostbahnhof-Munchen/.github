@@ -45,24 +45,24 @@ The 2025 curriculum framework comprises **1,190 teaching hours (UE/UStd.)**, div
 
 | Wiki | Topic / Description | Link |
 | :--- | :--- | :---: |
-| **Wiki 0** | **Wiki of the Master Schools** <br> General information, Curriculum 2025 & Main Wiki. | [📖 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
-| **Wiki 1** | **C Programming in ISOBUS** <br> Fundamentals of C programming and the ISOBUS environment. | [🚜 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/) |
-| **Wiki 2** | **ISOBUS Virtual Terminal** User interfaces, ISO Designer & VT objects. | [🖥️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) |
-| **Wiki 3** | **ISOBUS Technology & Machine Systems** <br>Hydraulics, Pneumatics, Motors, High-Voltage Technology, Gearboxes & Machine Safety. | [📡 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) |
-| **Wiki 4** | **Visual Programming Languages** <br>Low-code development, IEC 61499 & 4diac IDE (main curriculum topic). | [🧩 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
-| **Wiki 5** | **Electronic Tools & Measuring Instruments** <br> Handbook for crimping technology, soldering stations, oscilloscopes & microscopes. | [🛠️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |
+| **Wiki 0** | **Wiki of the Master Schools** <br> General information, Curriculum 2025 & Main Wiki. | [📖 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/en/latest/) |
+| **Wiki 1** | **C Programming in ISOBUS** <br> Fundamentals of C programming and the ISOBUS environment. | [🚜 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/en/latest/) |
+| **Wiki 2** | **ISOBUS Virtual Terminal** User interfaces, ISO Designer & VT objects. | [🖥️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/en/latest/) |
+| **Wiki 3** | **ISOBUS Technology & Machine Systems** <br>Hydraulics, Pneumatics, Motors, High-Voltage Technology, Gearboxes & Machine Safety. | [📡 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/en/latest/) |
+| **Wiki 4** | **Visual Programming Languages** <br>Low-code development, IEC 61499 & 4diac IDE (main curriculum topic). | [🧩 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/en/latest/) |
+| **Wiki 5** | **Electronic Tools & Measuring Instruments** <br> Handbook for crimping technology, soldering stations, oscilloscopes & microscopes. | [🛠️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/) |
 
 
 ## 🧭 Matrix overview: Which curriculum topic is in which wiki?
 
 | Subject area / Topic | Affected learning units | Wiki assignment | Direct link |
 | :--- | :--- | :--- | :--- |
-| **C Programming & ISOBUS Setup** | Part I LE 1.4 / Part II LE 1.1 | **Wiki 1** (C Programming) | [🚜 Open Wiki 1 ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/) |
-| **ISOBUS Virtual Terminal (VT) & Masks** | Part I LE 1.4 / Part II LE 1.1 | **Wiki 2** (ISOBUS VT) | [🖥️ Open Wiki 2 ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) |
-| **Hydraulics, Motors, High Voltage & Machine Safety** | Part I LE 2.3, 2.4, 2.5 / Part II LE 1.1, 1.3 | **Wiki 3** (ISOBUS Technology & Machine Systems) | [📡 Open Wiki 3 ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) |
-| **IEC 61499, Low Code & 4diac** | Part I LE 1.4, 2.6 / Part II LE 1.1 | **Wiki 4** (Visual Programming Languages) | [🧩 Wiki 4 Open](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
-| **Soldering Techniques, Crimping & Workshop Equipment** | Part I LE 1.3, 2.2 / Part II LE 1.2 | **Wiki 5** (Electronics Tools) | [🛠️ Open Wiki 5 ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |
-| **Overall Curriculum Systematics & Examination Regulations** | Comprehensive | **Wiki 0** (Main Wiki) | [📖 Open Wiki 0 ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
+| **C Programming & ISOBUS Setup** | Part I LE 1.4 / Part II LE 1.1 | **Wiki 1** (C Programming) | [🚜 Open Wiki 1 ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/en/latest/) |
+| **ISOBUS Virtual Terminal (VT) & Masks** | Part I LE 1.4 / Part II LE 1.1 | **Wiki 2** (ISOBUS VT) | [🖥️ Open Wiki 2 ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/en/latest/) |
+| **Hydraulics, Motors, High Voltage & Machine Safety** | Part I LE 2.3, 2.4, 2.5 / Part II LE 1.1, 1.3 | **Wiki 3** (ISOBUS Technology & Machine Systems) | [📡 Open Wiki 3 ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/en/latest/) |
+| **IEC 61499, Low Code & 4diac** | Part I LE 1.4, 2.6 / Part II LE 1.1 | **Wiki 4** (Visual Programming Languages) | [🧩 Wiki 4 Open](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/en/latest/) |
+| **Soldering Techniques, Crimping & Workshop Equipment** | Part I LE 1.3, 2.2 / Part II LE 1.2 | **Wiki 5** (Electronics Tools) | [🛠️ Open Wiki 5 ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/) |
+| **Overall Curriculum Systematics & Examination Regulations** | Comprehensive | **Wiki 0** (Main Wiki) | [📖 Open Wiki 0 ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/en/latest/) |
 
 
 ---
