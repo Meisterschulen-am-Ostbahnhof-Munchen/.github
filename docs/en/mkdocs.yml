@@ -20,7 +20,6 @@ extra:
     name: English
 repo_url: https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github
 edit_uri: edit/main/docs/en/
-view_uri: blob/main/docs/en/
 theme:
   features:
   - navigation.sections
