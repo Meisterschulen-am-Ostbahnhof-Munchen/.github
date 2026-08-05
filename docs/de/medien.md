@@ -4,10 +4,7 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 
 
 
-
-
 ## 🎧 Podcasts
-
 ### Eclipse 4diac (DE)
 * [4diac IDE: Dein "Hello World" der Automatisierung – Das Blinking Tutorial Lokal](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Dein-Hello-World-der-Automatisierung--Das-Blinking-Tutorial-Lokal-e36971r)
 * [4diac IDE: Dein Open-Source-Werkzeugkasten für verteilte Industrieautomatisierung nach IEC 61499](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Dein-Open-Source-Werkzeugkasten-fr-verteilte-Industrieautomatisierung-nach-IEC-61499-e36821e)
@@ -2995,6 +2992,7 @@ Für die folgenden Wiki-Themen sind aktuell noch keine dedizierten Videos oder P
 * 🚜 4diac Training: Ventilsteuerung & ISOBUS Automation (coming soon)
 
 ### Wiki 5: Werkzeuge
+
 * Crimpen (coming soon)
 * DWS-200 (coming soon)
 * DeutschCrimpzangensatz (coming soon)
@@ -3116,3 +3114,5 @@ Für die folgenden Wiki-Themen sind aktuell noch keine dedizierten Videos oder P
 * [🌐 ESP32 & ESP32-S3 DevKit auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
 * [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
 * [🌐 Das PWM-Signal & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/automatisierung/das-pwm-signal-die-kunst-spannung-zu-zerhacken/das-pwm-signal-die-kunst-spannung-zu-zerhacken-website/)
+
+

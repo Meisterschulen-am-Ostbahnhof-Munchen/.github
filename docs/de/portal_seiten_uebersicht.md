@@ -21,6 +21,7 @@
   > Lebenslanges selbstgesteuertes Lernen
 
 Lebenslanges selbstgesteuertes Lernen bezeichnet einen kontinuierlichen Lernprozess, bei dem Lernende ihre Ziele, Inha...
+
 * [Infografik: Die zwei Arten der Wahrheit](https://www.ms-muc-docs.de/infos/infografik-die-zwei-arten-der-wahrheit/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Infografik: Kompetenzen](https://www.ms-muc-docs.de/infos/infografik-kompetenzen/)
@@ -445,6 +446,7 @@ https://www.lse.ls...
   > Meisterschulen am Ostbahnhof, München, Landmaschinenmechanik
 Dokumentation, Links, Shortcuts https://www.ms-muc-docs.de/
 Zur Mutterseite: Meisterschulen am O...
+
 * [Wikis](https://www.ms-muc-docs.de/wikis/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 

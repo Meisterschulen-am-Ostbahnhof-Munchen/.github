@@ -1,49 +1,28 @@
 # 🎙️ Media Library
-...
-Here you will find an overview of all videos and podcasts from the master craftsman schools at Munich East Station.
-...
 
+Here you will find an overview of all videos and podcasts from the master craftsman schools at Munich East Station.
 
 
 
 ## 🎧 Podcasts
-
 ### Eclipse 4diac (DE)
-
 * [4diac IDE: Your "Hello World" of Automation – The Blinking Tutorial Local](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Dein-Hello-World-der-Automatisierung--Das-Blinking-Tutorial-Lokal-e36971r)
-
 * [4diac IDE: Your Open-Source Toolkit for Distributed Industrial Automation according to IEC 61499](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Dein-Open-Source-Werkzeugkasten-fr-verteilte-Industrieautomatisierung-nach-IEC-61499-e36821e)
-
 * [4diac IDE: How the IEC 61499 Standard is Revolutionizing Industrial Automation](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Wie-der-IEC-61499-Standard-die-Industrieautomatisierung-revolutioniert-e36756a)
-
 * [4diac Presentation: Target Groups, Structure, and Unique Selling Proposition Sharpening](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-Prsentation-Zielgruppen--Struktur-und-Alleinstellungsmerkmal-Schrfen-e38ckbo)
-
 * [Taming the Software Dragon: Industrial Automation and the Future of Production](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Den-Software-Drachen-zhmen-Industrielle-Automatisierung-und-die-Zukunft-der-Produktion-e372eg1)
-
 * [Eclipse 4diac 3.0: ST Interpreter, FBE, and 7200 Commits – The Turbo for Distributed Automation ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-3-0-ST-Interpreter--FBE-und-7200-Commits--Der-Turbo-fr-verteilte-Automatisierung-e3a5cpl)
-
 * [Eclipse 4diac FORTE: Understanding IEC 61499 – The LEGO® Building Kit for Your Industry 4.0 Control ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-FORTE-IEC-61499-verstehen--Der-LEGO-Baukasten-fr-Ihre-Industrie-4-0-Steuerung-e3682kc)
-
 * [Eclipse 4diac: Your Bicycle for Industry 4.0 – Mastering Software Complexity and Controlling Distributed Systems ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Ihr-Fahrrad-fr-die-Industrie-4-0--Software-Aufwand-meistern-und-verteilte-Systeme-steuern-e368lq9)
-
 * [Eclipse 4diac: Innovation Engine Research vs. User Needs – What Really Drives Development? ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Innovationsmotor-Forschung-vs--Nutzerbedrfnisse--Was-treibt-die-Entwicklung-wirklich-voran-e38cke4)
-
 * [Eclipse 4diac: Open Source as a Game Changer for Industrial Controls? ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Open-Source-als-Game-Changer-fr-industrielle-Steuerungen-e372eru)
-
 * [Eclipse 4diac: Open-Source Automation for Industry and Research According to IEC 61499 ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Open-Source-Automatisierung-fr-Industrie-und-Forschung-nach-IEC-61499-e38b4na)
-
 * [Eclipse 4diac: How Open Source Research and Practice Connect in Industrial Automation ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Wie-Open-Source-Forschung-und-Praxis-in-der-industriellen-Automatisierung-verbindet-e38bhlu)
-
 * [IEC 61499: The Future of Industrial Automation and Distributed Systems ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/IEC-61499-Die-Zukunft-der-industriellen-Automatisierung-und-verteilten-Systeme-e369739)
-
 * [Industry 4.0: The Magic of Self-Configuring Systems with fortiss, IEC 61499, and Eclipse 4diac ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Industrie-4-0-Die-Magie-selbstkonfigurierender-Systeme-mit-fortiss--IEC-61499-und-Eclipse-4diac-e368lv5)
-
 * [Step 2 - Distributing 4diac Applications ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Schritt-2---4diac-Anwendungen-verteilen-e36974b)
-
 * [Taming Software Dragons: Why IEC 61499 Could Revolutionize Industry ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Software-Drachen-zhmen-Warum-IEC-61499-die-Industrie-revolutionieren-knnte-e372ecb)
-
 * [From PLC to Distributed Intelligence: Understanding IEC 61499 for Industry 4.0 ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Von-der-SPS-zur-verteilten-Intelligenz-IEC-61499-fr-Industrie-4-0-verstehen-e36a78o)
-
 
 ### Eclipse 4diac (EN)
 * [Eclipse 4diac and FORTE: Unlocking Next-Gen Industrial Automation with Open-Source Power](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/Eclipse-4diac-and-FORTE-Unlocking-Next-Gen-Industrial-Automation-with-Open-Source-Power-e3682iu)
@@ -55,78 +34,48 @@ Here you will find an overview of all videos and podcasts from the master crafts
 * [The Future of Industrial Control: Decoding IEC 61499](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/The-Future-of-Industrial-Control-Decoding-IEC-61499-e36cjlj)
 
 ### IEC 61499 Basic Course (DE)
-
 * [Automation 4.0: Why Software Is Overtaking Hardware and What That Means for Your Skills]
-
 * [Building Tomorrow's Factories: Bridging OT and IT with IEC 61499]
-
 * [The Secret of the 2-Bit Quadrant: Efficiency in the CAN Bus for Commercial Vehicles]
-
 * [Data Communication in Automation: The Secrets of IEC 61499 Data Types]
-
 * [Data Types of IEC 61499]
-
 * [Decoding IEC 61499: The Industrial Revolution, Reshaping Factories and Careers]
-
 * [The E_CTU in IEC 61499: Event-driven counting and why the minimalist approach is convincing in mechanical engineering
 * The E_CTU block: Event-driven incrementing in industry according to IEC 61499
 * The E_PERMIT block: The "gatekeeper" for events in IEC 61499 systems decoded
 * The E_T_FF in IEC 61499: Modular tilting for Industry 4.0
 * The E_T_FF_SR block: The heart of IEC 61499 – storing, switching, reacting
-
 * The three timers of DIN EN 61131-3 decoded – TP, TON & TOF Explained Precisely
 * [DIN EN 61131-3 vs. 61499-1: Your Guide Through the Standards of Industrial Automation]
 * [DIN EN 61131-3: The Heart of Agricultural and Construction Machinery Mechatronics and the Leap into the Future with Object Orientation]
 * [DIN EN 61499-1 Demystified: Function Blocks, Object Orientation, and Distributed Systems]
 * [DIN EN 61499-1 Decoded: The Blueprint for Modular, Distributed Control Systems]
 * [DIN EN 61499-1: Building Blocks for Industry 4.0 – How Function Blocks Revolutionize Automation] Automation ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Baukltze-fr-die-Industrie-4-0--So-revolutionieren-Funktionsbausteine-die-Automatisierung-e3681j7)
-
 * [DIN EN 61499-1: The digital Lego set for flexible automation and a smart future ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Der-digitale-Lego-Baukasten-fr-flexible-Automatisierung-und-smarte-Zukunft-e3681pb)
-
 * [DIN EN 61499-1: The Lego bricks for flexible and event-driven industrial controls ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Die-Lego-Steine-fr-flexible-und-ereignisgesteuerte-Industriesteuerungen-e3681o1)
-
 * [DIN EN 61499-1: Function blocks and the paradigm shift in industrial software development ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Funktionsbausteine-und-der-Paradigmenwechsel-in-der-industriellen-Softwareentwicklung-e36clps)
-
 * [DIN EN 61499-1: Revolution in control technology – Understanding modular, event-driven systems ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Revolution-in-der-Steuerungstechnik--Modulare--ereignisgesteuerte-Systeme-verstehen-e367nse)
-
 * [DIN EN 61499: Mastering modular and event-based industrial controls with function blocks – The ESR switch in focus ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-Industrielle-Steuerungen-modular-und-ereignisbasiert-mit-Funktionsbausteinen-meistern--Der-ESR-Schalter-im-Fokus-e367nra)
-
 * [E_CTD: Event-driven down counter according to IEC 61499](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_CTD-Ereignisgesteuerter-Abwrtszhler-nach-IEC-61499-e368lli)
-
 * [E_CTUD: Bidirectional counter in IEC 61499 systems](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_CTUD-Bidirektionaler-Zhler-in-IEC-61499-Systemen-e368lmb)
-
 * [E_DELAY in IEC 61499: Precise, cancelable time delay in control systems](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_DELAY-in-IEC-61499-Przise--Abbrechbare-Zeitverzgerung-in-Steuerungssystemen-e3674le)
-
 * [E_REND: Event synchronization in IEC 61499](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_REND-Ereignissynchronisation-in-IEC-61499-e368co9)
-
 * [E_SWITCH: The switch of automation – Why simplicity is revolutionizing IEC 61499](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_SWITCH-Die-Weiche-der-Automatisierung--Warum-Einfachheit-IEC-61499-revolutioniert-e3681fl)
-
 * [E_TOF vs. FB_TOF: The event timer that doesn't tick cyclically – A revolution for automation systems?](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_TOF-vs--FB_TOF-Der-Event-Timer--der-nicht-zyklisch-tickt--Revolution-fr-Automatisierungssysteme-e3673qk)
 
 ]* [E_TON in Industrial Automation: How a Simple Timer Creates Safety and Stability]
 
 * [Event-Based Automation in IEC 61499]
-
 * [Event Handling: The ABCs of Automation and How Systems "Think"]
-
 * [Event-Driven Timers: When Which One Makes Sense on a Fan – ETON, ETOF, ETP & More Explained]
-
 * [Events and IEC 61499: The Starting Signal for Intelligent Systems]
-
 * [ERP Systems: The Digital Brain – Opportunities, Risks, and the Path to Intelligent Production]
-
 * [ETFA 2025: Plug and Produce – How IEC 61499 is Shaping Factory Automation] revolutionized](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/ETFA-2025-Plug-and-Produce--Wie-IEC-61499-die-Fabrikautomation-revolutioniert-e376pnk)
-
 * [EventFBs according to IEC 61499: Lego blocks of automation – How event function blocks work](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/EventFBs-nach-IEC-61499-Legosteine-der-Automatisierung--So-funktionieren-Ereignis-Funktionsbausteine-e375gjm)
-
 * [FB_TOF and E_TOF: Delay timers in IEC 61131-3 and 61499](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/FB_TOF-und-E_TOF-Verzgerungstimer-in-IEC-61131-3-und-61499-e368e2d)
-
 * [Field devices: Eyes, ears, and hands of industrial automation – Why this invisible technology is so crucial](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Feldgerte-Augen--Ohren-und-Hnde-der-industriellen-Automatisierung--Warum-diese-unsichtbare-Technologie-so-entscheidend-ist-e375g6u)
-
 * [Function blocks and instances: Understanding the modular principle for modern agricultural and construction machinery](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Funktionsbausteine-und-Instanzen-Das-Baukastenprinzip-fr-moderne-Land--und-Baumaschinen-verstehen-e37243u)
-
 * [Future Automation Unlocked: Powering "Plug & Produce" and Protecting Your Privacy](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Future-Automation-Unlocked-Powering-Plug--Produce-and-Protecting-Your-Privacy-e376pbc)
-
 * [IEC 61499 vs. 61131: Do we need a new standard for IIoT? Analysis of a heated debate about distributed intelligence
 * [IEC 61499 vs. 61131: Necessary evolution or superfluous complication for the IIoT?]
 * [IEC 61499-1: The functional building block – Lego principle for modern control systems in agricultural and construction machinery]
@@ -134,11 +83,8 @@ Here you will find an overview of all videos and podcasts from the master crafts
 * [IEC 61499: The E_SR block decoded – Simplicity meets event-driven control ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Der-E_SR-Baustein-entschlsselt--Einfachheit-trifft-Ereignissteuerung-e3682bo)
 * [IEC 61499: Factory automation in transition – From vision to industrial reality ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Fabrikautomation-im-Umbruch--Von-der-Vision-zur-industriellen-Realitt-e376pne)
 * [IEC 61499: Revolution of automation – Event-driven systems and intelligent data flows decoded ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-Automatisierung--Ereignisgesteuerte-Systeme-und-intelligente-Datenflsse-entschlsselt-e375ghe)
-
 * [IEC 61499: Revolution of automation – Event-driven FBs and distributed systems explained ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-Automatisierung--Event-gesteuerte-FBs-und-verteilte-Systeme-erklrt-e3671vb)
-
 * [IEC 61499: Revolution of industrial automation – Why the new standard makes your systems fit for the future ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-Industrieautomation--Warum-der-neue-Standard-Ihre-Systeme-fit-fr-die-Zukunft-macht-e375evm)
-
 * [IEC 61499: Revolution of Distributed Automation – Origins, Concepts, and Future Perspectives
 * [IEC 61499: How Modern Automation Wins – Strategies for Greater Reach and Business Impact]
 * [IEC 61499: Leap into Industry – ETFA 2025 and the Future of Automation]
@@ -146,50 +92,28 @@ Here you will find an overview of all videos and podcasts from the master crafts
 * [Industrial Revolution Reloaded: Unpacking Plug & Produce, Data Privacy, and ETFA 2025]
 * [Understanding Industrial Automation: PLC, SCADA, MES, and ERP Decoded – A Journey Through Smart Automation] Factory](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Industrielle-Automation-verstehen-SPS--PLS--SCADA--MES-und-ERP-entschlsselt--Eine-Reise-durch-die-Smart-Factory-e3671qn)
 * [Industrial Automation: The Invisible Forces Behind Your Everyday Life – From Suitcases to the Perfect Apple]
-
 * [Industrial Automation: The Vyatkin Pyramid Decoded – From Sensor to ERP, and Why Connections Are Everything]
-
 * [Industrial Networks: The Nervous System of the Modern Factory – OT, IT & the Future of Automation]
-
 * [Master Knowledge 61499: The Event-Driven Up Counter (E_CTU) – Robust Counting in Agricultural Machinery Controls]
-
 * [MES: The Nervous System of the Modern Factory – Real-Time Manufacturing in Focus]
-
 * [Module 00 - Motivations and Origins]
-
 * [Module 01 - Software for Industrial Automation - a Development](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Modul-01---Software-fr-die-industrielle-Automatisierung---eine-Entwicklung-e3670as)
-
 * Module 01b - Software for Industrial Automation - A Development](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Modul-01b---Software-fr-die-industrielle-Automatisierung---eine-Entwicklung-e3671d4)
-
 * Module 02 - The Ecosystem of Industrial Automation](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Modul-02---Das-kosystem-der-industriellen-Automatisierung-e3670uo)
-
 * Module 03 - The IEC 61499 Standard](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Modul-03---Die-Norm-IEC-61499-e3672gh)
-
 * PLC vs. SCADA: The Nerve Centers of Industry – Security, Efficiency, and Challenges](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/PLS-vs--SCADA-Die-Nervenzentren-der-Industrie--Sicherheit--Effizienz-und-Herausforderungen-e375g37)
-
 * QUARTER](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/QUARTER-e36741d)
-
 * R_TRIG & F_TRIG: One-Time Actions in the Cyclic PLC World of IEC 61131-3](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/R_TRIG--F_TRIG-Einmalige-Aktionen-in-der-zyklischen-SPS-Welt-der-IEC-61131-3-e370ke8)
-
 * R_TRIG & F_TRIG: How PLC Controllers Reliably Detect Signal Edges – Without Double Treatment ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/R_TRIG--F_TRIG-So-erkennen-SPS-Steuerungen-Signalflanken-zuverlssig--ohne-Doppelbehandlung-e370kqh)
-
 * [Revolution of the Factory: How Software is Changing Industrial Automation and Our Everyday Lives ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Revolution-der-Fabrik-Wie-Software-die-Industrielle-Automatisierung-und-unseren-Alltag-verndert-e3671ca)
-
 * [Revolutions of Industry: From Steam Engine to AI – A Deep Look into 250 Years of Automation ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Revolutionen-der-Industrie-Von-Dampfmaschine-bis-KI--Ein-tiefer-Einblick-in-250-Jahre-Automatisierung-e375ei5)
-
 * [SINT, INT, DINT: Why Choosing the Right Data Type Determines Efficiency and Errors ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/SINT--INT--DINT-Warum-die-Wahl-des-Datentyps-ber-Effizienz-und-Fehler-entscheidet-e3673b8)
-
 * [PLC: The Invisible Brain of Industry – From Robust Hardware to IT/OT Convergence ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/SPS-Das-Unsichtbare-Gehirn-der-Industrie--Von-robuster-Hardware-zur-ITOT-Konvergenz-e375g1f)
-
 * [Universal Automation: How to Decouple Software and Hardware for the Future of Industry ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Universal-Automation-So-entkoppeln-Sie-Software-und-Hardware-fr-die-Zukunft-der-Industrie-e36849a)
-
 * [Universe of Data Types as Defined in IEC 61131-3 and IEC 61499 ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Universum-der-Datentypen--wie-sie-in-der-IEC-61131-3-und-IEC-61499-e3673kb)
 * [Unlocking Universal Automation: The IEC 61499 Revolution from Factory Floors to the Seas]
-
 * [From Steam to IoT: The Evolution of Industrial Automation and PLCs]
-
 * [From Clicking Relays to Intelligent Code: How Software Revolutionized Industrial Control]
-
 * [From Watts to Industry 4.0: How Software Became the Heart of the Factory]
 
 *
@@ -206,166 +130,88 @@ Here you will find an overview of all videos and podcasts from the master crafts
 * [Unpacking E_T_FF_SR: The Secret Toggle Switch of Industrial Control Systems](https://podcasters.spotify.com/pod/show/iec-61499-prime-course-en/episodes/Unpacking-E_T_FF_SR-The-Secret-Toggle-Switch-of-Industrial-Control-Systems-e367ntv)
 
 ### ISOBUS VT Objects
-
 * ["Store Version" – Your key to managing object data pools in non-volatile VT memory (ISO 11783-6)
-
 * [The Alarm Mask object: Your standardized sentry for warnings on agricultural machinery
-
 * [The Working Set object: Understanding the brain of the ISOBUS user interface – From standard to practice in ISO Designer
-
 * [ISO 11783-6: Understanding softkeys and the Virtual Terminal – Your key to agricultural machinery mechatronics
-
 * [ISO Designer demystified: Object-oriented thinking for intelligent user interfaces
-
 * [ISOBUS Button: More than just a click – Standardizing the Agricultural Technology ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Button-Mehr-als-nur-ein-Klick--Die-Standardisierung-der-Landtechnik-e3673rb)
-
 * ISOBUS Object Pointer: The Secret of Dynamic Displays and Efficient Fault Diagnosis ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Object-Pointer-Das-Geheimnis-dynamischer-Displays-und-effizienter-Fehlerdiagnose-e36bp75)
-
 * ISOBUS Output Meter: Mastering Dynamic Displays – From Pointer to Visualization on the VT ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Output-Meter-Dynamische-Anzeigen-meistern--vom-Zeiger-bis-zur-Visualisierung-auf-dem-VT-e36t2tp)
-
 * ISOBUS Scaling: When the Tractor Screen Doesn't Fit – An Introduction to ISO 11783-6 ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Skalierung-Wenn-der-Ackerschlepper-Bildschirm-nicht-passt--Eine-Einfhrung-in-ISO-11783-6-e36a8q6)
-
 * ISOBUS Bar Graph: The Output Linear Bar Graph Object of ISO 11783-6 Decoded ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Balkendiagramm-Das-Output-Linear-Bar-Graph-Objekt-der-ISO-11783-6-entschlsselt-e36l0v2)
-
 * ISOBUS User Interfaces: When Buttons and Main Display Scale Differently – ISO 11783-6 Decoded ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Bedienoberflchen-Wenn-Tasten-und-Hauptanzeige-unterschiedlich-skalieren--ISO-11783-6-entschlsselt-e36a8n8)
-
 * ISOBUS Containers: Dynamic Control Panels for Clear Visibility and greater efficiency ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Container-Dynamische-Bedienfelder-fr-klare-Sicht-und-mehr-Effizienz-e36alr9)
-
 * ISOBUS masks in the VT: The heart of agricultural and construction machinery interfaces (ISO 11783-6) ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Masken-im-VT-Das-Herzstck-der-Land--und-Baumaschinen-Interfaces-ISO-11783-6-e36a8m7)
-
 * ISOBUS interfaces: Background color vs. fill attributes – How to optimize your UI and performance ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Oberflchen-Hintergrundfarbe-vs--Fll-Attribute--So-optimieren-Sie-Ihre-UI-und-Performance-e36oo3f)
-
 * ISOBUS terminals: Understanding numbers – NumberVariable, InputNumber & OutputNumber explained ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Terminals-Zahlen-verstehen--NumberVariable--InputNumber--OutputNumber-erklrt-e36aatd)
-
 * ISOBUS: How to add logos to your tractor terminal – The Picture Graphic object explained ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISOBUS-Wie-Logos-auf-euer-Traktor-Terminal-kommen--Das-Picture-Graphic-Objekt-erklrt-e36aagf)
-
 * Unpacking ISO Designer: Crafting intuitive industrial UIs for complex machines ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/Unpacking-ISO-Designer-Crafting-Intuitive-Industrial-UIs-for-Complex-Machines-e3673ph)
-
 * Understanding VT versions: Your path to becoming a master of agricultural and construction machinery Construction machinery mechatronics](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/VT-Versionen-verstehen-Dein-Weg-zum-Meister-der-Land--und-Baumaschinenmechatronik-e36a8e8)
 
-
 ### logiBUS
-
 * [Code Renovation with AX Adapters: How Eclipse 4diac™ Conquers Complexity Through Signal Bundling
-
 * [Content Assist Revealed: The Ingenious Productivity Booster for Your VDC Environment and How It Automatically Corrects Errors
-
 * [Digital Memories: The SR Flip-Flop in the logiBUS® System Explained
-
 * [Digital Technology Decoded: The Secret of the Three-Button SR-T Flip-Flop
-
 * [ESP32 as an Industrial PLC: Revolutionizing Industrial Automation with Eclipse 4diac and logiBUS®
-
 * [ESP32 as PLC: Democratizing Industrial Automation with Eclipse 4diac](https://podcasters.spotify.com/pod/show/logibus/episodes/ESP32-as-PLC-Democratizing-Industrial-Automation-with-Eclipse-4diac-e375e13)
-
 * [ESP32 becomes an industrial PLC for agricultural machinery](https://podcasters.spotify.com/pod/show/logibus/episodes/ESP32-wird-industrielle-SPS-fr-Landmaschinen-e3bf4om)
-
 * [From "Mass Errors" to Masterpiece: Streamlining Industrial Software by Eliminating Mapping](https://podcasters.spotify.com/pod/show/logibus/episodes/From-Mass-Errors-to-Masterpiece-Streamlining-Industrial-Software-by-Eliminating-Mapping-e3759t4)
-
 * [From Cable Chaos to Custom Control: How Logibus is Revolutionizing Agricultural Tech with Accessible ISOBUS](https://podcasters.spotify.com/pod/show/logibus/episodes/From-Cable-Chaos-to-Custom-Control-How-Logibus-is-Revolutionizing-Agricultural-Tech-with-Accessible-ISOBUS-e3767lq)
-
 * [Retrofitting ISOBUS: Cable clutter is a thing of the past – The modular solution for your agricultural technology](https://podcasters.spotify.com/pod/show/logibus/episodes/ISOBUS-nachrsten-Kabelsalat-war-gestern--Die-modulare-Lsung-fr-Ihre-Agrartechnik-e3767p4)
-
 * [Logibus Revolution: Unpacking the "No Mapping" Future and Streamlined Development](https://podcasters.spotify.com/pod/show/logibus/episodes/Logibus-Revolution-Unpacking-the-No-Mapping-Future-and-Streamlined-Development-e375aph)
-
 * [Logibus Unleashed: How Eliminating "Mapping" Simplifies Complex Systems and Boosts Usability](https://podcasters.spotify.com/pod/show/logibus/episodes/Logibus-Unleashed-How-Eliminating-Mapping-Simplifies-Complex-Systems-and-Boosts-Usability-e375a3m)
-
 * [LogiBUS to 4diac 3.0: The Complete Migration Guide – Tips, Pitfalls, and Switching to Index 1](https://podcasters.spotify.com/pod/show/logibus/episodes/LogiBUS-zu-4diac-3-0-Die-Komplette-Migrationsanleitung--Kniffe--Stolpersteine-und-der-Umstieg-auf-Index-1-e3ahcru)
-
 * [logiBUS's No-Mapping Revolution: Untangling Industrial Control and User Experience](https://podcasters.spotify.com/pod/show/logibus/episodes/logiBUSs-No-Mapping-Revolution-Untangling-Industrial-Control-and-User-Experience-e375aa2)
-
 * [logiBUS: ISOBUS Programming Made Easy – The Revolution for Agricultural Technology and SMEs](https://podcasters.spotify.com/pod/show/logibus/episodes/logiBUS-ISOBUS-Programmierung-einfach-gemacht--Die-Revolution-fr-Agrartechnik-und-KMUs-e3674rq)
-
 * [LogiBUS® & IEC 61499: Data and Event Flows Explained Simply – From Switch to Intelligent Control](https://podcasters.spotify.com/pod/show/logibus/episodes/LogiBUS--IEC-61499-Daten--und-Ereignisflsse-einfach-erklrt--Vom-Schalter-zur-intelligenten-Steuerung-e36vldb)
-
 * [logiBUS® Decoded: How Open Source & Standards Are Revolutionizing Agricultural Technology](https://podcasters.spotify.com/pod/show/logibus/episodes/logiBUS-entschlsselt-Wie-Open-Source--Standards-die-Agrartechnik-revolutionieren-e38b4lh)
-
 * [logiBUS® IO: Bye-bye Mapping! What the new system architecture really changes ](https://podcasters.spotify.com/pod/show/logibus/episodes/logiBUS-IO-Bye-bye-Mapping--Was-die-neue-Systemarchitektur-wirklich-ndert-e36vfqs)
-
 * [logiBUS® NEW: Mapping eliminated, sub-apps & direct configuration – What the software really simplifies ](https://podcasters.spotify.com/pod/show/logibus/episodes/logiBUS-NEU-Mapping-Wegfall--Sub-Apps--Direkte-Konfiguration--Was-die-Software-wirklich-vereinfacht-e3759lc)
-
 * [logiBUS® without mapping: Revolution in control technology – Simplification, advantages and conversion of the I/O system ](https://podcasters.spotify.com/pod/show/logibus/episodes/logiBUS-ohne-Mapping-Revolution-in-der-Steuerungstechnik--Vereinfachung--Vorteile-und-Umstellung-des-IO-Systems-e36vg1m)
-
 * [understanding logiBUS®: Direct signal transmission – The "Hello World" of automation ](https://podcasters.spotify.com/pod/show/logibus/episodes/logiBUS-verstehen-Direkte-Signalweiterleitung--Das-Hallo-Welt-der-Automatisierung-e36vlfg)
-
 * [logiBUS®: Revolutionizing agricultural IT – How ISOBUS becomes the smart home for farmers ](https://podcasters.spotify.com/pod/show/logibus/episodes/logiBUS-Revolutioniert-die-Agrar-IT--So-wird-ISOBUS-zum-Smart-Home-fr-Landwirte-e3674sl)
-
 * [logiBUS®: Revolutionizing agricultural mechatronics – ISOBUS simpler, more open, smarter ](https://podcasters.spotify.com/pod/show/logibus/episodes/logiBUS-Revolutioniert-die-Agrarmechatronik--ISOBUS-einfacher--offener--smarter-e38b4kp)
-
 * [Goodbye mapping layer: Leaner logiBUS® projects gestalten](https://podcasters.spotify.com/pod/show/logibus/episodes/Mapping-Schicht-ade-logiBUS-Projekte-schlanker-gestalten-e36vfvc)
-
 * [Understanding Switch Logic: How a Toggle Flip-Flop Works with logiBUS® – Simple Control in Agricultural Technology](https://podcasters.spotify.com/pod/show/logibus/episodes/Schalterlogik-verstehen-So-funktioniert-ein-Toggle-Flip-Flop-mit-logiBUS--einfache-Steuerung-in-der-Landtechnik-e36vjo1)
-
 * [From 1400 Errors to Clean Code: Migrating the "Grain Hoe" to Eclipse 4diac™ 3.0 and the Power of AX Adapters](https://podcasters.spotify.com/pod/show/logibus/episodes/Von-1400-Fehlern-zum-sauberen-Code-Die-Migration-der-Getreidehacke-auf-Eclipse-4diac-3-0-und-die-Macht-der-AX-Adapter-e3ahcko)
 
 ]
 ### MS-MUC LAMA
-
 * [0 and 1: Why the binary system remains the foundation of our digital world despite the quantum leap]
-
 * [3000 Watt Lie: The TVS Diode Decoded]
-
 * [400 Million Tons of Digitizing Agricultural Logistics]
-
 * [61499 Automation: The True Story of the Minds]
-
 * [800 HP High-Tech Giant: What the ROPA Tiger 6S Operating Manual Reveals About Modern Agriculture and Extreme Safety]
-
 * [Ada Lovelace: The Poet of Science – Visionary, Programmer, and the Fight for the Digital Legacy]
-
 * [Adolf Weber's Sharp Analysis: Why Technology Alone Is Not Enough – Lessons from Three Industrial Phases ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Adolf-Webers-Scharfe-Analyse-Warum-Technik-allein-nicht-reicht--Lehren-aus-drei-Industriellen-Phasen-e36eger)
-
 * [Agricultural Revolution 1883: How Max Eyth Modernized England's Agriculture ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Agrar-Revolution-1883-Wie-Max-Eyth-Englands-Landwirtschaft-modernisierte-e36faae)
-
 * [As an Agricultural Machinery Specialist Through Hell: How Lanz-Wery Survived War, Occupation, and Hyperinflation – Insights into Original Business Reports 1915-1922 ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Als-Landtechnik-Spezialist-durch-die-Hlle-Wie-Lanz-Wery-Krieg--Besatzung-und-Hyperinflation-berlebte--Einblicke-in-Original-Geschftsberichte-1915-1922-e39athj)
-
 * [As Pioneers of Progress: How Machine Trials by the Royal Agricultural Society Revolutionized Agriculture and Still Teach Us Today ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Als-Pioniere-des-Fortschritts-Wie-Maschinenprfungen-der-Royal-Agricultural-Society-die-Landwirtschaft-revolutionierten-und-uns-heute-noch-lehren-e38aks7)
-
 * [Old Bavarian for Beginners: From Gratler Colds to City Dwellers – A Sound Journey Through Lesson 3 ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Altbayerisch-fr-Einsteiger-Von-Gratler-Schnupfen-und-Stadthodern--Eine-Laute-Reise-durch-Lektion-3C-e376jh4)
-
 * [Old Bavarian for Beginners: How Crude Jokes Are the Heart and Soul of the Dialect teaching](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Altbayerisch-fr-Einsteiger-Wie-derbe-Witze-das-A-und-O-des-Dialekts-lehren-e376gto)
-
 * [Amazon Pizza Rule to IKEA Effect: 12 Amazingly Simple Ideas Behind Huge Business Success](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Amazon-Pizza-Regel-bis-IKEA-Effekt-12-verblffend-einfache-Ideen-hinter-riesigem-Geschftserfolg-e39kmmc)
-
 * [Analysis of the Amendment to the Master Craftsman Examination Regulations in the Agricultural and Construction Machinery Mechatronics Trade: A Detailed Comparison of the 2024 and 2001 Regulations](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Analyse-der-Novellierung-der-Meisterprfungsverordnung-im-Land--und-Baumaschinenmechatroniker-Handwerk-Ein-Detaillierter-Vergleich-der-Verordnungen-von-2024-und-2001-e37aejv)
-
 * [Apple Cider All-Purpose Weapon and Nitrogen Revolution: Middle Franconian Agriculture in 1892 in the Newspaper Check](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Apfelwein-Allzweckwaffe-und-Stickstoff-Revolution-Die-Landwirtschaft-Mittelfrankens-1892-im-Zeitungs-Check-e39auu2)
-
 * [Architectural Duel in Munich: King Ludwig's Palace Vision, Gärtner's Book Barracks, and the Going](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Architektonisches-Duell-in-Mnchen-Knig-Ludwigs-Palast-Vision--Grtners-Bcherkaserne-und-die-gehe-e38tb8e)
-
 * [Article 131: Democracy, Patriotism, and Cosmopolitanism in Bavarian Schools](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Artikel-131-Demokratie--Heimatliebe-und-Weltoffenheit-in-Bayerns-Schulen-e38dis0)
 * [Automation Decoded: Guiding, Controlling, Regulating – The Invisible Language of Technology (DIN IEC 60050-351) ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Automatisierung-entschlsselt-Leiten--Steuern--Regeln--Die-unsichtbare-Sprache-der-Technik-DIN-IEC-60050-351-e36t52b)
-
 * [External Gear Machines: From Workhorse to the Intelligence of Hydraulics – Challenges, Innovations & Kepler's Legacy ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Auenzahnradmaschinen-Vom-Arbeitstier-zur-Intelligenz-der-Hydraulik--Herausforderungen--Innovationen--Keplers-Erbe-e36opo0)
-
 * [Concrete Mixing on the Construction Site: Safe and Efficient with the HÄNER Concrete Mixing Bucket – Your Guide for Everyday Practice ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Betonmischen-auf-der-Baustelle-Sicher-und-Effizient-mit-der-HNER-Betonmischschaufel--Ihr-Leitfaden-fr-den-Praxisalltag-e371o20)
-
 * [Biogas & PV after the EEG Subsidies: Survival in the New Energy World – Ways Out of the Funding Gap ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Biogas--PV-nach-der-EEG-Frderung-berleben-in-der-neuen-Energiewelt--Wege-aus-der-Frderlcke-e371ln4)
-
 * [Biogas: More Than Green Energy – Explosion Hazard and Precision in Biomass Feeding ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Biogas-Mehr-als-grne-Energie--Explosionsgefahr-und-Przision-in-der-Biomasse-Ftterung-e370401)
-
 * [Bipolar vs. FET: Why Your Smartphone Doesn't Glow and How Transistors Shape Our Electronics forms](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Bipolar-vs--FET-Warum-dein-Smartphone-nicht-glht-und-wie-Transistoren-unsere-Elektronik-formen-e368kjt)
-
 * [Down-to-earthness, the Autobahn, and the color red](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Bodenstndigkeit--Autobahn-und-die-rote-Farbe-e3cfetu)
-
 * [Bronze giant and culture clash: The spectacular creation of the Bavaria statue, the explosive material between](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Bronzeriese-und-Kulturkampf-Die-spektakulre-Entstehung-der-Bavaria-Statue--vom-Zndstoff-zwischen-e38t8th)
-
 * [Brun's plants: Carpinus betulus 'Monumentalis'](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Bruns-Pflanzen-Carpinus-betulus-Monumentalis-e36tgr2)
-
 * [Bulldog legend: How the simple LANZ tractor revolutionized agriculture and became a Duden entry](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Bulldog-Legende-Wie-der-einfache-LANZ-Traktor-die-Landwirtschaft-revolutionierte-und-zum-Duden-Eint-e39kif6)
-
 * [Bulldog, Boom and Business: Heinrich Lanz – Rise from Trading House to Agricultural Machinery Empire (The Underestimated Role of the Family)]
-
 * [Bunker Filler: Vertical vs. Inclined Screw Conveyor]
-
 * [CAN Bus Diagnostics: Beyond the Data – The Truth About Errors in Agricultural Technology]
-
 * [Charles Babbage: The Visionary Who Imagined the Information Age with Gears]
-
 * [Cyrus McCormick and the Reaper: How a Machine Fed the World and Triggered Revolutions]
-
 * [Danfoss and Eaton Hydraulics: Twin Story Comes to an End]
-
 * [The Brain and Its Helpers: How CPU, GPU and Special chips power our digital world with zeros and ones
 * [The VBCD valve's engineering datasheet decoded]
 * [The tracked monster awakens: Lanz Bulldog Caterpillar – The fascinating revival of the 10-liter hot-bulb workhorse after 25 years of inactivity]
@@ -374,210 +220,116 @@ Here you will find an overview of all videos and podcasts from the master crafts
 * [The relay in detail: Switching amplifiers, protection, and the secrets of A1/A2, 85/86, and hysteresis]
 * [The Technology panorama from 1863: Lanz & Comp. and the revolution of German agriculture through import, innovation, and guano
 * [The deadly dilemma of the relay: Why silver contacts fail with small signals and gold melts under load – The burn-off effect explained
-
 * [The underestimated heart: How circuit boards in cars withstand extreme conditions – From Bosch technology to manufacturing precision
-
 * [The URI triangle: Your visual cheat sheet for Ohm's law – Master electricity!
-
 * [The VBCD DE A valve: How an invisible hero safely controls cranes, excavators, and more
-
 * [Data highway in the field: Why interoperability is driving the agriculture of the future
-
 * [Reading the data sheet] Understanding Engineering Risks](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Datenblatt-lesen-Ingenieursrisiko-verstehen-e3aujie)
 * [Data Power in Agriculture: Who Controls Our Food – Algorithms or the Farmer?](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Datenmacht-in-der-Landwirtschaft-Wer-steuert-unsere-Lebensmittel--Algorithmen-oder-der-Bauer-e38mejk)
-
 * [Demystifying PLCs: Your Fast Track to Industrial Automation Expertise](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Demystifying-PLCs-Your-Fast-Track-to-Industrial-Automation-Expertise-e3718n3)
-
 * [The Bipolar Transistor: The Heart of Embedded Systems – Understanding Gain and Circuitry](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Der-Bipolare-Transistor-Das-Herzstck-eingebetteter-Systeme--Verstrkung-und-Schaltung-verstehen-e368kip)
-
 * [The BTS7030-2EPA Smart Car Power Monitor](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Der-BTS7030-2EPA-intelligenter-Auto-Stromwchter-e3b8n3s)
-
 * [The IBBC: How Plugs, Cables, and ISO 11783 Connect High-Tech Agricultural Machinery](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Der-IBBC-Wie-Stecker--Kabel-und-ISO-11783-Hightech-Landmaschinen-verbinden-e36t2lk)
-
 * [The Intelligent Circuit Breaker: How the Infineon BTS7030 Replaces Relays and Fuses in Cars](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Der-Intelligente-Leistungsschalter-Wie-der-Infineon-BTS7030-Relais-und-Sicherungen-im-Auto-ersetzt-e39av14)
-
 * [The Decline of the Tractor Cult: From the ingenious swivel-chamber motor to the costly end of the Anton Schlüter engine factory
-
 * The underestimated hero: Why the oil reservoir revolutionizes your hydraulic system
-
 * Kirchhoff's loop rule: How forklifts and electronics understand voltage / Kirchhoff's second law
-
-
 * Kirchhoff's loop rule: How forklifts and electronics understand voltage* [The Four Dimensions of Truth: From Fact-Checking to Existential Truthfulness]
-
 * [Diesel's Radical Vision: Why the Inventor Believed All Engines of His Time to Be "Fundamentally Wrong" – The Path to the Diesel Engine]
-
 * [Digital Logic: Flip-Flops and Data Types]
-
 * [DIN, ISO & Co.: Who Really Sets the Rules for Our Technologized World]
-
 * [Pressure Relief Valves: Hydraulics' Life Insurance – Types, Function, and System Integration]
-
 * [Eclipse 4diac: The Open Door to Industry 4.0 – Development and Runtime in Automation]
-
 * [Electrical Resistance and Ohm's Law: The Foundation of Electrical Engineering – From Electron Flow to Power Loss ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Elektrischer-Widerstand-und-Ohmsches-Gesetz-Das-Fundament-der-Elektrotechnik--Von-Elektronenfluss-bis-Verlustleistung-e36ec1b)
 * [Electricity Decoded: The Wanderings of Free Electrons ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Elektrizitt-Entschlsselt-Die-Wanderlust-der-freien-Elektronen-e36ecki)
 * [Electronics Primer Compact: Voltage, Current, Resistance and the Diode ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Elektronikfiebel-Kompakt-Spannung--Strom--Widerstand-und-die-Diode-e36e376)
-
 * [Electrical Engineering Fundamentals: Voltage, Current, Resistance & Power – The Formula Wheel Decoded ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Elektrotechnik-Grundlagen-Spannung--Strom--Widerstand--Leistung--Das-Formelrad-entschlsselt-e38dlc0)
-
 * [EN 61131-3: Industrial Programming Languages Decoded – Text vs. Graphics, Why the Standard Counts ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/EN-61131-3-Industrielle-Programmiersprachen-Entschlsselt--Text-vs--Grafik--Warum-die-Norm-Zhlt-e368k78)
-
 * [End of EEG Subsidies: Your Path to Energy Self-Sufficiency – PV, Storage & Smart Use ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Ende-der-EEG-Frderung-Ihr-Weg-zur-Energie-Autarkie--PV--Speicher--smarte-Nutzung-e371mk0)
-
 * [Kirchhoff's First Law (Node Rule) ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Erste-Kirchhoffsche-Regel-Knotenregel-e368jse)
-
 * [ESP32-S3 Development Boards ESP32-S3-DevKitC-1](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/ESP32-S3-Entwicklungsplatinen-ESP32-S3-DevKitC-1-e368gmd)
-
 * [ESP32-S3 in Detail: Dual-Core, 32MB Power and CAN Bus for Agricultural and Construction Machinery Mechatronics](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/ESP32-S3-im-Detail-Dual-Core--32MB-Power-und-CAN-Bus-fr-Land--und-Baumaschinen-Mechatronik-e39haf4)
-
 * [ESP32-S3 in Detail: Dual-Core, AI Turbo and the Swiss Army Knife of the IoT](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/ESP32-S3-im-Detail-Dual-Core--KI-Turbo-und-das-Schweizer-Taschenmesser-des-IoT-e39hacn)
-
 * [ESP32-S3-DevKitC-1 Document Analysis: The Memory Monster (32MB Flash/16MB PSRAM) and the Power of Dual USB Ports](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/ESP32-S3-DevKitC-1-Doku-Analyse-Das-Speicher-Monster-32MB-Flash16MB-PSRAM-und-die-Macht-der-Dual-USB-Ports-e39hamt)
-
 * [FNIRSI DWS-200 Soldering Station Review: 200 Watts of Power and the Truth from User Reviews](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/FNIRSI-DWS-200-Ltstation-im-Test-200-Watt-Power-und-die-Wahrheit-aus-den-Nutzer-Reviews-e39auoe)
-
 * [FNIRSI® DWS-200 Soldering Station: Precision & Performance
 * Fritz Huber and the Lanz Bulldog: How the Hot-Bulb Engine Revolutionized Agriculture
 * From "Get Away with Electronics" to Essential: How Agricultural Tech Earned Trust and Delivered Real Relief
 * From Workshop Grease to Wireless Updates: How One Man Bridged Mechanics and Digital AgTech for MF
 * G50 Wood Chip Stress Test: What Cracks the Heating System
 * George Boole: How a Self-Taught Man Laid the Foundation of Our Digital World with 0s and 1s
-
 * Germany's Green Energy Crossroads: Navigating the End of Renewable Subsidies with Innovative Solutions](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Germanys-Green-Energy-Crossroads-Navigating-the-End-of-Renewable-Subsidies-with-Innovative-Solutions-e371ltc)
-
 * [Hot Bulb Dilemma and Missed Opportunities: The Critical Years That Led to the Sale of Lanz to John Deere.](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Glhkopf-Dilemma-und-verpasste-Chancen-Die-kritischen-Jahre--die-zum-Verkauf-von-Lanz-an-John-Deere-fhrten-e3abqke)
-
 * [Hot Bulb Engine, Greed, and Loss of Control: How the Lanz Family Lost Their Tractor Empire](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Glhkopfmotor--Gier-und-Kontrollverlust-Wie-die-Familie-Lanz-ihr-Traktoren-Imperium-verlor-e3ab3er)
-
 * [Hot Bulb Engine: The Ingenious Third Way Between Diesel and Gasoline – Lanz Bulldog, Blowtorch, and the](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Glhkopfmotor-Der-geniale-Dritte-Weg-zwischen-Diesel-und-Benziner--Lanz-Bulldog--Ltlampe-und-der-e39kmeh)
-
 * [Hannes' Turbo Corn: How a Farmer Processes 15,000 Tons of Grain Corn with a Wood Chip Recycling System and Tower Dryer](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Hannes-Turbo-Mais-Wie-ein-Landwirt-mit-Hackschnitzel-Kreislauf-und-Turmtrockner-15-000-Tonnen-Krnermais-verarbeitet-e3a5e0o)
-
 * [High-tech in the barn: How Fliegl is revolutionizing manure processing with Codesys
-
 * [Hochreiter: The true origin of AI
-
 * [Dashboard moped XL: ISOBUS ECU development
-
 * [Ideal diode vs. Schottky: The lossless trick against reverse polarity and heat
-
 * [Industry 4.0: Hype or revolution?] What really happens in German factories ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Industrie-4-0-Hype-oder-Revolution--Was-wirklich-in-deutschen-Fabriken-passiert-e37mb7u)
 * Understanding the Infineon BTM9020EP full bridge ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Infineon-BTM9020EP-Vollbrcke-verstehen-e3b8n24)
 * Infineon BTS7030-2EPA: Intelligent high-side circuit breaker ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Infineon-BTS7030-2EPA-Intelligenter-High-Side-Leistungsschalter-e368fl3)
-
 * Infineon CAN transceiver TLE9250V versus TLE9351VSJ ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Infineon-CAN-Transceiver-TLE9250V-versus-TLE9351VSJ-e3b8nan)
-
 * Infineon MOTIX BTM9020/9021EP: Datasheet analysis for automotive – Robust motor driver with intelligent diagnostics (HW vs. SPI) ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Infineon-MOTIX-BTM90209021EP-Datenblatt-Analyse-fr-Automotive--Robuster-Motortreiber-mit-intelligenter-Diagnose-HW-vs--SPI-e39av51)
-
 * Infineon TLE9250V: The invisible CAN guardian ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Infineon-TLE9250V-der-unsichtbare-CAN-Wchter-e3b8ngj)
-
 * Infineon TLE9351VSJ: The invisible Auto-Bodyguard](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Infineon-TLE9351VSJ-der-unsichtbare-Auto-Bodyguard-e3b8nhl)
-
 * [Integrated full-bridge ICs MOTIX™ BTM9020EP](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/integrierten-Vollbrcken-ICs-MOTIX-BTM9020EP-e368kse)
-
 * [ISOBUS makes agricultural machinery plug and play](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/ISOBUS-macht-Landmaschinen-Plug-and-Play-e3b8oka)
-
 * [ISOBUS revolutionizes agriculture Universal Terminal Task Controller](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/ISOBUS-revolutioniert-Landwirtschaft-Universal-Terminal-Task-Controller-e3b8omh)
-
 * [ISOBUS moped and GitHub: More than code – The digital workshop of software development](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/ISOBUS-Moped-und-GitHub-Mehr-als-Code--Die-digitale-Werkstatt-der-Softwareentwicklung-e3675b3)
-
 * [ISOBUS: The secret language of agricultural machinery – From plug and play to high-speed networking](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/ISOBUS-Die-Geheimsprache-der-Landmaschinen--Von-Plug-and-Play-zu-High-Speed-Vernetzung-e36ebaa)
-
 * [James Watt and the Industrial Revolution: How an invention turned the world upside down](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/James-Watt-und-die-Industrielle-Revolution-Wie-eine-Erfindung-die-Welt-auf-den-Kopf-stellte-e36eblq)
-
 * [JBC soldering tips C470 vs. C245 vs. C210 vs. C115: Which tip is the all-rounder and when do you need the nano specialist? ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/JBC-Ltspitzen-C470-vs--C245-vs--C210-vs--C115-Welche-Spitze-ist-der-Allrounder-und-wann-brauchst-du-den-Nano-Spezialisten-e39ak58)
-
 * [JBC Soldering Tip Technology Revealed: Five Times Longer Lifespan and 2-Second Turbo Heat – What the Guide Reveals About Efficiency and Maintenance ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/JBC-Ltspitzen-Technologie-enthllt-Fnfmal-lngere-Lebensdauer-und-2-Sekunden-Turbo-Hitze--Was-der-Guide-ber-Effizienz-und-Pflege-verrt-e39arbr)
-
 * [JBC's Soldering Secret: 350 Degrees in 2 Seconds and Why the Tip Determines Efficiency and Lifespan ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/JBCs-Lt-Geheimnis-350-Grad-in-2-Sekunden-und-warum-die-Spitze-ber-Effizienz-und-Lebensdauer-entscheidet-e39arff)
-
 * [John Deere's Steel Plow: Myth or Masterpiece? A detailed investigation!](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/John-Deeres-Stahlpflug-Mythos-oder-Meisterwerk--Eine-detaillierte-Spurensuche-e38dlr0)
-
 * [AI agents revolutionize embedded development in 10 stages](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/KI-Agenten-revolutionieren-Embedded-Entwicklung-in-10-Stufen-e3dnv23)
-
 * [Capacitors and inductors in circuits](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Kondensatoren-und-Spulen-in-Schaltkreisen-e368jkc)
-
 * [Capacitors: Structure, properties, and applications](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Kondensatoren-Aufbau--Eigenschaften-und-Anwendungen-e368j9h)
-
 * [Assembly tractors: How small manufacturers are using purchased engines and transmissions to boost German agriculture](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Konfektionsschlepper-Wie-kleine-Hersteller-mit-zugekauften-Motoren-und-Getrieben-die-deutsche-Landw-e39kmhd)
-
 * [Powerhouses in action: The secret of hydraulic cylinders – From excavators to high-tech machines](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Kraftpakete-im-Einsatz-Das-Geheimnis-der-Hydraulikzylinder--Von-Baggern-bis-Hightech-Maschinen-e373ne8)
-
 * [Circular economy: Agriculture without animals is impossible](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Kreislaufwirtschaft-Landwirtschaft-ohne-Tiere-unmglich-e3cqu56)
-
 * [Agriculture and Forestry 4.0: The foundation of safety – Analysis of DIN EN ISO 25119-1 and der](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Land--und-Forstwirtschaft-4-0-Das-Fundament-der-Sicherheit--Analyse-der-DIN-EN-ISO-25119-1-und-der-e39kn2f)
-
 * [Lanz Alldog: The Hot-Bulb Betrayal – Why Lanz Sacrificed Its Icon for the Revolutionary Utility Vehicle](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Lanz-Alldog-Der-Glhkopf-Verrat--Warum-Lanz-fr-den-revolutionren-Gertetrger-seine-Ikone-opfert-e39klui)
-
 * [Lanz Bulldog, Hay Harvest, and the Race Against Time: A Lesson in Old Technology, Teamwork, and the Dictates of the Weather](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Lanz-Bulldog--Heuernte-und-der-Kampf-gegen-die-Zeit-Eine-Lektion-in-alter-Technik--Teamwork-und-dem-Diktat-des-Wetters-e39atnq)
-
 * [Understanding LEDs: From Illumination to the LiFi Future – Why the Series Resistor Matters](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/LEDs-verstehen-Vom-Leuchten-bis-zur-LiFi-Zukunft--Warum-der-Vorwiderstand-entscheidet-e36ehf8)
 
 ]* [PCB Design Saves Thousands of Euros
 
 * [PCBs, Assemblies, Components and Soldering]
-
 * [PCBs: Manufacturing, Etching and Assembly]
-
 * [Supply Chain vs. Psyche: The Two Faces of Resilience – What Connects People and Organizations]
-
 * [Linear vs. Switching Regulators: Understanding Efficient Voltage Conversion – Advantages and Disadvantages of DC/DC Converters in Detail]
-
 * [Soldering Masterclass: Professional Tricks for Precision Electronics]
-
 * [Soldering with Style – The FNIRSI HS-01 Review]
-
 * [Soldering from Classic to High-Tech] Tools ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Lten-von-Klassik-zu-Hightech-Werkzeugen-e3bg0dr)
-
 * Soldering Iron Analysis: Active vs. Passive, Weller, Ersa, JBC, and the USB-C Revolution – The Professional Guide for Mechatronics Engineers ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Ltkolben-Analyse-Aktiv-vs--Passiv--Weller--Ersa--JBC-und-die-USB-C-Revolution--Der-Profi-Guide-fr-Mechatroniker-e39aqcf)
-
 * Protecting Solenoid Valves: Your Guide Against Voltage Spikes in Agricultural and Construction Machinery ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Magnetventile-schtzen-Dein-Leitfaden-gegen-Spannungsspitzen-in-Land--und-Baumaschinen-e368l8m)
-
 * Max Eyth and the Success of the Royal Agricultural Society: How Science and Practice Revolutionized British Agriculture ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Max-Eyth-und-der-Erfolg-der-Royal-Agricultural-Society-Wie-Wissenschaft-und-Praxis-die-britische-Landwirtschaft-revolutionierten-e38b3rl)
-
 * Max Eyth: Engineer, Visionary, Bridge Builder – His Legacy in Technology, Agriculture, and Literature ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Max-Eyth-Ingenieur--Visionr--Brckenbauer--Sein-Erbe-in-Technik--Landwirtschaft-und-Literatur-e38djbt)
-
 * Max Eyth: From Steam Plough Pioneer to DLG Founder and Bestselling Author – A Technology Visionary of His Time ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Max-Eyth-Vom-Dampfpflug-Pionier-zum-DLG-Grnder-und-Erfolgsautor--Ein-Technikvisionr-seiner-Zeit-e36eci9)
-
 * Master 2.0: High-Tech, Leadership & Digitalization in Agriculture and Construction Machinery Trade – The New Framework Curriculum Revealed ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Meister-2-0-Hightech--Fhrung--Digitalisierung-im-Land--und-Baumaschinen-Handwerk--Der-neue-Rahmenlehrplan-enthllt-e38dj5q)
-
 * [Masters of Change: How the Curriculum for Agricultural and Construction Machinery Mechatronics Technicians Redefines Lifelong Learning ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Meister-des-Wandels-Wie-der-Lehrplan-fr-Land--und-Baumaschinenmechatroniker-lebenslanges-Lernen-neu-definiert-e38di5u)
-
 * [Masters Learning to Learn: Self-Directed Through the German Curriculum for Agricultural and Construction Machinery Mechatronics Technicians ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Meister-lernen-lernen-Selbstgesteuert-durch-den-deutschen-Lehrplan-fr-Land--und-Baumaschinenmechatroniker-e38dhb1)
-
 * [Miniware TS101: The Mobile Soldering All-Rounder – Strengths, Weaknesses, and the USB-C Revolution ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Miniware-TS101-Das-mobile-Lt-Multitalent--Strken--Schwchen-und-die-USB-C-Revolution-e368lka)
-
 * [Moore's Law and Nanometer Miracles: The Unstoppable Journey of the CPU from the C64 to the Smart Car ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Mooresches-Gesetz-und-Nanometer-Wunder-Die-unaufhaltsame-Reise-der-CPU-vom-C64-zum-smarten-Auto-e39h9uj)
-
 * [MOSFETs: How a Tiny Switch Revolutionized Our Digital World ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/MOSFETs-Wie-ein-winziger-Schalter-unsere-digitale-Welt-revolutionierte-e368kj9)
-
 * [Laws of Nature vs. Norms: Your Compass for the Construction Machinery Championship ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Naturgesetze-vs--Normen-Dein-Kompass-fr-die-Baumaschinen-Meisterschaft-e38dhgn)
-
 * Mastering Ohm's Law: The Electronics Primer Explains Series Circuits, Parallel Circuits, and the Me](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Ohmsches-Gesetz-meistern-Die-Elektronik-Fibel-erklrt-Reihenschaltung--Parallelschaltung-und-den-Me-e38djqa)
-
 * Ohm's Law: Fundamentals and Applications ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Ohmsches-Gesetz-Grundlagen-und-Anwendungen-e368gui)
-
 * Open Circuits: The Hidden Beauty and Engineering Inside Our Electronics – Precision Work, Cat Hair, and Focus Stacking ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Open-Circuits-Die-verborgene-Schnheit-und-Ingenieurskunst-im-Inneren-unserer-Elektronik--Przisionsarbeit--Katzenhaar-und-Fokus-Stapelung-e3a9r77)
-
 * Open Circuits: The Hidden Aesthetics and Fascinating Complexity in the Cross-Section of Our Electronics ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Open-Circuits-Die-verborgene-sthetik-und-faszinierende-Komplexitt-im-Querschnitt-unserer-Elektronik-e3a9rol)
-
 * Open Source in Industry: More Than Code – A Network for Innovation and Collaboration ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Open-Source-in-der-Industrie-Mehr-als-Code--Ein-Netzwerk-fr-Innovation-und-Kollaboration-e372av2)
-
 * Understanding Operational Amplifiers: The Magic of Ideal Op-Amps and Negative Feedback for Circuit Analysis ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Operationsverstrker-verstehen-Die-Magie-von-Ideal-OPV-und-Gegenkopplung-fr-Schaltungsanalyse-e368ktm)
-
 * [Oscilloscopio al Potere: Misurare Impedenza e Lunghezza dei Cavi (TDR Semplificato)](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Oscilloscopio-al-Potere-Misurare-Impedenza-e-Lunghezza-dei-Cavi-TDR-Semplificato-e39nns2)
-
 * [Oskar von Miller: Genius, Power Player, Visionary – How the Man Behind the German Museum Bavaria with](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Oskar-von-Miller-Genie--Machtmensch--Visionr--Wie-der-Mann-hinter-dem-Deutschen-Museum-Bayern-mit-e38sh40)
-
 * [Parallel Circuit of Resistors: Fundamentals and Application](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Parallelschaltung-von-Widerstnden-Grundlagen-und-Anwendung-e368iop)
 
 ]* [Pinecil Power Guide: USB-C PD, Batteries & DC Traps – Maximum Power for Your Soldering Iron
 
 * [Pinecil Power Supply: Safe, Efficient, Durable – The Ultimate Guide
-
 * [PINECIL: The Intelligent RISC-V Soldering Iron
-
 * [Circuit Board Defective, Device Scrap?] Replacing Components Yourself – Save Money and Avoid Electronic Waste
 * PROFET vs. MOSFET: Intelligent Switches for Automotive and Industrial Applications
 * RASE: How 19th-Century England Revolutionized Agriculture Through "Practice with Science"
@@ -585,33 +337,19 @@ Here you will find an overview of all videos and podcasts from the master crafts
 * Series Connection of Resistors: Fundamentals and Behavior
 * Rudolf Diesel: Brilliant Work, Mysterious End – Who Disappeared on the Ferry in 1913?
 * Switching vs. Linear Controllers: Efficiency, EMC & the Compromise of Power Electronics ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Schalt--vs--Linearregler-Effizienz--EMV--der-Kompromiss-der-Leistungselektronik-e36t4uj)
-
 * Switches, Stuttering, Stability: The Phenomenon of Contact Bouncing and its Debouncing in Mechanics and Electronics ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Schalter--Stottern--Stabilitt-Das-Phnomen-Kontaktprellen-und-seine-Entprellung-in-der-Mechanik-und-Elektronik-e36ab4u)
-
 * Schlüter 1500 Special: Turbo Toxicity, 40 Years, and the Soul of a Powerhouse ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Schlter-1500-Spezial-Turbo-Giftigkeit--40-Jahre-und-die-Seele-eines-Kraftprotzes-e39au2l)
-
 * Schlüter: From Imperial Engine to 500-HP Giant – Rise and Fall of the Powerful Tractors from Freising ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Schlter-Vom-Kaiserreich-Motor-zum-500-PS-Giganten--Aufstieg-und-Fall-der-brenstarken-Traktoren-aus-Freising-e3a8j4o)
-
 * Protective Circuitry: Variants and Fundamentals of Voltage Limitation ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Schutzbeschaltung-Varianten-und-Grundlagen-der-Spannungsbegrenzung-e368jq3)
-
 * Selandia: The Fate of the Fathers of the Diesel Engine and the Revolution of Globalization ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Selandia-Das-Schicksal-der-Vter-des-Dieselmotors-und-die-Revolution-der-Globalisierung-e398rif)
-
 * Smart Farming Vision 1991 Auernhammers Blueprints](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Smart-Farming-Vision-1991-Auernhammers-Blaupausen-e3b09r2)
-
 * Smart Power: How decentralized control reduces energy costs in industrial plants and stabilizes the grid](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Smart-Power-Wie-dezentrale-Steuerung-die-Energiekosten-in-Industrieanlagen-senkt-und-das-Netz-stabilisiert-e372aq3)
-
 * SMD Technology: Revolution in Electronics – Curse or Blessing for Modern Devices?](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/SMD-Technologie-Revolution-der-Elektronik--Fluch-oder-Segen-fr-moderne-Gerte-e368kru)
-
 * Voltage Dividers: Loaded](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Spannungsteiler-Belastet-e368ieg)
-
 * Voltage Dividers: Unloaded](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Spannungsteiler-Unbelastet-e368hmf)
-
 * Mastering PLC Programming: Your Roadmap to the In-Demand Industry 4.0 Skills](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/SPS-Programmierung-meistern-Dein-Fahrplan-zur-gefragten-Industrie-4-0-Fhigkeit-e3718ok)
-
 * Coils and Inductance: Fundamentals of Electronics](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Spulen-und-Induktivitt-Grundlagen-der-Elektronik-e368jae)
-
 * Standard Interfaces of Embedded Systems](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Standard-Schnittstellen-Eingebetteter-Systeme-e368kv3)
-
 * Conflict, Division, Spectacle: 200 Years of Agricultural Research in Weihenstephan – How the Plow, Test Station, and Cow Computer Changed the World
 
 Strip-Till in Maize Cultivation: How High Precision Saves Water and Protects the Soil – Insights into Agricultural Technology 2024
@@ -627,38 +365,24 @@ TVS Diodes: Basics, Function, and Applications
 Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Local Device Control](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Unlock-Simultaneous-Connectivity-Your-Guide-to-Dual-Wi-Fi-for-Uninterrupted-Local-Device-Control-e3756vt)
 * [Unlocking Property Power: Your Custom Blueprint for Energy Self-Sufficiency and Diesel Savings](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Unlocking-Property-Power-Your-Custom-Blueprint-for-Energy-Self-Sufficiency-and-Diesel-Savings-e375f6o)
 * [VBCD DE A: Il Cuore Idraulico per Sicurezza e Controllo di Carichi Estremi](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/VBCD-DE-A-Il-Cuore-Idraulico-per-Sicurezza-e-Controllo-di-Carichi-Estremi-e375bh8)
-
 * [VBCD DE A双向平衡阀：液压系统中的“精密刹车”与“安全锁”](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/VBCD-DE-A-e373ms3)
-
 * [Verfassungskunst 1946: Bayerns Bildungsauftrag zwischen Heimatliebe, Demokratie und Völkerversöhnung](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Verfassungskunst-1946-Bayerns-Bildungsauftrag-zwischen-Heimatliebe--Demokratie-und-Vlkervershnung-e38dj0l)
-
 * [Reverse polarity protection in electronics: Why the ideal diode (LM74700) beats MOSFETs and Schottky diodes in efficiency and cost](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Verpolungsschutz-in-der-Elektronik-Warum-die-ideale-Diode-LM74700-MOSFETs-und-Schottky-Dioden-in-Effizienz-und-Kosten-schlgt-e3a2487)
-
 * [VIPPO and gallium nitride: How printed circuit boards dissipate heat from Taming GaN FETs in Agricultural and Construction Machinery
 * From a Bavarian Village to the Autodesk Cloud: The Fascinating Metamorphosis of the Software Legend EAGLE CAD
 * From Rubber Boots to GPS: How Hermann Auernhammer Revolutionized Agriculture
 * From “Get that away from me!” For real relief: How electronics conquered agriculture ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Vom-Geh-mir-weg-damit--zur-echten-Entlastung-Wie-die-Elektronik-die-Landwirtschaft-eroberte-e374h7t)
 * [From steam power to gasoline engines: Bavaria's agriculture in 1906 on the threshold of modernity ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Von-Dampfkraft-zu-Benzinmotoren-Bayerns-Landwirtschaft-1906-an-der-Schwelle-zur-Moderne-e39at6u)
 * [From village workshop to high-tech pioneer: How Lorenz Riegger invented digital agriculture ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Von-der-Dorfwerkstatt-zum-Hightech-Pionier-Wie-Lorenz-Riegger-die-digitale-Landwirtschaft-erfand-e38ft2q)
-
 * [From circuit board to module: A journey into the world of electronics manufacturing ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Von-der-Platine-zum-Modul-Eine-Reise-in-die-Welt-der-Elektronikfertigung-e3764br)
-
 * [Resistance to new things: Head or team DNA ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Widerstand-gegen-Neues-Kopf-oder-Team-DNA-e3b8ntc)
-
 * [How simple switches "think": The basics of digital technology – gates, logic and the power of 1s and 0s ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Wie-simple-Schalter-denken-Die-Grundlagen-der-Digitaltechnik--Gatter--Logik-und-die-Macht-von-1-und-0-e3ae98g)
-
 * [Zenergetic diodes: Function, effects and applications in electronics ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Z-Dioden-Funktion--Effekte-und-Anwendungen-in-der-Elektronik-e368igc)
-
 * [Two WLANs simultaneously in Windows 10: The ingenious USB stick solution for IoT devices without internet interruption
-
 * Oil Hydraulics Unleashed: How power, efficiency, and clever control drive machines
-
 * Oil Hydraulics: The invisible heroes of cleanliness – Why filters are lifesavers for your systems
-
 * Oil Hydraulics: The invisible heroes of cleanliness – Why filters are lifesavers for your systems
-
 * Oil Hydraulics: How German-speaking countries use oil hydraulics to create a powerful, efficient, and intelligent control system
-
 * [深入浅出：揭秘油压技术的百年演进与未来趋势](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/ep-e373lmg)
 
 ## 📺 YouTube Videos
@@ -667,37 +391,21 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 
 *
 * [May 6, 2025 Day 6 of logiBUS® training series (D)](https://www.youtube.com/watch?v=g-LuUu-QFcI)
-
 * [April 15, 2025 Day 1 of logiBUS® training series (D)](https://www.youtube.com/watch?v=tlZC5rN_CUI)
-
 * [17 Apr. 2025 Day 2 of logiBUS® Training Series (D)](https://www.youtube.com/watch?v=hy2S94jOVi0)
-
 * [2024 09 05 17 59 50 Bavarian State Library Book Access](https://www.youtube.com/watch?v=0qTGNMfAspU)
-
 * [2025 11 15 12 35 11 Assembly DIN Rail Module logiBUS® -- Part 3 -- Housing](https://www.youtube.com/watch?v=MPm4vLmD5RE)
-
 * [2025 11 15 12 52 26 Assembly DIN Rail Module logiBUS® -- Part 4 -- Superstructures](https://www.youtube.com/watch?v=WeowCxZW70Y)
-
 * [2025-01-28 17-51-25 logiBUS® Project Update and Setup (unfortunately without sound)](https://www.youtube.com/watch?v=OBNqWd_gZVU)
-
 * [2025-01-28 20-01-36 logiBUS® Project Update and Installation (now with sound) ](https://www.youtube.com/watch?v=h-tzDyRtiHo)
-
 * [2025-01-29 09-27-56 Windows Defender exclusion check in the Eclipse 4diac™ IDE ](https://www.youtube.com/watch?v=8k8-QnbTPxk)
-
 * [2025-02-02 18-21-50 Exercise_006c Function E_DEMUX8 and ..._DI_REPEAT ](https://www.youtube.com/watch?v=fOSa4_A7-dE)
-
 * [2025-02-02 18-56-54 DI_LONG_PRESS_HOLD (Part 1) ](https://www.youtube.com/watch?v=8pkKq_8HAIQ)
-
 * [2025-02-02 19-11-57 DI_LONG_PRESS_HOLD (Part 2) ](https://www.youtube.com/watch?v=vpA6dfZDwh0)
-
 * [2025-02-21 13-04-43 Current status logiBUS® Eclipse 4diac™ IDE ](https://www.youtube.com/watch?v=OMNP9p12mAw)
-
 * [2025-02-21 15-23-28 logiBUS® with Eclipse 4diac™ new I/O concept for all controllers ](https://www.youtube.com/watch?v=YUCodIng1UA)
-
 * [2025-02-23 11-18-57 Getting started with Autodesk Fusion 360 - Mechanical Design MCAD ](https://www.youtube.com/watch?v=3bmFKBpIpZY)
-
 * [2025-02-23 11-43-44 Fusion 360 Overview Tutorials ](https://www.youtube.com/watch?v=djM9ndIfp-0)
-
 * [2025-02-23 11-47-07 Fusion 360 Electronics Introduction ](https://www.youtube.com/watch?v=uZb-U6FArGw)
 * [2025-02-23 13-20-15 Fusion 360 Electronics Bill of Materials Export ](https://www.youtube.com/watch?v=Z5RllKgpOfc)
 * [2025-03-11 16-08-47 Generating IEC 61499 Documentation using deepseek ](https://www.youtube.com/watch?v=Ce__kP5iFc0)
@@ -714,103 +422,57 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 * [2025-07-20 21-12-23 Fusion 360 Schematic SPICE Simulation German ](https://www.youtube.com/watch?v=jHT9nZIXxGU)
 * [2025-08-17 14-05-25 Introduction to logiBUS®, a new I/O system without mapping ](https://www.youtube.com/watch?v=5YnRsE5zVBk)
 * [2025-08-17 14-39-09 Converting a logiBUS® project with mapping to one without Mapping.](https://www.youtube.com/watch?v=w8nTLn8fQxQ)
-
 * [2025-11-02 13:19-52 LogiBUS® on the way to Eclipse 4diac™ 3.0 - Conversion of a project ](https://www.youtube.com/watch?v=5J_PuNkwxNo)
-
 * [2025-11-04 16:12-16 LogiBUS® on the way to Eclipse 4diac™ 3.0 - Content Assist ](https://www.youtube.com/watch?v=HXOzyEPKhrU)
-
 * [2025-11-04 18:11-05 LogiBUS® on the way to Eclipse 4diac™ 3.0 - Conversion of a project ](https://www.youtube.com/watch?v=dx1lhYFTvhA)
-
 * [2025-11-04 20:15-06 LogiBUS® on the way to Eclipse 4diac™ 3.0 - Even More Adapters (AX) ](https://www.youtube.com/watch?v=RsY65VqTAMc)
 * [2025-11-13 17:50-42] DIN Rail Mounting logiBUS® -- Part 1 -- Introduction and Soldering ](https://www.youtube.com/watch?v=HWBMBVLMPiw)
 * [2025-11-15 12:19-33] DIN Rail Mounting logiBUS® -- Part 2 -- Introduction and Soldering ](https://www.youtube.com/watch?v=nohE36SZY9M)
 * [2025-12-14 19:53-53] Installation of Eclipse 4diac™ IDE 3.0.0 and Import of the Training 1 Project ](https://www.youtube.com/watch?v=O3S1o_NUyvc)
 * [2025-12-14 20:03-27] Uploading Training 1 Exercise 1 to the DIN rail moped.](https://www.youtube.com/watch?v=6iog7-DZvW0)
-
 * [2025-12-14 20-13-12 DIN rail moped Merged Bin upload via ESPTOOL js.](https://www.youtube.com/watch?v=XwtH1p5uw88)
-
 * [2026-01-13 12-14-50 logiBUS® Eclipse 4diac™ Subapplications](https://www.youtube.com/watch?v=J-UYbZDwhZw)
-
 * [22 Apr 2025 Day 3 of logiBUS® Training Series (D)](https://www.youtube.com/watch?v=FBsFm1SwPQc)
-
 * [24 Apr 2025 Day 4 of logiBUS® Training Series (D)](https://www.youtube.com/watch?v=ul03dimgiis)
-
 * [27 April 2025 Day 5 of logiBUS® Training Series (D)](https://www.youtube.com/watch?v=7VYr-Doc8Bg)
-
 * Install 4diac IDE and open project](https://www.youtube.com/watch?v=Oa2mBXCEXM8)
-
 * Install 4diac IDE and open project](https://www.youtube.com/watch?v=OrB3jAxtRXc)
-
 * Understand 61499? It's that easy! (Quickly Explained) ](https://www.youtube.com/watch?v=6HH62OdMP3o)
-
 * Achieving Maximum Energy Autarky for Agricultural Properties ](https://www.youtube.com/watch?v=h6v3op1qyYc)
-
 * Ada Lovelace: The World's First Female Programmer? ](https://www.youtube.com/watch?v=32-qMEKcL3o)
-
 * Ada Lovelace: The Pioneer ](https://www.youtube.com/watch?v=Jc5ZDYb-9DI)
-
 * Advancing Industrial Automation IEC 61499 at ETFA ](https://www.youtube.com/watch?v=vqdFhNFL2OI)
-
 * AI: The Unknown Story ](https://www.youtube.com/watch?v=9hD5RETI72w)
-
 * Analysis: Power for Pinecil ](https://www.youtube.com/watch?v=xfeqUInuwLQ)
-
 * Anatomy of Precision ](https://www.youtube.com/watch?v=-T-ha5g2UzE)
-
 * Anton Schlüter: Rise & Fall ](https://www.youtube.com/watch?v=mMfEyc9OERI)
-
 * Counting Up: Block E_CTU from IEC 61499 (Exercise 80)](https://www.youtube.com/watch?v=oZOWd_zKFcc)
-
 * [Count Up/Down Block E_CTUD from IEC 61499 (Exercise 82)](https://www.youtube.com/watch?v=H_MRtaMiaU8)
-
 * [Automation of the Future](https://www.youtube.com/watch?v=gqdgimyAk60)
-
 * [BTM9020EP: Motor Maestro](https://www.youtube.com/watch?v=pCCqBW8_m18)
-
 * [CAN Bus Episode #1](https://www.youtube.com/watch?v=53EufV35raw)
-
 * [Charles Babbage](https://www.youtube.com/watch?v=sD7-TkvFNM4)
-
 * [Chip Becomes a Powerhouse](https://www.youtube.com/watch?v=IudBn-pRUkU)
-
 * [Circuit Board Repair Hacks](https://www.youtube.com/watch?v=dOXugrpcKE4)
-
 * [Comparison of CAN Transceivers](https://www.youtube.com/watch?v=DQ45wcYPxOQ)
 * [D flip-flop: E_D_FF from IEC 61499 (Exercise 002c) as "event brake"](https://www.youtube.com/watch?v=yGSx_0ggveE)
 * [D Flip-Flop: E_D_FF from IEC 61499 (Exercise 85)]
-
 * [The ESP32-S3-DevKitC-1]
-
 * [The Brain of the Computer]
-
 * [The DIN Rail Moped XL]
-
 * [The Life of a Printed Circuit Board]
-
 * [Deciphering the Secret Language]
-
 * [Decoding the Data Sheet: Why the Fine Print Decides Between Life and Death]
-
 * [Decoding the Data Sheet]
-
 * [Deere's Plow: The Steel Story](https://www.youtube.com/watch?v=uxu_2PRHIBM)
-
 * [The Thinking Tractor](https://www.youtube.com/watch?v=ym4inz34nv0)
-
 * [The Catalog of 1863](https://www.youtube.com/watch?v=fk7tIjl2pTk)
-
 * [The Man Who Conquered Hunger](https://www.youtube.com/watch?v=7jVQEMZVTL0)
-
 * [The Schlüter 1500 Special](https://www.youtube.com/watch?v=-44hxgNtKYk)
-
 * [The Smart Switch](https://www.youtube.com/watch?v=7Q1_v_LenFs)
-
 * [The Tractor Visionary](https://www.youtube.com/watch?v=dgGn6gop5gA)
-
 * [The Unstoppable Chip](https://www.youtube.com/watch?v=ajRNO-jSVSo)
-
 * [The Future-Proof Master](https://www.youtube.com/watch?v=-Z5qOZc94Ao)
-
 * [The Digital Toolbox](https://www.youtube.com/watch?v=gVBqcIgOYLY)
 * [The Harvest Challenge ](https://www.youtube.com/watch?v=ZlS3XrDRKcg)
 * [The Trap of New Technology ](https://www.youtube.com/watch?v=OkUq9mJhh9Q)
@@ -849,35 +511,20 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 * [Functional Safety: How Machine Safety Works!](https://www.youtube.com/watch?v=3P-9njrRvj8)
 * [George Boole: The Code of Our World](https://www.youtube.com/watch?v=Ojhzj9PCbkk)
 * [Germany's Green Energy Cliff](https://www.youtube.com/watch?v=eaoJMAfeGTg)
-
 * [Device Manager 2022 10 18 17 38 10](https://www.youtube.com/watch?v=l9kIRm3Wtas)
-
 * [Controlled Propagation of an Event E_PERMIT from IEC 61499 (Exercise 94)](https://www.youtube.com/watch?v=ry5LTRd9H3M)
-
 * [Hacker Night: Code, Monitors & Secrets That Keep Us Awake!](https://www.youtube.com/watch?v=EGMXsr93iYE)
-
 * [Wood Chip Conveyor](https://www.youtube.com/watch?v=o2syA4cOJDU)
-
 * [Heinrich Lanz: Man, Myth, Empire](https://www.youtube.com/watch?v=PHM3RE7CE9s)
-
 * [Hero of the Auto Nervous System TLE9351VSJ](https://www.youtube.com/watch?v=mB7WrGxPMIY)
-
 * [Countdown Block E_CTD from IEC 61499 (Exercise) 81)](https://www.youtube.com/watch?v=NgLWcVhgRqk)
-
 * [Horsch: Chance as a Brand - How Chance (and the Color Red) Created a Global Brand](https://www.youtube.com/watch?v=lbzJl6bP2zY)
-
 * [Flashing a DIN rail moped with Merged Flash](https://www.youtube.com/watch?v=y7wVxIezsHA)
-
 * [Editing the logiBUS® wlan.ini file on a DIN rail moped -- Channel](https://www.youtube.com/watch?v=GZAhPVZjyB4)
-
 * [Editing the logiBUS® wlan.ini file on a DIN rail moped -- SSID](https://www.youtube.com/watch?v=7BJrB8wIst8)
-
 * [Establishing a DIN rail moped connection via WLAN](https://www.youtube.com/watch?v=f74-3ga0Gns)
-
 * [Ideal Diodes](https://www.youtube.com/watch?v=cPYHaOczu6s)
-
 * [Understanding Ideal Diodes](https://www.youtube.com/watch?v=8WSgwcRup4s)
-
 * [IEC 61499: The Great Debate](https://www.youtube.com/watch?v=MLgOFSUB5Ik)
 * [ISOBUS: The Secret Language](https://www.youtube.com/watch?v=Fezbc5Acd24)
 * [AI Leader: Coder to Architect](https://www.youtube.com/watch?v=JCV9tn7QIww)
@@ -894,58 +541,32 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 * [logiBUS® The End of Mapping](https://www.youtube.com/watch?v=H6_0eJgdgKY)
 * [logiBUS® The New Era Without Mapping](https://www.youtube.com/watch?v=zn_duQ1qV6I)
 * [logiBUS® ESP32 installer Google Chrome 2022 10 18 17 38 33](https://www.youtube.com/watch?v=pQ53R2zChlc)
-
 * [logiBUS® ESP32 installer Google Chrome 2022 10 18 17 44 27](https://www.youtube.com/watch?v=9gQ1B7Ni5Vc)
-
 * [LogiBUS® without Mapping: Simplified Installation & First Steps for Master Students](https://www.youtube.com/watch?v=NsRc1NeoCUQ)
-
 * [logiBUS®: Revolution in Tractors](https://www.youtube.com/watch?v=11yE1zM5GgI)
-
 * [Soldering in the Year 2025](https://www.youtube.com/watch?v=fpcOFSE5sl0)
-
 * [Soldering Like a Pro](https://www.youtube.com/watch?v=8ulMWcxaB-c)
-
 * [Create a sequence where an excavator loads sand onto a truck. #ai #ki ](https://www.youtube.com/watch?v=GBXdfE9L858)
-
 * [Removing mapping with Christoph Behr - 2025/09/24 13:57 CEST – Recording ](https://www.youtube.com/watch?v=h68m9fcjMpw)
-
 * [Mastering Ohm's Law: The Electronics Primer explains series circuits, parallel circuits, and the Me](https://www.youtube.com/watch?v=7Cf9-wwV8aA)
-
 * [Master of Tomorrow Plan 2025 ](https://www.youtube.com/watch?v=TWbEaiAZ8ao)
-
 * [Assembling a DIN rail moped logiBUS® -- Part 1 -- Introduction ](https://www.youtube.com/watch?v=GMo0RS5pOs8)
-
 * [Assembling a DIN rail moped logiBUS® -- Part 2 -- Soldering ](https://www.youtube.com/watch?v=Ulqy_4DBa70)
-
 * [Assembling a DIN rail moped logiBUS® -- Part 3 -- Soldering ](https://www.youtube.com/watch?v=hWZxT3xEccg)
 * [Assembly of DIN rail moped logiBUS® -- Part 4 -- Mechanical assembly ](https://www.youtube.com/watch?v=zprZNDYoN5g)
-
 * [MOTIX™ BTM9020EP in detail ](https://www.youtube.com/watch?v=A0-osdslKYE)
-
 * [Latest status of 4diac, logiBUS®, DIN rail moped ](https://www.youtube.com/watch?v=vLaqaBcTHVQ)
-
 * [Open Circuits: The Inner Beauty ](https://www.youtube.com/watch?v=Lxfzy07JbIs)
-
 * [Analyzing project structure: Let's check the structure! ](https://www.youtube.com/watch?v=B32ozO_jgf4)
-
 * [RS flip-flop component E_RS from IEC 61499 (Exercise 006b) ](https://www.youtube.com/watch?v=GXOe8K7Jgr0)
-
 * [Run and debug using Exercise 1 ](https://www.youtube.com/watch?v=H5D_FdtHI58)
-
 * [Switch fail! Why these Amazon buttons cause trouble!
-
 * Schlüter: Rise & Fall
-
 * Training video logiBUS® CAN - SAE J1939 Communication
-
 * SR&T Flip-Flop Exercise 006
-
 * SR Flip-Flop Component E_SR from IEC 61499 (Exercise 006)
-
 * Technology in modern soldering irons
-
 * The data behind the harvest
-
 * The decline of the tractor cult: From the ingenious swivel-chamber engine to the expensive end of...](https://www.youtube.com/watch?v=1EW7eNyAjYY)
 * [The downfall of Lanz](https://www.youtube.com/watch?v=wL8zIUJQ9-E)
 * [The Dual Wi Fi Solution](https://www.youtube.com/watch?v=FLimeAu_dV4)
@@ -966,38 +587,21 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 * [The silent failure](https://www.youtube.com/watch?v=KBMog5sdWtA)
 * [The Unsung Hero of Hydraulic Safety](https://www.youtube.com/watch?v=N1sz-7XJ_58)
 * [TLE9250V CAN Transceiver](https://www.youtube.com/watch?v=GIYTO_oIbxI)
-
 * [Toggle-Flip-Flop Component E_T_FF from IEC 61499 (Exercise 004a)]](https://www.youtube.com/watch?v=XZqsqNy_g_g)
-
 * [Turning a Hobby Chip into an Industrial Powerhouse]](https://www.youtube.com/watch?v=veNA2vksxIQ)
-
 * [Understanding the relay]](https://www.youtube.com/watch?v=QdJFfY00Yf8)
-
 * [Working with 2 WLAN connections under Windows 10]](https://www.youtube.com/watch?v=a5Re1vOtmww)
-
 * [Reverse polarity protection solved]](https://www.youtube.com/watch?v=Xmx8x0BZ6Z4)
-
 * [Via in Pad Plated Overlay]](https://www.youtube.com/watch?v=E0vbluaWA8Y)
-
 * [VLF AÖ-MÜ / 20 Years of EEG - What Now?] Lecture 1: Prof. Wolfgang Wieser (Hydrogen...)](https://www.youtube.com/watch?v=UzyBU9GCobs)
-
 * [VLF AÖ-MÜ / 20 Years of the EEG - What Now?] Lecture 2: Achim Kimmich, Climate Coach (PV Storage...)](https://www.youtube.com/watch?v=KoYvjf_wrZc)
-
 * [From Chaos to Clarity](https://www.youtube.com/watch?v=e20U6OD_dLY)
-
 * [Why Computers Use 0 & 1](https://www.youtube.com/watch?v=Gsu0fnCg0gQ)
-
 * [Why Animals Are Indispensable](https://www.youtube.com/watch?v=F9_ZA-1XVC8)
-
 * [Additionally: Exercise_083: Counting Up/Down: E_CTUD_UDINT Data Type UDINT; with Display on the VT.](https://www.youtube.com/watch?v=oTPDtsw5eAw)
-
 * [Exercise 31: Controlling LEDs with a Devkit without a DIN Rail Mount](https://www.youtube.com/watch?v=ZNbAw4bBUjg)
 
-
 ## 📂 Thematic Overview
-
-
-```
 ### ISOBUS
 * **[ISOBUS VT Objects]** ["Store Version" – Your key to managing object data pools in non-volatile VT memory (ISO 11783-6)]
 * **[ISOBUS VT Objects]** [The Working Set Object: Understanding the brain of the ISOBUS user interface – From standard to practice in ISO Designer]
@@ -1028,8 +632,6 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 * **[ISOBUS VT Objects]** [Understanding VT Versions: Your Path to Mastering Agricultural and Construction Machinery Mechatronics]](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/VT-Versionen-verstehen-Dein-Weg-zum-Meister-der-Land--und-Baumaschinenmechatronik-e36a8e8)
 * **[YouTube]** [Additional: Exercise_083: Counting Up/Down: E_CTUD_UDINT Data Type UDINT; with Display on the VT]](https://www.youtube.com/watch?v=oTPDtsw5eAw)
 
-
-```
 ### 4diac / IEC 61499
 * **[YouTube]** [2025-01-29 09:27-56 Windows Defender exclusion check in the Eclipse 4diac™ IDE](https://www.youtube.com/watch?v=8k8-QnbTPxk)
 * **[YouTube]** [2025-02-21 13:04-43 Current status of logiBUS® Eclipse 4diac™ IDE](https://www.youtube.com/watch?v=OMNP9p12mAw)
@@ -1068,7 +670,6 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 * **[IEC 61499 Basic Course (DE)]** [The E_PERMIT Block: The "gatekeeper" for events in IEC 61499 systems explained]
 * **[IEC 61499 Basic Course (DE)]** [The E_T_FF in IEC 61499: Modular toggling for Industry 4.0]
 * **[IEC 61499 Basic Course (DE)]** [The E_T_FF_SR Block: The heart of IEC 61499 – storing, toggling, reacting]
-
 * **[IEC 61499 Basic Course (DE)]*** **[IEC 61499 Basic Course (DE)]** [DIN EN 61131-3 vs. 61499-1: Your Guide Through the Standards of Industrial Automation ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61131-3-vs--61499-1-Dein-Wegweiser-durch-die-Normen-der-Industrieautomatisierung-e36c6nc)
 * **[IEC 61499 Basic Course (DE)]** [DIN EN 61499-1 Demystified: Function Blocks, Object Orientation and Distributed Systems ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Entmystifiziert-Funktionsbausteine--Objektorientierung-und-verteilte-Systeme-e37229b)
 * **[IEC 61499 Basic Course (DE)]** [DIN EN 61499-1 Decoded: The Blueprint for Modular, Distributed Control Systems ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Entschlsselt-Der-Bauplan-fr-modulare--verteilte-Steuerungssysteme-e367nmj)
@@ -1097,7 +698,6 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 * **[Eclipse 4diac (DE)]** [Eclipse 4diac: Innovation Engine Research vs. User Needs – What Really Drives Development forward?](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Innovationsmotor-Forschung-vs--Nutzerbedrfnisse--Was-treibt-die-Entwicklung-wirklich-voran-e38cke4)
 * **[Eclipse 4diac (DE)]** [Eclipse 4diac: Open Source as a Game Changer for Industrial Controls?](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Open-Source-als-Game-Changer-fr-industrielle-Steuerungen-e372eru)
 * **[Eclipse 4diac (DE)]** [Eclipse 4diac: Open-Source Automation for Industry and Research according to IEC 61499](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Open-Source-Automatisierung-fr-Industrie-und-Forschung-nach-IEC-61499-e38b4na)
-
 * **[Eclipse 4diac (EN)]** [Eclipse 4diac: Revolutionizing Industrial Control with Open-Source Cyber-Physical Systems]
 * **[Eclipse 4diac (EN)]** [Eclipse 4diac: Unpacking Open-Source Industrial Automation and the Power of Application-Centric Design]
 * **[Eclipse 4diac (DE)]** [Eclipse 4diac: How Open Source Research and Practice Connect in Industrial Automation]
@@ -1125,7 +725,6 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 * **[IEC 61499 Basic Course (DE)]** [IEC 61499: Revolution of automation – Event-driven systems and intelligent data flows decrypted](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-Automatisierung--Ereignisgesteuerte-Systeme-und-intelligente-Datenflsse-entschlsselt-e375ghe)
 * **[IEC 61499 Basic Course (DE)]** [IEC 61499: Revolution of Automation – Event-Driven Function Blocks and Distributed Systems Explained](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-Automatisierung--Event-gesteuerte-FBs-und-verteilte-Systeme-erklrt-e3671vb)
 * **[IEC 61499 Basic Course (DE)]** [IEC 61499: Revolution of Industrial Automation – Why the New Standard Makes Your Systems Fit for the Future](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-Industrieautomation--Warum-der-neue-Standard-Ihre-Systeme-fit-fr-die-Zukunft-macht-e375evm)
-
 * **[IEC 61499 Basic Course (DE)]** [IEC 61499: Revolution of Distributed Automation – Origins, Concepts and Future Perspectives ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-verteilten-Automatisierung--Ursprnge--Konzepte-und-Zukunftsperspektiven-e3671sl)
 * **[IEC 61499 Basic Course (DE)]** [IEC 61499: How Modern Automation Wins – Strategies for Greater Reach and Business Impact ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-So-gewinnt-die-moderne-Automation--Strategien-fr-mehr-Reichweite-und-Business-Impact-e3ahc65)
 * **[IEC 61499 Basic Course (DE)]** [IEC 61499: Leap into Industry – ETFA 2025 and the Future of Automation ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Sprung-in-die-Industrie--ETFA-2025-und-die-Zukunft-der-Automatisierung-e376pnm)
@@ -1148,9 +747,7 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 * **[IEC 61499 Basic Course (DE)]** [Universe of Data Types as defined in IEC 61131-3 and IEC 61499](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Universum-der-Datentypen--wie-sie-in-der-IEC-61131-3-und-IEC-61499-e3673kb)
 * **[IEC 61499 Basic Course (DE)]** [Unlocking Universal Automation: The IEC 61499 Revolution from Factory Floors to the Seas](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Unlocking-Universal-Automation-The-IEC-61499-Revolution-from-Factory-Floors-to-the-Seas-e376p9m)
 * **[logiBUS]** [From 1400 Errors to Clean Code: Migrating the "Grain Hoe" to Eclipse 4diac™ 3.0 and the Does the AX adapter work? ](https://podcasters.spotify.com/pod/show/logibus/episodes/Von-1400-Fehlern-zum-sauberen-Code-Die-Migration-der-Getreidehacke-auf-Eclipse-4diac-3-0-und-die-Macht-der-AX-Adapter-e3ahcko)
-
 * **[Eclipse 4diac (DE)]** [From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0 ](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Von-der-SPS-zur-verteilten-Intelligenz-IEC-61499-fr-Industrie-4-0-verstehen-e36a78o)
-
 
 From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 ### Agricultural Technology / LAMA
@@ -1173,17 +770,11 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 * **[MS-MUC LAMA]** [Schlüter: From Imperial engine to 500 hp giant – Rise and fall of the powerful tractors from Freising](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Schlter-Vom-Kaiserreich-Motor-zum-500-PS-Giganten--Aufstieg-und-Fall-der-brenstarken-Traktoren-aus-Freising-e3a8j4o)
 * **[MS-MUC LAMA]** [Conflict, Division, Spectacle: 200 Years of Agricultural Research in Weihenstephan – How the Plow, Testing Station, and Cow Computer Changed the World ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Streit--Spaltung--Spektakel-200-Jahre-Agrarforschung-in-Weihenstephan--Wie-Pflug--Prfstation-und-Kuh-Computer-die-Welt-vernderten-e3aubep)
 
-
-```````````````````````````
-`
 ### Programming
 * **[YouTube]** [2025-03-30 19:41:34 Check Python Installation ](https://www.youtube.com/watch?v=pBo6QPdWtgA)
 * **[MS-MUC LAMA]** [Architectural Duel in Munich: King Ludwig's Palace Vision, Gärtner's Book Barracks and the Going ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Architektonisches-Duell-in-Mnchen-Knig-Ludwigs-Palast-Vision--Grtners-Bcherkaserne-und-die-gehe-e38tb8e)
 * **[YouTube]** [AI Leader: Coder to Architect ](https://www.youtube.com/watch?v=JCV9tn7QIww)
-
 * **[logiBUS]** [logiBUS® IO: Bye-bye Mapping! What the New System Architecture Really Changes ](https://podcasters.spotify.com/pod/show/logibus/episodes/logiBUS-IO-Bye-bye-Mapping--Was-die-neue-Systemarchitektur-wirklich-ndert-e36vfqs)
-
-
 
 ### Miscellaneous
 * **[MS-MUC LAMA]** [0 and 1: Why the binary system remains the foundation of our digital world despite the quantum leap]
@@ -1235,11 +826,8 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 ** **[MS-MUC LAMA]** [Old Bavarian for Beginners: From Gratler Colds to City Dwellers – A Sound Journey Through Lesson 3
 
 * **[MS-MUC LAMA]** [Old Bavarian for Beginners: How Crude Jokes Teach the ABCs of the Dialect
-
 * **[MS-MUC LAMA]** [From the Amazon Pizza Rule to the IKEA Effect: 12 Amazingly Simple Ideas Behind Huge Business Success
-
 * **[MS-MUC LAMA]** [Analysis of the Amendment to the Master Craftsman Examination Regulations in the Agricultural and Construction Machinery Mechatronics Trade: A Detailed Comparison of the 2024 and 2001 Regulations
-
 * **[YouTube]** [Analysis: Power for Pinecil](https://www.youtube.com/watch?v=xfeqUInuwLQ)
 * **[YouTube]** [Anatomy of Precision](https://www.youtube.com/watch?v=-T-ha5g2UzE)
 * **[IEC 61499 Prime Course (EN)]** [Anatomy of a Smart Machine](https://podcasters.spotify.com/pod/show/iec-61499-prime-course-en/episodes/Anatomy-of-a-Smart-Machine-e3a9qvt)
@@ -1269,7 +857,6 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 * **[logiBUS]** [Content Assist Revealed: The ingenious productivity booster for your VDC environment and how it automatically corrects errors](https://podcasters.spotify.com/pod/show/logibus/episodes/Content-Assist-Enthllt-Der-geniale-Produktivitts-Turbo-fr-deine-VDC-Umgebung-und-wie-er-Fehler-automatisch-korrigiert-e3ahch4)
 * **[MS-MUC LAMA]** [Cyrus McCormick and the Reaper: How a machine fed the world and sparked revolutions](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Cyrus-McCormick-und-der-Reaper-Wie-eine-Maschine-die-Welt-ernhrte-und-Revolutionen-auslste-e38me3h)
 * **[MS-MUC LAMA]** [Danfoss and Eaton Hydraulics twin story] end](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Danfoss-und-Eaton-Hydraulik-Zwillingsgeschichte-endet-e3bgpv9)
-
 * **[YouTube]** [The ESP32-S3-DevKitC-1](https://www.youtube.com/watch?v=fyQt3THIQEQ)
 * **[IEC 61499 Basic Course (DE)]** [The Secret of the 2-Bit Quadrant: Efficiency in the CAN Bus for Commercial Vehicles](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Das-Geheimnis-des-2-Bit-Quarter-Effizienz-im-CAN-Bus-fr-Nutzfahrzeuge-e3673bk)
 * **[YouTube]** [The Brain of the Computer](https://www.youtube.com/watch?v=EJs3fi8_wUo)
@@ -1304,7 +891,6 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 * **[YouTube]** [The Smart Switch ](https://www.youtube.com/watch?v=7Q1_v_LenFs)
 * **[YouTube]** [The Unstoppable Chip ](https://www.youtube.com/watch?v=ajRNO-jSVSo)
 * **[MS-MUC LAMA]** [The Underrated Hero: Why the Oil Reservoir Revolutionizes Your Hydraulic System ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Der-unterschtzte-Held-Warum-der-lbehlter-Ihr-Hydrauliksystem-revolutioniert-e373nm0)
-
 * **[YouTube]** [The Future-Proof Master](https://www.youtube.com/watch?v=-Z5qOZc94Ao)
 * **[YouTube]** [The Digital Toolbox](https://www.youtube.com/watch?v=gVBqcIgOYLY)
 * **[IEC 61499 Basic Course (DE)]** [The Three Timers of DIN EN 61131-3 Decoded – TP, TON & TOF Explained Precisely](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Die-drei-Timer-der-DIN-EN-61131-3-entschlsselt--TP--TON--TOF-przise-erklrt-e3dma77)
@@ -1342,11 +928,8 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 * **[MS-MUC LAMA]** [EN 61131-3: Industrial Programming Languages Decoded – Text vs. Graphics, Why the Standard Counts ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/EN-61131-3-Industrielle-Programmiersprachen-Entschlsselt--Text-vs--Grafik--Warum-die-Norm-Zhlt-e368k78)
 * **[MS-MUC LAMA]** [End of EEG Subsidies: Your Path to Energy Self-Sufficiency – PV, Storage & Smart Use ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Ende-der-EEG-Frderung-Ihr-Weg-zur-Energie-Autarkie--PV--Speicher--smarte-Nutzung-e371mk0)
 * **[IEC 61499 Basic Course (DE)]** [Event Handling: The ABCs of Automation and How Systems "Think" ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Ereignisbehandlung-Das-ABC-der-Automatisierung-und-wie-Systeme-denken-e3672vi)
-
 * **[IEC 61499 Basic Course (DE)]** [Event-Driven Timers: When Which One Makes Sense for a Fan – ETON, ETOF, ETP & More Explained ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Ereignisgesteuerte-Timer-Wann-welcher-am-Lfter-Sinn-macht--ETON--ETOF--ETP--mehr-entschlsselt-e36c4o0)
-
-
-`````````````````````````````````````````````````````[[[[[;? [;?? [;? [;? [? ...* **[IEC 61499 Basic Course (DE)]** [ERP Systems: The Digital Brain – Opportunities, Risks, and the Path to Intelligent Production]
+* **[IEC 61499 Basic Course (DE)]** [ERP Systems: The Digital Brain – Opportunities, Risks, and the Path to Intelligent Production]
 * **[MS-MUC LAMA]** [Kirchhoff's First Law (Kirchhoff's Current Law)]
 * **[YouTube]** [Awakening of the Chain Monster]
 * **[YouTube]** [ESP Web Tools]
@@ -1381,8 +964,6 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 * **[YouTube]** [Device Manager 2022 10 18 17 38 10](https://www.youtube.com/watch?v=l9kIRm3Wtas)
 * **[MS-MUC LAMA]** [Hot Bulb Dilemma and Missed Opportunities: The Critical Years That Led to the Sale of Lanz to John Deere.](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Glhkopf-Dilemma-und-verpasste-Chancen-Die-kritischen-Jahre--die-zum-Verkauf-von-Lanz-an-John-Deere-fhrten-e3abqke)
 * **[MS-MUC LAMA]** [Hot Bulb Engine: The Ingenious Third Way Between Diesel and Gasoline – Lanz Bulldog, Blowtorch, and the](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Glhkopfmotor-Der-geniale-Dritte-Weg-zwischen-Diesel-und-Benziner--Lanz-Bulldog--Ltlampe-und-der-e39kmeh)
-
-
 * **[YouTube]** [Hacker Night: Code, Monitors & Secrets That Keep Us Awake!]
 
 **[YouTube]** [Wood Chip Conveyor]
@@ -1420,13 +1001,9 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 * **[ISOBUS VT Objects]** [ISO Designer Demystified: Object-Oriented Thinking for Intelligent User Interfaces ](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/ISO-Designer-Entmystifiziert-Objektorientiertes-Denken-fr-Intelligente-Bedienoberflchen-e3673tn)
 * **[MS-MUC LAMA]** [James Watt and the Industrial Revolution: How an Invention Turned the World Upside Down ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/James-Watt-und-die-Industrielle-Revolution-Wie-eine-Erfindung-die-Welt-auf-den-Kopf-stellte-e36eblq)
 * **[MS-MUC LAMA]** [JBC Soldering Tips C470 vs. C245 vs. C210 vs. C115: Which tip is the all-rounder and when do you need the nano specialist?
-
 * **[MS-MUC LAMA]** [JBC Soldering Tip Technology Revealed: Five Times Longer Lifespan and 2-Second Turbo Heat – What the Guide Reveals About Efficiency and Maintenance]
-
 * **[MS-MUC LAMA]** [JBC's Soldering Secret: 350 Degrees in 2 Seconds and Why the Tip Determines Efficiency and Lifespan]
-
 * **[MS-MUC LAMA]** [JBC's Soldering Secret: 350 Degrees in 2 Seconds and Why the Tip Decides Efficiency and Lifespan]
-
 * **[MS-MUC LAMA]** [AI Agents Revolutionize Embedded Development in 10 Steps ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/KI-Agenten-revolutionieren-Embedded-Entwicklung-in-10-Stufen-e3dnv23)
 * **[YouTube]** [Comments on UniversalAutomation.org at IEEE ETFA 2025 ](https://www.youtube.com/watch?v=LMCsuxwTq9k)
 * **[MS-MUC LAMA]** [Capacitors and Inductors in Circuits ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Kondensatoren-und-Spulen-in-Schaltkreisen-e368jkc)
@@ -1443,9 +1020,7 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 * **[YouTube]** [Learn PLC Programming: A Cost-Effective Guide]
 * **[MS-MUC LAMA]** [Understanding LEDs: From Lighting to the LiFi Future – Why the Series Resistor Matters]
 * **[YouTube]** [Printed Circuit Board]
-
 * **[MS-MUC LAMA]** [Printed Circuit Board Design Saves Thousands of Euros]
-
 * **[MS-MUC LAMA]** [Printed Circuit Boards, Assemblies, Components, and...] Soldering](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Leiterplatten--Baugruppen--Bauelemente-und-Lten-e368ii0)
 * **[MS-MUC LAMA]** [Printed Circuit Boards: Manufacturing, Etching, and Assembly](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Leiterplatten-Herstellung--tzen-und-Bestckung-e368jrd)
 * **[MS-MUC LAMA]** [Supply Chain vs. Psyche: The Two Faces of Resilience – What Connects People and Organizations](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Lieferkette-vs--Psyche-Die-zwei-Gesichter-der-Resilienz--Was-Mensch-und-Organisation-verbindet-e39ib6q)
@@ -1465,8 +1040,6 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 * **[YouTube]** [LogiBUS® without Mapping: Simplified Installation & First Steps for Master Students ](https://www.youtube.com/watch?v=NsRc1NeoCUQ)
 * **[logiBUS]** [Understanding logiBUS®: Direct Signal Transmission – The "Hello World" Automation ](https://podcasters.spotify.com/pod/show/logibus/episodes/logiBUS-verstehen-Direkte-Signalweiterleitung--Das-Hallo-Welt-der-Automatisierung-e36vlfg)
 * **[MS-MUC LAMA]** [Soldering Masterclass: Professional Tricks for Precision Electronics ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Lt-Meisterklasse-Profi-Tricks-fr-Przisionselektronik-e3augdi)
-
-
 * **[MS-MUC LAMA]*** **[YouTube]** [Soldering in the Year 2025 ](https://www.youtube.com/watch?v=fpcOFSE5sl0)
 * **[MS-MUC LAMA]** [Soldering with Style – The FNIRSI HS-01 Review ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Lten-mit-Stil--Der-FNIRSI-HS-01-im-Check-e368voj)
 * **[MS-MUC LAMA]** [Soldering from Classic to High-Tech Tools ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Lten-von-Klassik-zu-Hightech-Werkzeugen-e3bg0dr)
@@ -1500,9 +1073,7 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 * **[MS-MUC LAMA]** [Mastering Ohm's Law: The Electronics Primer Explains Series Circuits, Parallel Circuits, and the Me](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Ohmsches-Gesetz-meistern-Die-Elektronik-Fibel-erklrt-Reihenschaltung--Parallelschaltung-und-den-Me-e38djqa)
 * **[MS-MUC LAMA]** [Ohm's Law: Basics and Applications](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Ohmsches-Gesetz-Grundlagen-und-Anwendungen-e368gui)
 * **[MS-MUC LAMA]** [Open Circuits: The Hidden Beauty and Engineering Inside Our Electronics – Precision Work, Cat Hair, and Focus Stacking](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Open-Circuits-Die-verborgene-Schnheit-und-Ingenieurskunst-im-Inneren-unserer-Elektronik--Przisionsarbeit--Katzenhaar-und-Fokus-Stapelung-e3a9r77)
-
-
-```````````````````````````* **[MS-MUC LAMA]** [Open Circuits: The Hidden Aesthetics and Fascinating Complexity in the Cross-Section of Our Electronics ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Open-Circuits-Die-verborgene-sthetik-und-faszinierende-Komplexitt-im-Querschnitt-unserer-Elektronik-e3a9rol)
+* **[MS-MUC LAMA]** [Open Circuits: The Hidden Aesthetics and Fascinating Complexity in the Cross-Section of Our Electronics ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Open-Circuits-Die-verborgene-sthetik-und-faszinierende-Komplexitt-im-Querschnitt-unserer-Elektronik-e3a9rol)
 * **[YouTube]** [Open Circuits: The Inner Beauty ](https://www.youtube.com/watch?v=Lxfzy07JbIs)
 * **[MS-MUC LAMA]** [Open Source in Industry: More Than Code – A Network for Innovation and Collaboration ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Open-Source-in-der-Industrie-Mehr-als-Code--Ein-Netzwerk-fr-Innovation-und-Kollaboration-e372av2)
 * **[MS-MUC LAMA]** [Understanding Operational Amplifiers: The Magic of Ideal Op-Amps and Negative Feedback for Circuit Analysis ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Operationsverstrker-verstehen-Die-Magie-von-Ideal-OPV-und-Gegenkopplung-fr-Schaltungsanalyse-e368ktm)
@@ -1530,10 +1101,7 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 * **[MS-MUC LAMA]** [Switching, Stuttering, Stability: The Phenomenon of Contact Bouncing and Its Debouncing] in mechanics and electronics ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Schalter--Stottern--Stabilitt-Das-Phnomen-Kontaktprellen-und-seine-Entprellung-in-der-Mechanik-und-Elektronik-e36ab4u)
 * **[YouTube]** [Switch Fail! Why these Amazon buttons cause trouble! ](https://www.youtube.com/watch?v=0Mae1tR4wjw)
 * **[logiBUS]** [Understanding switch logic: How a toggle flip-flop works with logiBUS® – simple control in agricultural technology ](https://podcasters.spotify.com/pod/show/logibus/episodes/Schalterlogik-verstehen-So-funktioniert-ein-Toggle-Flip-Flop-mit-logiBUS--einfache-Steuerung-in-der-Landtechnik-e36vjo1)
-
 * **[MS-MUC LAMA]** [Schlüter 1500 Special: Turbo-toxicity, 40 years and the soul of a powerhouse ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Schlter-1500-Spezial-Turbo-Giftigkeit--40-Jahre-und-die-Seele-eines-Kraftprotzes-e39au2l)
-
-
 * **[YouTube]** [Schlüter: Rise & Fall](https://www.youtube.com/watch?v=_sJHl1uDNpo)
 * **[YouTube]** [Training video logiBUS® CAN - SAE J1939 Communication](https://www.youtube.com/watch?v=lA8lygx9598)
 * **[MS-MUC LAMA]** [Protection Circuitry: Variants and Fundamentals of Voltage Limitation](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Schutzbeschaltung-Varianten-und-Grundlagen-der-Spannungsbegrenzung-e368jq3)
@@ -1612,7 +1180,6 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 * **[MS-MUC LAMA]** [Oil Hydraulics Unleashed: How Power, Efficiency, and Smart Control Drive Machines ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/lhydraulik-Entfesselt-Wie-Kraft--Effizienz-und-clevere-Steuerung-Maschinen-antreiben-e373l6s)
 * **[MS-MUC LAMA]** [Oil Hydraulics: The Invisible Heroes of Cleanliness – Why Filters Are Lifesavers for Your Systems ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/lhydraulik-Die-unsichtbaren-Helden-der-Sauberkeit--Warum-Filter-Lebensretter-fr-Ihre-Systeme-sind-e373np7)
 
-
 **[MS-MUC LAMA]** [Oil Hydraulics: The Invisible Heroes of Cleanliness – Why Filters Are Lifesavers for Your Systems ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/lhydraulik-Die-unsichtbaren-Helden-der-Sauberkeit--Warum-Filter-Lebensretter-fr-Ihre-Systeme-sind-e373np7)
 
 **[MS-MUC LAMA]*** **[YouTube]** [Exercise 31: LED control with Devkit without DIN rail moped](https://www.youtube.com/watch?v=ZNbAw4bBUjg)
@@ -1621,9 +1188,7 @@ From PLC to distributed intelligence: Understanding IEC 61499 for Industry 4.0
 
 ## ⏳ Planned Topics (Coming Soon)
 
-
 There are currently no dedicated videos or podcasts available for the following wiki topics. These are planned:
-
 
 ### Wiki 0: Main wiki
 * Wiki 0: Main Wiki (coming soon)
@@ -1639,7 +1204,6 @@ There are currently no dedicated videos or podcasts available for the following 
 * DIN Rail Moped XL (coming soon)
 * ISOBUS Cable Small (coming soon)
 * Installation (coming soon)
-
 * Installation and Use of GitKraken: (coming soon)
 * IsoAgLib-ISOMAN (coming soon)
 * JTAG (coming soon)
@@ -1648,16 +1212,11 @@ There are currently no dedicated videos or podcasts available for the following 
 * Hardware Calculation (coming soon)
 * Lego (coming soon)
 * Optional (coming soon)
-
 * Package (coming soon)
 * Self-Test (coming soon)
-
 * Setting-up (Linux) (coming soon)
-
 * Installation Setting-up (coming soon)
-
 * Setting-up II (coming soon)
-
 * Wiki 1: C Programming in ISOBUS (coming soon)
 * blink_on_atom (coming soon)
 * cci_EasyExample (coming soon)
@@ -1740,15 +1299,10 @@ There are currently no dedicated videos or podcasts available for the following 
 ### Wiki 3: ISOBUS Technology
 * **Vehicle Direction/Speed (VDS) – PGN 65256 (0x18FEE8FE) in the J1939 protocol** (coming soon)
 * AEF ISOBUS CHECK Tool (coming soon)
-
 * Flowcharts (coming soon)
-
 * Bus Master (coming soon)
-
 * C Programming (coming soon)
-
 * CCI Displays (coming soon)
-
 * COG & SOG, Rapid Update (PGN 129026) in the NMEA 2000 standard (coming soon)
 * GPS Simulation on the Display (coming soon)
 * GPS Simulation via PC (avangardo) (coming soon)
@@ -1756,9 +1310,7 @@ There are currently no dedicated videos or podcasts available for the following 
 * IEC Programming according to IEC 61131-3 (coming soon)
 * ISO/OSI Layer Model (coming soon)
 * Literature (coming soon)
-
 * Literature on C Programming (coming soon)
-
 * Literature on ESP32 (coming soon)
 * Literature on ISOBUS Standards (coming soon) soon)
 * Literature SAE-J1939 (coming soon)
@@ -2875,13 +2427,10 @@ There are currently no dedicated videos or podcasts available for the following 
 * SliderAuxInStruct (coming soon)
 * SliderAuxOutStruct (coming soon)
 * SliderColorStruct (coming soon)
-
 * SliderControl (coming soon)
 * SliderStruct (coming soon)
-
 * SliderLock (coming soon)
 * SliderLockComposite (coming soon)
-
 * Step Chains & Sequencers (coming soon)
 * Sequencers and Step Chains (coming soon)
 * Signal Processing & PWM (coming soon)
@@ -2896,13 +2445,9 @@ There are currently no dedicated videos or podcasts available for the following 
 * Other German (coming soon)
 * Other English (coming soon)
 * Memory Elements and Click Events (coming soon)
-
 * Standard Libraries (coming soon)
-
 * Status (coming soon)
-
 * Create Control Drill Switches (coming soon)
-
 * TC_ID (coming soon)
 * TC_QD (coming soon)
 * TECU (coming soon)
@@ -2937,13 +2482,9 @@ There are currently no dedicated videos or podcasts available for the following 
 * Exercise_002: Signal Distribution to Multiple Outputs (Fan-Out) (coming soon)
 * Exercise_002_AX: Signal Distribution to Multiple Outputs (coming soon)
 * Exercise_002a2: Logic AND operation (Generic F_AND) (coming soon)
-
 * Exercise_002a2_AX: AND operation with signal conversion (coming soon)
-
 * Exercise_002a3: Logical OR operation (OR) (coming soon)
-
 * Exercise_002a3_AX: Logical OR operation of two signals (coming soon)
-
 * Exercise_002a4: Logical AND operation (AND_2_BOOL) (coming soon)
 * Exercise_002a5_AX: OR operation with three inputs (coming soon)
 * Exercise_002a5b: OR operation with signal distribution (coming soon)
@@ -2953,7 +2494,6 @@ There are currently no dedicated videos or podcasts available for the following 
 * Exercise_002a: Logical AND operation (AND) (coming soon)
 * Exercise_002a_AX: Logical AND operation of two signals (coming soon)
 * Exercise_002b2: Combinational Logic (AND/OR with F_MOVE) (coming soon)
-
 * Exercise_002b3: DigitalInput_I1/_I2/_I3 to DigitalOutput_Q1; without MOVE (coming soon)
 * Exercise_002b3_AX: Combinational Logic (AND/OR) (coming soon)
 * Exercise_003: Parallel Signal Paths (Standard Pins) (coming soon)
@@ -3089,27 +2629,16 @@ There are currently no dedicated videos or podcasts available for the following 
 * Uebung_010c4_AX: Multiple use Smart Softkey (coming soon)
 * Uebung_010c4_sub: Softkey with feedback (variant) (coming soon)
 * Uebung_010c: Visual softkey feedback (coming (coming soon)
-
 * Exercise_010c_AX: Softkey Feedback (Visual) (coming soon)
-
 * Exercise_011: Numeric Input (Universal Terminal) (coming soon)
-
 * Exercise_011_AUDI: Numeric Input with Adapters (coming soon)
-
 * Exercise_011a2: Dynamic Display (Long Press Release) (coming soon)
-
 * Exercise_011a: Dynamic Display (Repeat Done) (coming soon)
-
 * Exercise_012: Persistent Data Storage (NVS) (coming soon)
-
 * Exercise_012a: Modular Storage (Typed SubApp) (coming soon)
-
 * Exercise_012a_sub: Persistent Setting Value (SubApp) (coming soon)
-
 * Exercise_012b: Saving to INI Files (coming soon)
-
 * Exercise_012c: Saving Text (Strings) (coming soon)
-
 * Exercise_013: Softkey SR Flip-Flop (Memory) (coming soon)
 * Exercise_013_AX: Softkey SR Flip-Flop (coming soon)
 * Exercise_014: Show/Hide Objects (Container) (coming soon)
@@ -3120,7 +2649,6 @@ There are currently no dedicated videos or podcasts available for the following 
 * Exercise_017: Audible Signals (Beep) (coming soon)
 * Exercise_018: Melodies and Sequences (Audio Delay) (coming soon)
 * Exercise_019: Screen Switching (coming soon)
-
 * Exercise_019a: Alarm Masks and Acknowledgement (coming soon)
 * Exercise_019b: Alarm Logic with Hardware Output (coming soon)
 * Exercise_019c: Interactive Alarm Interlock (coming soon)
@@ -3161,25 +2689,15 @@ There are currently no dedicated videos or podcasts available for the following 
 * Exercise_026_sub: Sequence Actuator Unit (SubApp) (coming soon)
 * Exercise_028: Analog Inputs (Measurements) (coming soon)
 * Exercise_029: LED Status Indicators (Frequencies) (coming soon) (coming soon)
-
 * Exercise_030: PWM LED Effects (Breathing) (coming soon)
-
 * Exercise_031: RGB LED Strip (HSV Control) (coming soon)
-
 * Exercise_032: Multicolor LED Strip Effects (coming soon)
-
 * Exercise_033: Modular RGB Control (coming soon)
-
 * Exercise_033_sub: Modular RGB Channel (SubApp) (coming soon)
-
 * Exercise_034: Power Control (Analog to PWM) (coming soon)
-
 * Exercise_034a1_Q1: PWM Value from Terminal (Channel 1) (coming soon)
-
 * Exercise_034a1_Q2: PWM Value from Terminal (Channel 2) (coming soon)
-
 * Exercise_034a1_Q4: PWM Value from Terminal (Channel 4) (coming soon)
-
 * Exercise_034b: Dynamic PWM Keying (Hold) (coming soon)
 * Exercise_035: Step Chain Control (4 Phases) (coming soon)
 * Exercise_035a2: Traffic Light Circuit with Flashing Phase (coming soon)
@@ -3188,9 +2706,7 @@ There are currently no dedicated videos or podcasts available for the following 
 * Exercise_036: Event-Controlled Step Chain (coming soon)
 * Exercise_037: Endless Step Chain (Loop) (coming soon)
 * Exercise_038: Time-Controlled Chasing Light (8-fold) (coming soon)
-
 * Exercise_038_AX: Chasing Light (Time-Controlled) (coming soon)
-
 * Exercise_039: Hydraulic Valve Control (coming soon)
 * Exercise_039_sub_NumbDisplay (coming soon)
 * Exercise_039a: Directional Control Valve (3/2-way) (coming soon)
@@ -3262,7 +2778,6 @@ There are currently no dedicated videos or podcasts available for the following 
 * Exercise 126: Cyclic Sending with Callback (coming soon)
 * Exercise 127: Cyclic Sending (Static Data) (coming soon)
 * Exercise 128: Global Broadcast (coming soon)
-
 * Exercise_12x_sub (coming soon)
 * Exercise_130: Receiving Custom PGN (Peer-to-Peer) (coming soon)
 * Exercise_131: Cyclic Receiving with Monitoring (coming soon)
@@ -3491,33 +3006,21 @@ There are currently no dedicated videos or podcasts available for the following 
 * types (coming soon)
 * unidirectional (coming soon)
 * unidirectional conversion (coming (coming soon)
-
 * utils (coming soon)
-
 * version (coming soon)
-
 * distributor (coming soon)
-
 * wago (coming soon)
-
 * zephyr (coming soon)
-
 * About Eclipse 4diac™ (coming soon)
-
 * Overview of Visual Programming Languages (coming soon)
-
 * Exercise 039a - Sub-Application Outputs (coming soon)
-
 * Exercises (workspace test_AX) (coming soon)
-
 * Exercises (workspace test_B) (coming soon)
-
 * Practice Tasks (coming soon)
-
 * 🚜 4diac Training: Valve Control & ISOBUS Automation (coming soon)
 
-
 ### Wiki 5: Tools
+
 * Crimping (coming soon)
 * DWS-200 (coming soon)
 * German crimping pliers set (coming soon)
@@ -3583,97 +3086,53 @@ There are currently no dedicated videos or podcasts available for the following 
 ## 📓 NotebookLM
 
 * [Direct I/O Interconnection in logiBUS®: Exercise 001](https://notebooklm.google.com/notebook/a6872e59-1dfc-4132-a118-aff1bc7bc944)
-
 * [Digital Input and Output Connection with logiBUS® Exercise_001_AX](https://notebooklm.google.com/notebook/041f4df4-b729-484d-b786-b6dcdf151961)
-
 * [Engineering Trends: IEC 61131 vs. IEC 61499](https://notebooklm.google.com/notebook/c0639f91-23c3-4194-b347-e789f4a32732)
-
 * [Engineering Trends: IEC 61131 vs. IEC 61499](https://notebooklm.google.com/notebook/bf1b73cf-1ca5-4ba2-a2f1-0c336f75af09)
-
 * [3M Double-Sided Adhesive Tape 93020LE](https://notebooklm.google.com/notebook/d14c7b68-a9dc-4006-9950-25c5fffed702)
-
 * [3M Transfer Adhesive Tape 468MP](https://notebooklm.google.com/notebook/e84f563b-d6d5-47c5-8db2-c3df74a934ee)
-
 * [CPU / Microprocessor Basics](https://notebooklm.google.com/notebook/d713f107-c0c5-4694-8f3a-86da920095cb)
-
 * [Datasheet: WR-TBL 7097 Horizontal SMT Terminal Block ](https://notebooklm.google.com/notebook/8dca03a5-da20-4b09-99f4-46421ce90077)
-
 * Data Types ](https://notebooklm.google.com/notebook/42980c6a-51a9-4c1c-8b42-258dec92e570)
-
 * Connector Derating: Theory and Characteristic Curves ](https://notebooklm.google.com/notebook/1d182618-3af1-4cac-b37a-f39d7b65f3fe)
-
 * Eclipse 4diac™ ](https://notebooklm.google.com/notebook/ea007636-7163-451b-9ff6-de748b8b5530)
-
 * Connector Inrush Current Behavior: An Analysis ](https://notebooklm.google.com/notebook/527713e4-7ac3-46ea-9273-21ac09a0812d)
-
 * ESP IoT Solution: Pushbutton Drivers and Event Control ](https://notebooklm.google.com/notebook/14313ad8-e034-4932-97ea-aaaffff20a53)
-
 * ESP32-S3 Devkit Development Board Documentation ](https://notebooklm.google.com/notebook/6b6e4eae-d37f-49e8-b359-d89c3baedfd0)
-
 * Event and Boolean ](https://notebooklm.google.com/notebook/28172f3b-1936-4173-99ab-7d96bec5fd17)
-
 * Fundamentals and Interconnections of Digital Technology ](https://notebooklm.google.com/notebook/80002b86-13fe-4afc-8479-56667abeb18e)
-
 * DIN Rail Moped XL: Project and Hardware Details ](https://notebooklm.google.com/notebook/4e876888-8950-4705-baf9-f663135fa836)
-
 * [IEC 61499 Adapter Concept: EVENT & BOOL ](https://notebooklm.google.com/notebook/c308fbfc-ed3f-4cf7-90b4-a12ef4331150)
-
 * [IEC 61499 Adapter Concept: Simplified Function Block Network ](https://notebooklm.google.com/notebook/f5e86f38-7a72-448a-bef5-7e9ac480895d)
-
 * [IEC 61499 Adapter Concept: Simplification ](https://notebooklm.google.com/notebook/de2bae74-e4c9-4069-a8ac-7a7525d0b36d)
-
 * [Infographic: Boolean Algebra of Logic ](https://notebooklm.google.com/notebook/b253ca36-906d-45c4-a92b-0678948a2cbc?artifactId=802912d0-564e-4e24-8acb-e0db92f0f271)
-
 * [ISODesigner Quiz Questions ](https://notebooklm.google.com/notebook/994cb0f6-6470-4470-ac6a-830b168de098)
-
 * [Terminal Blocks: Standard, Modified, and Custom ](https://notebooklm.google.com/notebook/2fb764a2-6818-4d74-8633-38f3ce5e81cd)
-
 * [Capacitor (Context) ](https://notebooklm.google.com/notebook/4713dd98-58e1-4457-a152-e3f4df6970d5)
-
 * [Contact Debouncing Circuit for Buttons](https://notebooklm.google.com/notebook/6d8f93c4-c2f9-4c80-8b88-e798be5351da)
-
 * [Power Driver (Context 1)](https://notebooklm.google.com/notebook/d9695871-9860-4ebf-8328-4bd8d75a6383)
-
 * [Power Driver (Context 2)](https://notebooklm.google.com/notebook/0c1e6043-316e-475f-b63c-4250da86d865)
-
 * [Power Driver (Context 3)](https://notebooklm.google.com/notebook/96e8daca-37c9-4c80-8cd6-f87884fb031d)
-
 * [PCB Design](https://notebooklm.google.com/notebook/4cd4a61e-1b89-47d9-b0c2-03d819c7c629)
-
 * [LM74700-Q1 Ideal Diode Controller for Battery Protection](https://notebooklm.google.com/notebook/b3814089-e201-4d2c-a552-ee1bfbcc7459)
-
 * [LogiBUS® on the Way to Eclipse 4diac™ 3.0](https://notebooklm.google.com/notebook/ae3392c4-c3c5-4457-b354-6adf3eefa7af)
-
 * [DIN Rail Mounting (Introduction and Soldering)](https://notebooklm.google.com/notebook/148edf72-37ea-4070-8bed-62b202a2daad)
-
 * [MX74700T: Ideal Diode Controller for Battery Protection ](https://notebooklm.google.com/notebook/c08e5a3f-4128-4464-bef0-28e51fc440b5)
-
 * Notebook: The Mathematical Analysis of Logic ](https://notebooklm.google.com/notebook/b253ca36-906d-45c4-a92b-0678948a2cbc)
-
 * Standards Organizations (Part 2) ](https://notebooklm.google.com/notebook/2aad5c97-3c0f-4608-b48c-3251bb41150a)
-
 * Standards Organizations (Part 1) ](https://notebooklm.google.com/notebook/555cd42e-86bc-4542-929d-63224b8bb9e6)
-
 * Relay Types: Small Signal, Load, and Hybrid Function ](https://notebooklm.google.com/notebook/32d7fd8a-1194-4349-9830-9b587d509e3a)
-
 * Tactile Switches from Würth Elektronik eiSos ](https://notebooklm.google.com/notebook/f5ff7c06-99cf-4b2d-bbf6-bb2c510dbea6)
-
 * Harmonized Standards / Introduction to European Standardization ](https://notebooklm.google.com/notebook/9f10342a-5502-4bc6-a041-d728fce508e5)
-
-
 
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
 
 * [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de
-
 * [🌐 The right soldering tip for the mechatronics engineer (web app & comparison on ms-muc-docs.de)
-
 * [🌐 E_CTU event counter module on ms-muc-docs.de
-
 * [🌐 Eclipse 4diac IDE & color reference on ms-muc-docs.de
-
 * [🌐 Ohm's law & formula wheel on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/ohmsches-gesetz/)
 * [🌐 Kirchhoff's Laws on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/kirchhoffsche-regeln/)
 * [🌐 Total Resistance in Series & Parallel Circuits on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
@@ -3681,9 +3140,7 @@ There are currently no dedicated videos or podcasts available for the following 
 * [🌐 Diode & Semiconductor Basics on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/diode/diode/)
 * [🌐 Smart Switch vs. Relay on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/smart-switch/relais-vs-smart-switch/)
 * [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
-
 * [🌐 PCB Design & Assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
-
 * [🌐 The PWM Signal & Infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/automatisierung/das-pwm-signal-die-kunst-spannung-zu-zerhacken/das-pwm-signal-die-kunst-spannung-zu-zerhacken-website/)
 
-]
+
