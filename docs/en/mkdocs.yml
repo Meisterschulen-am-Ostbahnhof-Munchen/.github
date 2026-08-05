@@ -1,0 +1,46 @@
+docs_dir: .
+markdown_extensions:
+- attr_list
+- md_in_html
+- tables
+- fenced_code
+- toc:
+    permalink: true
+plugins:
+- search
+site_name: Wiki der Meisterschulen am Ostbahnhof München (0)
+site_url: https://docs.ms-muc-docs.de/
+extra:
+  alternate:
+  - lang: de
+    link: /de/latest/
+    name: Deutsch
+  - lang: en
+    link: /en/latest/
+    name: English
+repo_url: https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github
+edit_uri: edit/main/docs/en/de/de/
+view_uri: blob/main/docs/en/de/de/
+theme:
+  features:
+  - navigation.sections
+  - navigation.expand
+  - search.suggest
+  - search.highlight
+  - content.action.edit
+  - content.action.view
+  language: en
+  name: material
+  palette:
+  - accent: indigo
+    primary: indigo
+    scheme: default
+    toggle:
+      icon: material/brightness-7
+      name: Switch to dark mode
+  - accent: indigo
+    primary: indigo
+    scheme: slate
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
