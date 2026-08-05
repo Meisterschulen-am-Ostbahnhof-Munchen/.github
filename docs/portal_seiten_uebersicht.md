@@ -187,7 +187,7 @@ Lebenslanges selbstgesteuertes Lernen bezeichnet einen kontinuierlichen Lernproz
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Digitaltechnik0️⃣1️⃣](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/digitaltechnik01/)
   > IT an der Bar
-* [ESP32 an der ms-muc](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-an-der-ms-muc/)
+* [ESP32 an der ms-muc](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-an-der-ms-muc/)
   > Espressif: 
 https://www.espressif.com/ 
 
@@ -196,21 +196,21 @@ ESP32 S3
 https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf 
 Modul: 
 ESP32...
-* [ESP32-S3 Chip](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-chip/)
+* [ESP32-S3 Chip](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-chip/)
   > ESP32-S3 Infografik
-* [ESP32-S3 DevKit](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
+* [ESP32-S3 DevKit](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-devkit/)
   > ESP32-S3 DevKit
-* [ESP32-S3 Infografik](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-chip/esp32-s3-infografik/)
+* [ESP32-S3 Infografik](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-chip/esp32-s3-infografik/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
-* [ESP32-S3 Modul](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-modul/)
+* [ESP32-S3 Modul](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-modul/)
   > ESP32-S3 Modul
-* [ESP32-S3-DevKitC-1 Infografik](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-devkitc-1-infografik/)
+* [ESP32-S3-DevKitC-1 Infografik](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-devkit/esp32-s3-devkitc-1-infografik/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
-* [ESP32-S3-DevKitC-1 Interaktive Anwendung](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-devkitc-1-interaktive-anwendung/)
+* [ESP32-S3-DevKitC-1 Interaktive Anwendung](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-devkit/esp32-s3-devkitc-1-interaktive-anwendung/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
-* [ESP32-S3-WROOM-2 AIoT Infografik](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-modul/esp32-s3-wroom-2-aiot-infografik/)
+* [ESP32-S3-WROOM-2 AIoT Infografik](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-modul/esp32-s3-wroom-2-aiot-infografik/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
-* [ESP32-S3-WROOM-2 Interaktiver Report](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-modul/esp32-s3-wroom-2-interaktiver-report/)
+* [ESP32-S3-WROOM-2 Interaktiver Report](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-modul/esp32-s3-wroom-2-interaktiver-report/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [IC](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/erfindung-des-ic/ic/)
   > https://de.wikipedia.org/wiki/Integrierter_Schaltkreis 
@@ -232,7 +232,7 @@ Jack S. Kilby: Invention...
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Interaktive Geschichte des Mikrocontrollers](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mikrocontroller-mcu/interaktive-geschichte-des-mikrocontrollers/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
-* [Interaktive Übersicht: ESP32-S3 SoC](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-chip/interaktive-übersicht-esp32-s3-soc/)
+* [Interaktive Übersicht: ESP32-S3 SoC](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-chip/interaktive-übersicht-esp32-s3-soc/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Interaktiver Mikrocontroller-Guide](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mikrocontroller-mcu/interaktiver-mikrocontroller-guide/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
@@ -297,7 +297,7 @@ Lötspitzen
 Aktive Lötspitzen bieten in der Regel eine höhere Leistung und bessere Temperaturstabilität an der Lötstelle, was das Arbeiten schneller ...
 * [Mess- und Prüftechnik in der Werkstatt](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/messtechnik/mess-und-prüftechnik-in-der-werkstatt/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
-* [Sichtprüfung von Crimpverbindungen](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/crimptechnik/sichtpruefung-von-crimpverbindungen/)
+* [Sichtprüfung von Crimpverbindungen](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/crimptechnik/crimptechnik-und-steckersysteme/)
   > Kompakte Übersicht zur Qualitätssicherung und Sichtprüfung offener Crimpverbindungen nach Prüfpostern von Kabelforum.com.
 * [Web-App: Lötspitzen für Profis](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/web-app-lötspitzen-für-profis/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
@@ -305,9 +305,9 @@ Aktive Lötspitzen bieten in der Regel eine höhere Leistung und bessere Tempera
 ---
 
 ## 📐 Automatisierung & Signalformen
-* [Das PWM-Signal: Die Kunst, Spannung zu zerhacken Infografik](https://www.ms-muc-docs.de/automatisierung/das-pwm-signal-die-kunst-spannung-zu-zerhacken/das-pwm-signal-die-kunst-spannung-zu-zerhacken-infografik/)
+* [Das PWM-Signal: Die Kunst, Spannung zu zerhacken Infografik](https://www.ms-muc-docs.de/automatisierung/das-pwm-signal-die-kunst-spannung-zu-zerhacken/das-pwm-signal-die-kunst-spannung-zu-zerhacken-website/das-pwm-signal-die-kunst-spannung-zu-zerhacken-infografik/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
-* [Das PWM-Signal: Die Kunst, Spannung zu zerhacken Website](https://www.ms-muc-docs.de/automatisierung/das-pwm-signal-die-kunst-spannung-zu-zerhacken/das-pwm-signal-die-kunst-spannung-zu-zerhacken-website/)
+* [Das PWM-Signal: Die Kunst, Spannung zu zerhacken Website](https://www.ms-muc-docs.de/automatisierung/das-pwm-signal-die-kunst-spannung-zu-zerhacken/das-pwm-signal-die-kunst-spannung-zu-zerhacken-website/das-pwm-signal-die-kunst-spannung-zu-zerhacken-website/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Das ratiometrische Signal Infografik](https://www.ms-muc-docs.de/automatisierung/das-ratiometrische-signal/das-ratiometrische-signal-infografik/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
