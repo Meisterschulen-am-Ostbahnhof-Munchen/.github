@@ -312,22 +312,24 @@ def shift_headings(markdown_text, shift, page_id):
                 title = match.group(1)
                 
                 # Check if we should attach the target ID to the first heading we see in the file
+                id_suffix = ""
                 if not attached_id:
                     # Strip any existing id if present in the header
                     title = re.sub(r'\{#[^}]+\}', '', title).strip()
+                    id_suffix = f" {{#{page_id}}}"
                     attached_id = True
                     
                 if shift > 0:
                     new_hashes = '#' * (len(hashes) + shift)
-                    line = f"{new_hashes} {title}"
+                    line = f"{new_hashes} {title}{id_suffix}"
                 else:
-                    line = f"{hashes} {title}"
+                    line = f"{hashes} {title}{id_suffix}"
                     
         new_lines.append(line)
         
     # If no heading was found in the file, we prepend a target anchor
     if not attached_id:
-        new_lines.insert(0, f"\n# {page_id.replace('-', ' ').title()}\n")
+        new_lines.insert(0, f"\n# {page_id.replace('-', ' ').title()} {{#{page_id}}}\n")
         
     return '\n'.join(new_lines)
 
