@@ -31,6 +31,7 @@ html_meta:
 This page is your central hub ("super search"). A search here in the main wiki automatically searches all wikis listed below simultaneously. Find tutorials, technical information, and learning materials quickly and efficiently.
 
 **Useful Links & Main Portal:**
+
 * 🌐 [**Main Portal Master Schools Munich**](https://www.ms-muc-docs.de/)
 * 🌐 [**Page overview of the main portal (140 portal pages)**](./portal_seiten_uebersicht.md)
 * 📋 **[This is in the curriculum (Curriculum 2025)](./das_steht_im_lehrplan.md)**

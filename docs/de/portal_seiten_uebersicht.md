@@ -197,6 +197,7 @@ ESP32 S3
 https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf 
 Modul: 
 ESP32...
+
 * [ESP32-S3 Chip](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-chip/)
   > ESP32-S3 Infografik
 * [ESP32-S3 DevKit](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/esp32-s3-devkit/)
@@ -217,6 +218,7 @@ ESP32...
   > https://de.wikipedia.org/wiki/Integrierter_Schaltkreis 
 https://de.wikipedia.org/wiki/Integrierter_Schaltkreis#cite_note-Kilby1976-5
 Jack S. Kilby: Invention...
+
 * [Infografik Mikrocontroller](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mikrocontroller-mcu/infografik-mikrocontroller/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Infografik: Die Anatomie des Mikrochips](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mikroprozessor-mpu/mikrochip-grundlagen/infografik-die-anatomie-des-mikrochips/)
@@ -246,6 +248,7 @@ https://de.wikipedia.org/wiki/Texas_Instruments_TMS1000
 
 Interaktiver Mikrocontroller-Guide 
 Infografik Mikro...
+
 * [Mikroelektronik](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/)
   > Mikroelektronik
 * [Mikroprozessor (MPU) vs. Mikrocontroller (MCU)](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mpu-vs-mcu/mikroprozessor-mpu-vs-mikrocontroller-mcu/)
@@ -279,6 +282,7 @@ Infografik Mikro...
 * [Die richtige Lötspitze für den Mechatroniker](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
   > Skript: Die richtige Lötspitze für den Mechatroniker
 Szene: Die Werkstatt der Meisterschulen am Ostbahnhof. Meister Gruber (M.) beobachtet seinen Schüler Max...
+
 * [Infografik: Aktive vs. Passive Lötspitzen](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/infografik-aktive-vs-passive-lötspitzen/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Infografik: Aktive vs. Passive Lötspitzen](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/infografik-aktive-vs-passive-lötspitzen_1/)
@@ -292,10 +296,12 @@ Szene: Die Werkstatt der Meisterschulen am Ostbahnhof. Meister Gruber (M.) beoba
 * [JBC Lötspitzen-Übersicht](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
   > JBC Soldering Spitzen
 Wiki:
+
 * [Lötkolben](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/)
   > Hinweise
 Lötspitzen
 Aktive Lötspitzen bieten in der Regel eine höhere Leistung und bessere Temperaturstabilität an der Lötstelle, was das Arbeiten schneller ...
+
 * [Mess- und Prüftechnik in der Werkstatt](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/messtechnik/mess-und-prüftechnik-in-der-werkstatt/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Sichtprüfung von Crimpverbindungen](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/crimptechnik/crimptechnik-und-steckersysteme/)
@@ -336,6 +342,7 @@ hier lang
 
 
 Sie finden die Dokumente unter folgenden
+
 * [Abkürzungen und Bedeutungen](https://www.ms-muc-docs.de/iec-61499/abkürzungen-und-bedeutungen/abkürzungen-und-bedeutungen/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [E_CTU](https://www.ms-muc-docs.de/iec-61499/event-function-blocks/e_ctu/)
@@ -371,6 +378,7 @@ Sie finden die Dokumente unter folgenden
 Wikipedia
 https://de.wikipedia.org/wiki/Ada_Lovelace 
 https://de.wikipedia.org/wiki/Frauen_in_der_Informatik
+
 * [Informatik](https://www.ms-muc-docs.de/informatik/)
   > Informatik
 * [Interaktive Erkundung der Booleschen Algebra](https://www.ms-muc-docs.de/informatik/boolesche-algebra/interaktive-erkundung-der-booleschen-algebra/)
@@ -385,6 +393,7 @@ Erste industrielle Revolution, Dampfmaschine, Max Eyth
 Agrar-Revolution 1883: Wie Max Eyth Englands Landwirtschaft modernisierte
 Landingpage
 Spot...
+
 * [Podcast Highlights](https://www.ms-muc-docs.de/podcasts/podcast-highlights/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 * [Podcasts](https://www.ms-muc-docs.de/podcasts/)
@@ -410,6 +419,7 @@ Spot...
 Sammlungen
 mediaTUM – der Medien- und Publikations­server der Technischen Universität München
 Das mediaTUM ist der Medien- und Publikationsserver d...
+
 * [Zwei Giganten, Ein Ziel](https://www.ms-muc-docs.de/literatur/zwei-giganten-ein-ziel/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 
@@ -419,6 +429,7 @@ Das mediaTUM ist der Medien- und Publikationsserver d...
 * [Messen](https://www.ms-muc-docs.de/veranstaltungen/messen/)
   > productronica
 Weltleitmesse für Entwicklung und Fertigung von Elektronik
+
 * [Seminare](https://www.ms-muc-docs.de/veranstaltungen/seminare/)
   > T
 T

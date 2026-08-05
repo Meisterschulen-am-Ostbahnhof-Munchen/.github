@@ -32,6 +32,7 @@ myst:
 Diese Seite ist Ihr zentraler Anlaufpunkt („Super-Suche“). Eine Suche hier im Haupt-Wiki durchsucht automatisch alle unten aufgeführten Wikis gleichzeitig. Finden Sie Anleitungen, technische Grundlagen und Lehrmaterialien schnell und effizient.
 
 **Nützliche Links & Hauptportal:**
+
 * 🌐 [**Hauptportal Meisterschulen München**](https://www.ms-muc-docs.de/)
 * 🌐 [**Seiten-Übersicht des Hauptportals (140 Portal-Seiten)**](./portal_seiten_uebersicht.md)
 * 📋 **[Das steht im Lehrplan (Lehrplan 2025)](./das_steht_im_lehrplan.md)**

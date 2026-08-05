@@ -15,6 +15,7 @@
 ## 🎯 Übergeordnete Ausbildungsziele & Stundenvolumen
 
 Der Rahmenlehrplan 2025 umfasst **1.190 Unterrichtsstunden (UE/UStd.)**, aufgeteilt in:
+
 - **Teil I – Fachpraxis (380 UE):** Meisterprüfungsprojekt & Situationsaufgabe
 - **Teil II – Fachtheorie (810 UStd.):** Fachtheoretische Module (davon 640 UStd. reine Technik & Organisation, 170 UStd. BWL/Betriebsführung)
 

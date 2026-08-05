@@ -9,6 +9,7 @@
 ## 🎯 Overarching training objectives & number of hours
 
 The 2025 curriculum framework comprises **1,190 teaching hours (UE/UStd.)**, divided into:
+
 - **Part I – Practical Training (380 units):** Master Craftsman Examination Project & Situational Task
 - **Part II – Specialized Theory (810 hours):** Specialized theoretical modules (of which 640 hours are pure technology & organization, 170 hours are business administration/management)
 
