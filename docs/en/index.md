@@ -1,13 +1,12 @@
 ---
 myst:
-  enable_extensions: ["colon_fence"]
-  html_meta:
-    "description lang=en": "Central documentation hub for Meisterschulen am Ostbahnhof München"
-    "description lang=de": "Zentrale Dokumentationsplattform der Meisterschulen am Ostbahnhof München"
-    "keywords": "Sphinx, MyST, Dokumentation, Meisterschulen"
-    "property=og:locale": "de"
+enable_extensions: ["colon_fence"]
+html_meta:
+"description lang=en": "Central documentation hub for Meisterschulen am Ostbahnhof München"
+"description lang=de": "Zentrale Dokumentationsplattform der Meisterschulen am Ostbahnhof München"
+"keywords": "Sphinx, MyST, Dokumentation, Meisterschulen"
+"property=og:locale": "de"
 ---
-
 
 <img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
 
@@ -39,7 +38,6 @@ This page is your central hub ("super search"). A search here in the main wiki a
 * [🎙️ Media Library (Videos & Podcasts)](medien.md)
 * [📄 Download PDF manual ](https://meisterschulen-am-ostbahnhof-munchen.github.io/.github/en/pdf/meisterschulen-wiki-en.pdf)
 
-
 ---
 
 ## 📚 Our Wikis and Projects
@@ -55,22 +53,15 @@ Here you will find direct access to the specialized documentation areas:
 | **Wiki 4** | **Visual Programming Languages** <br> Introduction and manual to low-code development environments (4diac). | [🧩 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/en/latest/) |
 | **Wiki 5** | **Electronics Tools** <br> Handbook for soldering techniques, measuring instruments and workshop equipment. | [🛠️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/) |
 
-
 ---
 
 <div align="center">
-  <sub>Main menu: <a href="https://www.ms-muc-docs.de/">www.ms-muc-docs.de</a></sub>
+<sub>Main menu: <a href="https://www.ms-muc-docs.de/">www.ms-muc-docs.de</a></sub>
 </div>
-
 
 ---
 
-
-
-
-
 [🏠 Main Menu ](https://www.ms-muc-docs.de/) | [🔍 Super Search (All Wikis) ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/en/latest/) | [Quick Search (IEC 61499) ](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen)
-
 
 ---
 

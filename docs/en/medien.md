@@ -1,9 +1,5 @@
 # 🎙️ Media Library
-
 Here you will find an overview of all videos and podcasts from the master craftsman schools at Munich East Station.
-
-
-
 ## 🎧 Podcasts
 ### Eclipse 4diac (DE)
 * [4diac IDE: Your "Hello World" of Automation – The Blinking Tutorial Local](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Dein-Hello-World-der-Automatisierung--Das-Blinking-Tutorial-Lokal-e36971r)
@@ -3020,7 +3016,6 @@ There are currently no dedicated videos or podcasts available for the following 
 * 🚜 4diac Training: Valve Control & ISOBUS Automation (coming soon)
 
 ### Wiki 5: Tools
-
 * Crimping (coming soon)
 * DWS-200 (coming soon)
 * German crimping pliers set (coming soon)
@@ -3084,7 +3079,6 @@ There are currently no dedicated videos or podcasts available for the following 
 * yihua (coming soon)
 
 ## 📓 NotebookLM
-
 * [Direct I/O Interconnection in logiBUS®: Exercise 001](https://notebooklm.google.com/notebook/a6872e59-1dfc-4132-a118-aff1bc7bc944)
 * [Digital Input and Output Connection with logiBUS® Exercise_001_AX](https://notebooklm.google.com/notebook/041f4df4-b729-484d-b786-b6dcdf151961)
 * [Engineering Trends: IEC 61131 vs. IEC 61499](https://notebooklm.google.com/notebook/c0639f91-23c3-4194-b347-e789f4a32732)
@@ -3128,7 +3122,6 @@ There are currently no dedicated videos or podcasts available for the following 
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-
 * [🌐 Interactive JBC soldering tip guide & infographic on ms-muc-docs.de
 * [🌐 The right soldering tip for the mechatronics engineer (web app & comparison on ms-muc-docs.de)
 * [🌐 E_CTU event counter module on ms-muc-docs.de
@@ -3142,5 +3135,4 @@ There are currently no dedicated videos or podcasts available for the following 
 * [🌐 ESP32 & ESP32-S3 DevKit on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
 * [🌐 PCB Design & Assembly on ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
 * [🌐 The PWM Signal & Infographic on ms-muc-docs.de](https://www.ms-muc-docs.de/automatisierung/das-pwm-signal-die-kunst-spannung-zu-zerhacken/das-pwm-signal-die-kunst-spannung-zu-zerhacken-website/)
-
 

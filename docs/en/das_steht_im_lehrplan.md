@@ -1,17 +1,11 @@
 # 📋 This is what the curriculum says: Framework curriculum 2025 (Technology & Overall Systematics)
-
 > 📌 **Source & Legal Basis:**
 > **Source:** *Framework curriculum for preparing for the master craftsman's examination in the agricultural and construction machinery mechatronics trade*
 > **Publisher:** German Association of Agricultural Machinery Manufacturers (LandBauTechnik-Bundesverband e. V.), Alfredstraße 102, 45131 Essen (Status: 25.02.2025)
 > **Regulation:** *Master Craftsman Examination Regulation (LandBauMechMstrV)* of 09.09.2024 (Federal Law Gazette 2024 I No. 277, in force from 01.08.2025)
-
 ---
-
-
 **Legal basis:** Master Examination Regulations in the Agricultural and Construction Machinery Mechatronics Trade (LandBauMechMstrV of 09.09.2024, Federal Law Gazette 2024 I No. 277, in force from 01.08.2025).
-
 ---
-
 ## 🎯 Overarching training objectives & number of hours
 
 The 2025 curriculum framework comprises **1,190 teaching hours (UE/UStd.)**, divided into:
@@ -52,7 +46,6 @@ The 2025 curriculum framework comprises **1,190 teaching hours (UE/UStd.)**, div
 | **Wiki 4** | **Visual Programming Languages** <br>Low-code development, IEC 61499 & 4diac IDE (main curriculum topic). | [🧩 Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/en/latest/) |
 | **Wiki 5** | **Electronic Tools & Measuring Instruments** <br> Handbook for crimping technology, soldering stations, oscilloscopes & microscopes. | [🛠️ Open ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/) |
 
-
 ## 🧭 Matrix overview: Which curriculum topic is in which wiki?
 
 | Subject area / Topic | Affected learning units | Wiki assignment | Direct link |
@@ -63,7 +56,6 @@ The 2025 curriculum framework comprises **1,190 teaching hours (UE/UStd.)**, div
 | **IEC 61499, Low Code & 4diac** | Part I LE 1.4, 2.6 / Part II LE 1.1 | **Wiki 4** (Visual Programming Languages) | [🧩 Wiki 4 Open](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/en/latest/) |
 | **Soldering Techniques, Crimping & Workshop Equipment** | Part I LE 1.3, 2.2 / Part II LE 1.2 | **Wiki 5** (Electronics Tools) | [🛠️ Open Wiki 5 ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/en/latest/) |
 | **Overall Curriculum Systematics & Examination Regulations** | Comprehensive | **Wiki 0** (Main Wiki) | [📖 Open Wiki 0 ](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/en/latest/) |
-
 
 ---
 
