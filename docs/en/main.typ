@@ -3,7 +3,7 @@
 #let horizontalrule = line(length: 100%, stroke: 0.5pt + luma(150))
 
 #show: book.with(
-  title: "Wiki der Meisterschulen am Ostbahnhof München (0)",
+  title: "Wiki of the Master Craftsmen's Schools at Munich East Station (0)",
   author: "Franz Höpfinger",
   date: "2022-2026",
   copyright: [2022-2026, Meisterschulen am Ostbahnhof - München],
