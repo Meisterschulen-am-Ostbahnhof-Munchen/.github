@@ -30,22 +30,22 @@ Here you will find an overview of all videos and podcasts from the master crafts
 * [The Future of Industrial Control: Decoding IEC 61499](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/The-Future-of-Industrial-Control-Decoding-IEC-61499-e36cjlj)
 
 ### IEC 61499 Basic Course (DE)
-* [Automation 4.0: Why Software Is Overtaking Hardware and What That Means for Your Skills]
-* [Building Tomorrow's Factories: Bridging OT and IT with IEC 61499]
-* [The Secret of the 2-Bit Quadrant: Efficiency in the CAN Bus for Commercial Vehicles]
-* [Data Communication in Automation: The Secrets of IEC 61499 Data Types]
-* [Data Types of IEC 61499]
-* [Decoding IEC 61499: The Industrial Revolution, Reshaping Factories and Careers]
+* [Automation 4.0: Why Software Is Overtaking Hardware and What That Means for Your Skills](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Dein-Hello-World-der-Automatisierung--Das-Blinking-Tutorial-Lokal-e36971r)
+* [Building Tomorrow's Factories: Bridging OT and IT with IEC 61499](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Dein-Open-Source-Werkzeugkasten-fr-verteilte-Industrieautomatisierung-nach-IEC-61499-e36821e)
+* [The Secret of the 2-Bit Quadrant: Efficiency in the CAN Bus for Commercial Vehicles](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Wie-der-IEC-61499-Standard-die-Industrieautomatisierung-revolutioniert-e36756a)
+* [Data Communication in Automation: The Secrets of IEC 61499 Data Types](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-Prsentation-Zielgruppen--Struktur-und-Alleinstellungsmerkmal-Schrfen-e38ckbo)
+* [Data Types of IEC 61499](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Den-Software-Drachen-zhmen-Industrielle-Automatisierung-und-die-Zukunft-der-Produktion-e372eg1)
+* [Decoding IEC 61499: The Industrial Revolution, Reshaping Factories and Careers](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-3-0-ST-Interpreter--FBE-und-7200-Commits--Der-Turbo-fr-verteilte-Automatisierung-e3a5cpl)
 * [The E_CTU in IEC 61499: Event-driven counting and why the minimalist approach is convincing in mechanical engineering
 * The E_CTU block: Event-driven incrementing in industry according to IEC 61499
 * The E_PERMIT block: The "gatekeeper" for events in IEC 61499 systems decoded
 * The E_T_FF in IEC 61499: Modular tilting for Industry 4.0
 * The E_T_FF_SR block: The heart of IEC 61499 – storing, switching, reacting
 * The three timers of DIN EN 61131-3 decoded – TP, TON & TOF Explained Precisely
-* [DIN EN 61131-3 vs. 61499-1: Your Guide Through the Standards of Industrial Automation]
-* [DIN EN 61131-3: The Heart of Agricultural and Construction Machinery Mechatronics and the Leap into the Future with Object Orientation]
-* [DIN EN 61499-1 Demystified: Function Blocks, Object Orientation, and Distributed Systems]
-* [DIN EN 61499-1 Decoded: The Blueprint for Modular, Distributed Control Systems]
+* [DIN EN 61131-3 vs. 61499-1: Your Guide Through the Standards of Industrial Automation](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-FORTE-IEC-61499-verstehen--Der-LEGO-Baukasten-fr-Ihre-Industrie-4-0-Steuerung-e3682kc)
+* [DIN EN 61131-3: The Heart of Agricultural and Construction Machinery Mechatronics and the Leap into the Future with Object Orientation](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Ihr-Fahrrad-fr-die-Industrie-4-0--Software-Aufwand-meistern-und-verteilte-Systeme-steuern-e368lq9)
+* [DIN EN 61499-1 Demystified: Function Blocks, Object Orientation, and Distributed Systems](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Innovationsmotor-Forschung-vs--Nutzerbedrfnisse--Was-treibt-die-Entwicklung-wirklich-voran-e38cke4)
+* [DIN EN 61499-1 Decoded: The Blueprint for Modular, Distributed Control Systems](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Open-Source-als-Game-Changer-fr-industrielle-Steuerungen-e372eru)
 * [DIN EN 61499-1: Building Blocks for Industry 4.0 – How Function Blocks Revolutionize Automation] Automation ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Baukltze-fr-die-Industrie-4-0--So-revolutionieren-Funktionsbausteine-die-Automatisierung-e3681j7)
 * [DIN EN 61499-1: The digital Lego set for flexible automation and a smart future ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Der-digitale-Lego-Baukasten-fr-flexible-Automatisierung-und-smarte-Zukunft-e3681pb)
 * [DIN EN 61499-1: The Lego bricks for flexible and event-driven industrial controls ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Die-Lego-Steine-fr-flexible-und-ereignisgesteuerte-Industriesteuerungen-e3681o1)
@@ -61,11 +61,11 @@ Here you will find an overview of all videos and podcasts from the master crafts
 
 ]* [E_TON in Industrial Automation: How a Simple Timer Creates Safety and Stability]
 
-* [Event-Based Automation in IEC 61499]
-* [Event Handling: The ABCs of Automation and How Systems "Think"]
-* [Event-Driven Timers: When Which One Makes Sense on a Fan – ETON, ETOF, ETP & More Explained]
-* [Events and IEC 61499: The Starting Signal for Intelligent Systems]
-* [ERP Systems: The Digital Brain – Opportunities, Risks, and the Path to Intelligent Production]
+* [Event-Based Automation in IEC 61499](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Open-Source-Automatisierung-fr-Industrie-und-Forschung-nach-IEC-61499-e38b4na)
+* [Event Handling: The ABCs of Automation and How Systems "Think"](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Eclipse-4diac-Wie-Open-Source-Forschung-und-Praxis-in-der-industriellen-Automatisierung-verbindet-e38bhlu)
+* [Event-Driven Timers: When Which One Makes Sense on a Fan – ETON, ETOF, ETP & More Explained](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/IEC-61499-Die-Zukunft-der-industriellen-Automatisierung-und-verteilten-Systeme-e369739)
+* [Events and IEC 61499: The Starting Signal for Intelligent Systems](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Industrie-4-0-Die-Magie-selbstkonfigurierender-Systeme-mit-fortiss--IEC-61499-und-Eclipse-4diac-e368lv5)
+* [ERP Systems: The Digital Brain – Opportunities, Risks, and the Path to Intelligent Production](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Schritt-2---4diac-Anwendungen-verteilen-e36974b)
 * [ETFA 2025: Plug and Produce – How IEC 61499 is Shaping Factory Automation] revolutionized](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/ETFA-2025-Plug-and-Produce--Wie-IEC-61499-die-Fabrikautomation-revolutioniert-e376pnk)
 * [EventFBs according to IEC 61499: Lego blocks of automation – How event function blocks work](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/EventFBs-nach-IEC-61499-Legosteine-der-Automatisierung--So-funktionieren-Ereignis-Funktionsbausteine-e375gjm)
 * [FB_TOF and E_TOF: Delay timers in IEC 61131-3 and 61499](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/FB_TOF-und-E_TOF-Verzgerungstimer-in-IEC-61131-3-und-61499-e368e2d)
@@ -73,8 +73,8 @@ Here you will find an overview of all videos and podcasts from the master crafts
 * [Function blocks and instances: Understanding the modular principle for modern agricultural and construction machinery](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Funktionsbausteine-und-Instanzen-Das-Baukastenprinzip-fr-moderne-Land--und-Baumaschinen-verstehen-e37243u)
 * [Future Automation Unlocked: Powering "Plug & Produce" and Protecting Your Privacy](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Future-Automation-Unlocked-Powering-Plug--Produce-and-Protecting-Your-Privacy-e376pbc)
 * [IEC 61499 vs. 61131: Do we need a new standard for IIoT? Analysis of a heated debate about distributed intelligence
-* [IEC 61499 vs. 61131: Necessary evolution or superfluous complication for the IIoT?]
-* [IEC 61499-1: The functional building block – Lego principle for modern control systems in agricultural and construction machinery]
+* [IEC 61499 vs. 61131: Necessary evolution or superfluous complication for the IIoT?](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Software-Drachen-zhmen-Warum-IEC-61499-die-Industrie-revolutionieren-knnte-e372ecb)
+* [IEC 61499-1: The functional building block – Lego principle for modern control systems in agricultural and construction machinery](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Von-der-SPS-zur-verteilten-Intelligenz-IEC-61499-fr-Industrie-4-0-verstehen-e36a78o)
 * [IEC 61499: Does the new standard liberate industrial automation?] A comparison with 61131 and the bridge between OT & IT.](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Befreit-der-neue-Standard-die-Industrieautomation--Ein-Vergleich-mit-61131-und-die-Brcke-zwischen-OT--IT-e368446)
 * [IEC 61499: The E_SR block decoded – Simplicity meets event-driven control ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Der-E_SR-Baustein-entschlsselt--Einfachheit-trifft-Ereignissteuerung-e3682bo)
 * [IEC 61499: Factory automation in transition – From vision to industrial reality ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Fabrikautomation-im-Umbruch--Von-der-Vision-zur-industriellen-Realitt-e376pne)
@@ -82,17 +82,17 @@ Here you will find an overview of all videos and podcasts from the master crafts
 * [IEC 61499: Revolution of automation – Event-driven FBs and distributed systems explained ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-Automatisierung--Event-gesteuerte-FBs-und-verteilte-Systeme-erklrt-e3671vb)
 * [IEC 61499: Revolution of industrial automation – Why the new standard makes your systems fit for the future ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-Industrieautomation--Warum-der-neue-Standard-Ihre-Systeme-fit-fr-die-Zukunft-macht-e375evm)
 * [IEC 61499: Revolution of Distributed Automation – Origins, Concepts, and Future Perspectives
-* [IEC 61499: How Modern Automation Wins – Strategies for Greater Reach and Business Impact]
-* [IEC 61499: Leap into Industry – ETFA 2025 and the Future of Automation]
-* [IEC 61499: The DNA of Flexible Automation – Powering Industry 4.0 from Factories to the High Seas]
-* [Industrial Revolution Reloaded: Unpacking Plug & Produce, Data Privacy, and ETFA 2025]
+* [IEC 61499: How Modern Automation Wins – Strategies for Greater Reach and Business Impact](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/Eclipse-4diac-and-FORTE-Unlocking-Next-Gen-Industrial-Automation-with-Open-Source-Power-e3682iu)
+* [IEC 61499: Leap into Industry – ETFA 2025 and the Future of Automation](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/Eclipse-4diac-Revolutionizing-Industrial-Control-with-Open-Source-Cyber-Physical-Systems-e368lqu)
+* [IEC 61499: The DNA of Flexible Automation – Powering Industry 4.0 from Factories to the High Seas](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/Eclipse-4diac-Unpacking-Open-Source-Industrial-Automation-and-the-Power-of-Application-Centric-Design-e3721li)
+* [Industrial Revolution Reloaded: Unpacking Plug & Produce, Data Privacy, and ETFA 2025](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/From-Pyramid-to-Plug-and-Play-The-Rise-of-Self-Configurable-Industrial-Automation-e368lvk)
 * [Understanding Industrial Automation: PLC, SCADA, MES, and ERP Decoded – A Journey Through Smart Automation] Factory](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Industrielle-Automation-verstehen-SPS--PLS--SCADA--MES-und-ERP-entschlsselt--Eine-Reise-durch-die-Smart-Factory-e3671qn)
-* [Industrial Automation: The Invisible Forces Behind Your Everyday Life – From Suitcases to the Perfect Apple]
-* [Industrial Automation: The Vyatkin Pyramid Decoded – From Sensor to ERP, and Why Connections Are Everything]
-* [Industrial Networks: The Nervous System of the Modern Factory – OT, IT & the Future of Automation]
-* [Master Knowledge 61499: The Event-Driven Up Counter (E_CTU) – Robust Counting in Agricultural Machinery Controls]
-* [MES: The Nervous System of the Modern Factory – Real-Time Manufacturing in Focus]
-* [Module 00 - Motivations and Origins]
+* [Industrial Automation: The Invisible Forces Behind Your Everyday Life – From Suitcases to the Perfect Apple](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/IEC-61499-Power-Up-Feature-Freeze-Reveals-the-Eclipse-4diac-3-0-Revolution-for-Industrial-Automation-e3a5cu3)
+* [Industrial Automation: The Vyatkin Pyramid Decoded – From Sensor to ERP, and Why Connections Are Everything](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/Simplifying-Industrial-Control-Your-Deep-Dive-into-Eclipse-4diac-and-IEC-61499-e3681v8)
+* [Industrial Networks: The Nervous System of the Modern Factory – OT, IT & the Future of Automation](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/The-Future-of-Industrial-Control-Decoding-IEC-61499-e36cjlj)
+* [Master Knowledge 61499: The Event-Driven Up Counter (E_CTU) – Robust Counting in Agricultural Machinery Controls](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Automatisierung-4-0-Warum-Software-die-Hardware-berholt-und-was-das-fr-deine-Skills-bedeutet-e375eqs)
+* [MES: The Nervous System of the Modern Factory – Real-Time Manufacturing in Focus](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Building-Tomorrows-Factories-Bridging-OT-and-IT-with-IEC-61499-e376pia)
+* [Module 00 - Motivations and Origins](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Das-Geheimnis-des-2-Bit-Quarter-Effizienz-im-CAN-Bus-fr-Nutzfahrzeuge-e3673bk)
 * [Module 01 - Software for Industrial Automation - a Development](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Modul-01---Software-fr-die-industrielle-Automatisierung---eine-Entwicklung-e3670as)
 * Module 01b - Software for Industrial Automation - A Development](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Modul-01b---Software-fr-die-industrielle-Automatisierung---eine-Entwicklung-e3671d4)
 * Module 02 - The Ecosystem of Industrial Automation](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Modul-02---Das-kosystem-der-industriellen-Automatisierung-e3670uo)
@@ -107,10 +107,10 @@ Here you will find an overview of all videos and podcasts from the master crafts
 * [PLC: The Invisible Brain of Industry – From Robust Hardware to IT/OT Convergence ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/SPS-Das-Unsichtbare-Gehirn-der-Industrie--Von-robuster-Hardware-zur-ITOT-Konvergenz-e375g1f)
 * [Universal Automation: How to Decouple Software and Hardware for the Future of Industry ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Universal-Automation-So-entkoppeln-Sie-Software-und-Hardware-fr-die-Zukunft-der-Industrie-e36849a)
 * [Universe of Data Types as Defined in IEC 61131-3 and IEC 61499 ](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Universum-der-Datentypen--wie-sie-in-der-IEC-61131-3-und-IEC-61499-e3673kb)
-* [Unlocking Universal Automation: The IEC 61499 Revolution from Factory Floors to the Seas]
-* [From Steam to IoT: The Evolution of Industrial Automation and PLCs]
-* [From Clicking Relays to Intelligent Code: How Software Revolutionized Industrial Control]
-* [From Watts to Industry 4.0: How Software Became the Heart of the Factory]
+* [Unlocking Universal Automation: The IEC 61499 Revolution from Factory Floors to the Seas](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Datenkommunikation-in-der-Automatisierung-Die-Geheimnisse-der-IEC-61499-Datentypen-e3672lj)
+* [From Steam to IoT: The Evolution of Industrial Automation and PLCs](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Datentypen-der-IEC-61499-e3672jf)
+* [From Clicking Relays to Intelligent Code: How Software Revolutionized Industrial Control](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Decoding-IEC-61499-The-Industrial-Revolution-Reshaping-Factories-and-Careers-e376ob1)
+* [From Watts to Industry 4.0: How Software Became the Heart of the Factory](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Der-E_CTU-in-der-IEC-61499-Ereignisgesteuertes-Zhlen-und-warum-der-Minimalist-im-Maschinenbau-berzeugt-e3a9qnq)
 
 *
 ### IEC 61499 Prime Course (EN)
@@ -175,12 +175,12 @@ Here you will find an overview of all videos and podcasts from the master crafts
 
 ]
 ### MS-MUC LAMA
-* [0 and 1: Why the binary system remains the foundation of our digital world despite the quantum leap]
-* [3000 Watt Lie: The TVS Diode Decoded]
-* [400 Million Tons of Digitizing Agricultural Logistics]
-* [61499 Automation: The True Story of the Minds]
-* [800 HP High-Tech Giant: What the ROPA Tiger 6S Operating Manual Reveals About Modern Agriculture and Extreme Safety]
-* [Ada Lovelace: The Poet of Science – Visionary, Programmer, and the Fight for the Digital Legacy]
+* [0 and 1: Why the binary system remains the foundation of our digital world despite the quantum leap](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Der-E_CTU-Baustein-Ereignisgesteuertes-Hochzhlen-in-der-Industrie-nach-IEC-61499-e36846t)
+* [3000 Watt Lie: The TVS Diode Decoded](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Der-E_PERMIT-Baustein-Der-Trsteher-fr-Ereignisse-in-IEC-61499-Systemen-entschlsselt-e3681m5)
+* [400 Million Tons of Digitizing Agricultural Logistics](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Der-E_T_FF-in-IEC-61499-Modulares-Kippen-fr-die-Industrie-4-0-e3674m7)
+* [61499 Automation: The True Story of the Minds](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Der-E_T_FF_SR-Baustein-Herzstck-der-IEC-61499--Speichern--Umschalten--Reagieren-e3682dm)
+* [800 HP High-Tech Giant: What the ROPA Tiger 6S Operating Manual Reveals About Modern Agriculture and Extreme Safety](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Die-drei-Timer-der-DIN-EN-61131-3-entschlsselt--TP--TON--TOF-przise-erklrt-e3dma77)
+* [Ada Lovelace: The Poet of Science – Visionary, Programmer, and the Fight for the Digital Legacy](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61131-3-vs--61499-1-Dein-Wegweiser-durch-die-Normen-der-Industrieautomatisierung-e36c6nc)
 * [Adolf Weber's Sharp Analysis: Why Technology Alone Is Not Enough – Lessons from Three Industrial Phases ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Adolf-Webers-Scharfe-Analyse-Warum-Technik-allein-nicht-reicht--Lehren-aus-drei-Industriellen-Phasen-e36eger)
 * [Agricultural Revolution 1883: How Max Eyth Modernized England's Agriculture ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Agrar-Revolution-1883-Wie-Max-Eyth-Englands-Landwirtschaft-modernisierte-e36faae)
 * [As an Agricultural Machinery Specialist Through Hell: How Lanz-Wery Survived War, Occupation, and Hyperinflation – Insights into Original Business Reports 1915-1922 ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Als-Landtechnik-Spezialist-durch-die-Hlle-Wie-Lanz-Wery-Krieg--Besatzung-und-Hyperinflation-berlebte--Einblicke-in-Original-Geschftsberichte-1915-1922-e39athj)
@@ -202,18 +202,18 @@ Here you will find an overview of all videos and podcasts from the master crafts
 * [Bronze giant and culture clash: The spectacular creation of the Bavaria statue, the explosive material between](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Bronzeriese-und-Kulturkampf-Die-spektakulre-Entstehung-der-Bavaria-Statue--vom-Zndstoff-zwischen-e38t8th)
 * [Brun's plants: Carpinus betulus 'Monumentalis'](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Bruns-Pflanzen-Carpinus-betulus-Monumentalis-e36tgr2)
 * [Bulldog legend: How the simple LANZ tractor revolutionized agriculture and became a Duden entry](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Bulldog-Legende-Wie-der-einfache-LANZ-Traktor-die-Landwirtschaft-revolutionierte-und-zum-Duden-Eint-e39kif6)
-* [Bulldog, Boom and Business: Heinrich Lanz – Rise from Trading House to Agricultural Machinery Empire (The Underestimated Role of the Family)]
-* [Bunker Filler: Vertical vs. Inclined Screw Conveyor]
-* [CAN Bus Diagnostics: Beyond the Data – The Truth About Errors in Agricultural Technology]
-* [Charles Babbage: The Visionary Who Imagined the Information Age with Gears]
-* [Cyrus McCormick and the Reaper: How a Machine Fed the World and Triggered Revolutions]
-* [Danfoss and Eaton Hydraulics: Twin Story Comes to an End]
+* [Bulldog, Boom and Business: Heinrich Lanz – Rise from Trading House to Agricultural Machinery Empire (The Underestimated Role of the Family)](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61131-3-Das-Herz-der-Land--und-Baumaschinen-Mechatronik-und-der-Sprung-in-die-Zukunft-mit-Ob-e36c2mp)
+* [Bunker Filler: Vertical vs. Inclined Screw Conveyor](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Entmystifiziert-Funktionsbausteine--Objektorientierung-und-verteilte-Systeme-e37229b)
+* [CAN Bus Diagnostics: Beyond the Data – The Truth About Errors in Agricultural Technology](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Entschlsselt-Der-Bauplan-fr-modulare--verteilte-Steuerungssysteme-e367nmj)
+* [Charles Babbage: The Visionary Who Imagined the Information Age with Gears](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Baukltze-fr-die-Industrie-4-0--So-revolutionieren-Funktionsbausteine-die-Automatisierung-e3681j7)
+* [Cyrus McCormick and the Reaper: How a Machine Fed the World and Triggered Revolutions](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Der-digitale-Lego-Baukasten-fr-flexible-Automatisierung-und-smarte-Zukunft-e3681pb)
+* [Danfoss and Eaton Hydraulics: Twin Story Comes to an End](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Die-Lego-Steine-fr-flexible-und-ereignisgesteuerte-Industriesteuerungen-e3681o1)
 * [The Brain and Its Helpers: How CPU, GPU and Special chips power our digital world with zeros and ones
-* [The VBCD valve's engineering datasheet decoded]
-* [The tracked monster awakens: Lanz Bulldog Caterpillar – The fascinating revival of the 10-liter hot-bulb workhorse after 25 years of inactivity]
-* [The Würth terminal block's fine print decoded!]
-* [The PUI triangle: The clever mnemonic for electrical power – Simply rearrange the formulas!]
-* [The relay in detail: Switching amplifiers, protection, and the secrets of A1/A2, 85/86, and hysteresis]
+* [The VBCD valve's engineering datasheet decoded](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Funktionsbausteine-und-der-Paradigmenwechsel-in-der-industriellen-Softwareentwicklung-e36clps)
+* [The tracked monster awakens: Lanz Bulldog Caterpillar – The fascinating revival of the 10-liter hot-bulb workhorse after 25 years of inactivity](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-1-Revolution-in-der-Steuerungstechnik--Modulare--ereignisgesteuerte-Systeme-verstehen-e367nse)
+* [The Würth terminal block's fine print decoded!](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/DIN-EN-61499-Industrielle-Steuerungen-modular-und-ereignisbasiert-mit-Funktionsbausteinen-meistern--Der-ESR-Schalter-im-Fokus-e367nra)
+* [The PUI triangle: The clever mnemonic for electrical power – Simply rearrange the formulas!](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_CTD-Ereignisgesteuerter-Abwrtszhler-nach-IEC-61499-e368lli)
+* [The relay in detail: Switching amplifiers, protection, and the secrets of A1/A2, 85/86, and hysteresis](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_CTUD-Bidirektionaler-Zhler-in-IEC-61499-Systemen-e368lmb)
 * [The Technology panorama from 1863: Lanz & Comp. and the revolution of German agriculture through import, innovation, and guano
 * [The deadly dilemma of the relay: Why silver contacts fail with small signals and gold melts under load – The burn-off effect explained
 * [The underestimated heart: How circuit boards in cars withstand extreme conditions – From Bosch technology to manufacturing precision
@@ -231,11 +231,11 @@ Here you will find an overview of all videos and podcasts from the master crafts
 * The underestimated hero: Why the oil reservoir revolutionizes your hydraulic system
 * Kirchhoff's loop rule: How forklifts and electronics understand voltage / Kirchhoff's second law
 * Kirchhoff's loop rule: How forklifts and electronics understand voltage* [The Four Dimensions of Truth: From Fact-Checking to Existential Truthfulness]
-* [Diesel's Radical Vision: Why the Inventor Believed All Engines of His Time to Be "Fundamentally Wrong" – The Path to the Diesel Engine]
-* [Digital Logic: Flip-Flops and Data Types]
-* [DIN, ISO & Co.: Who Really Sets the Rules for Our Technologized World]
-* [Pressure Relief Valves: Hydraulics' Life Insurance – Types, Function, and System Integration]
-* [Eclipse 4diac: The Open Door to Industry 4.0 – Development and Runtime in Automation]
+* [Diesel's Radical Vision: Why the Inventor Believed All Engines of His Time to Be "Fundamentally Wrong" – The Path to the Diesel Engine](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_DELAY-in-IEC-61499-Przise--Abbrechbare-Zeitverzgerung-in-Steuerungssystemen-e3674le)
+* [Digital Logic: Flip-Flops and Data Types](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_REND-Ereignissynchronisation-in-IEC-61499-e368co9)
+* [DIN, ISO & Co.: Who Really Sets the Rules for Our Technologized World](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_SWITCH-Die-Weiche-der-Automatisierung--Warum-Einfachheit-IEC-61499-revolutioniert-e3681fl)
+* [Pressure Relief Valves: Hydraulics' Life Insurance – Types, Function, and System Integration](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_TOF-vs--FB_TOF-Der-Event-Timer--der-nicht-zyklisch-tickt--Revolution-fr-Automatisierungssysteme-e3673qk)
+* [Eclipse 4diac: The Open Door to Industry 4.0 – Development and Runtime in Automation](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/E_TON-in-der-Industrieautomation-Wie-ein-simpler-Timer-Sicherheit-und-Stabilitt-schafft-e3672u9)
 * [Electrical Resistance and Ohm's Law: The Foundation of Electrical Engineering – From Electron Flow to Power Loss ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Elektrischer-Widerstand-und-Ohmsches-Gesetz-Das-Fundament-der-Elektrotechnik--Von-Elektronenfluss-bis-Verlustleistung-e36ec1b)
 * [Electricity Decoded: The Wanderings of Free Electrons ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Elektrizitt-Entschlsselt-Die-Wanderlust-der-freien-Elektronen-e36ecki)
 * [Electronics Primer Compact: Voltage, Current, Resistance and the Diode ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Elektronikfiebel-Kompakt-Spannung--Strom--Widerstand-und-die-Diode-e36e376)
@@ -293,12 +293,12 @@ Here you will find an overview of all videos and podcasts from the master crafts
 
 ]* [PCB Design Saves Thousands of Euros
 
-* [PCBs, Assemblies, Components and Soldering]
-* [PCBs: Manufacturing, Etching and Assembly]
-* [Supply Chain vs. Psyche: The Two Faces of Resilience – What Connects People and Organizations]
-* [Linear vs. Switching Regulators: Understanding Efficient Voltage Conversion – Advantages and Disadvantages of DC/DC Converters in Detail]
-* [Soldering Masterclass: Professional Tricks for Precision Electronics]
-* [Soldering with Style – The FNIRSI HS-01 Review]
+* [PCBs, Assemblies, Components and Soldering](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Ereignisbasierte-Automatisierung-in-IEC-61499-e368fr1)
+* [PCBs: Manufacturing, Etching and Assembly](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Ereignisbehandlung-Das-ABC-der-Automatisierung-und-wie-Systeme-denken-e3672vi)
+* [Supply Chain vs. Psyche: The Two Faces of Resilience – What Connects People and Organizations](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Ereignisgesteuerte-Timer-Wann-welcher-am-Lfter-Sinn-macht--ETON--ETOF--ETP--mehr-entschlsselt-e36c4o0)
+* [Linear vs. Switching Regulators: Understanding Efficient Voltage Conversion – Advantages and Disadvantages of DC/DC Converters in Detail](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Ereignisse-und-IEC-61499-Der-Startschuss-fr-intelligente-Systeme-e368461)
+* [Soldering Masterclass: Professional Tricks for Precision Electronics](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/ERP-Systeme-Das-digitale-Gehirn--Chancen--Risiken-und-der-Weg-zur-intelligenten-Produktion-e375gdf)
+* [Soldering with Style – The FNIRSI HS-01 Review](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/ETFA-2025-Plug-and-Produce--Wie-IEC-61499-die-Fabrikautomation-revolutioniert-e376pnk)
 * [Soldering from Classic to High-Tech] Tools ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Lten-von-Klassik-zu-Hightech-Werkzeugen-e3bg0dr)
 * Soldering Iron Analysis: Active vs. Passive, Weller, Ersa, JBC, and the USB-C Revolution – The Professional Guide for Mechatronics Engineers ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Ltkolben-Analyse-Aktiv-vs--Passiv--Weller--Ersa--JBC-und-die-USB-C-Revolution--Der-Profi-Guide-fr-Mechatroniker-e39aqcf)
 * Protecting Solenoid Valves: Your Guide Against Voltage Spikes in Agricultural and Construction Machinery ](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Magnetventile-schtzen-Dein-Leitfaden-gegen-Spannungsspitzen-in-Land--und-Baumaschinen-e368l8m)
@@ -454,14 +454,14 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 * [Circuit Board Repair Hacks](https://www.youtube.com/watch?v=dOXugrpcKE4)
 * [Comparison of CAN Transceivers](https://www.youtube.com/watch?v=DQ45wcYPxOQ)
 * [D flip-flop: E_D_FF from IEC 61499 (Exercise 002c) as "event brake"](https://www.youtube.com/watch?v=yGSx_0ggveE)
-* [D Flip-Flop: E_D_FF from IEC 61499 (Exercise 85)]
-* [The ESP32-S3-DevKitC-1]
-* [The Brain of the Computer]
-* [The DIN Rail Moped XL]
-* [The Life of a Printed Circuit Board]
-* [Deciphering the Secret Language]
-* [Decoding the Data Sheet: Why the Fine Print Decides Between Life and Death]
-* [Decoding the Data Sheet]
+* [D Flip-Flop: E_D_FF from IEC 61499 (Exercise 85)](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/EventFBs-nach-IEC-61499-Legosteine-der-Automatisierung--So-funktionieren-Ereignis-Funktionsbausteine-e375gjm)
+* [The ESP32-S3-DevKitC-1](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/FB_TOF-und-E_TOF-Verzgerungstimer-in-IEC-61131-3-und-61499-e368e2d)
+* [The Brain of the Computer](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Feldgerte-Augen--Ohren-und-Hnde-der-industriellen-Automatisierung--Warum-diese-unsichtbare-Technologie-so-entscheidend-ist-e375g6u)
+* [The DIN Rail Moped XL](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Funktionsbausteine-und-Instanzen-Das-Baukastenprinzip-fr-moderne-Land--und-Baumaschinen-verstehen-e37243u)
+* [The Life of a Printed Circuit Board](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Future-Automation-Unlocked-Powering-Plug--Produce-and-Protecting-Your-Privacy-e376pbc)
+* [Deciphering the Secret Language](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-vs--61131-Brauchen-wir-einen-neuen-Standard-fr-IIoT--Analyse-einer-hitzigen-Debatte-um-Verteilte-Intelligenz-e3ahc2r)
+* [Decoding the Data Sheet: Why the Fine Print Decides Between Life and Death](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-vs--61131-Notwendige-Evolution-oder-berflssige-Komplikation-fr-das-IIoT-e3ahcb0)
+* [Decoding the Data Sheet](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-1-Der-Funktionsbaustein--Lego-Prinzip-fr-moderne-Steuerungssysteme-in-Land--und-Baumaschinen-e36a7q2)
 * [Deere's Plow: The Steel Story](https://www.youtube.com/watch?v=uxu_2PRHIBM)
 * [The Thinking Tractor](https://www.youtube.com/watch?v=ym4inz34nv0)
 * [The Catalog of 1863](https://www.youtube.com/watch?v=fk7tIjl2pTk)
@@ -483,14 +483,14 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 * [The Twin Story ](https://www.youtube.com/watch?v=W8PKyF7DH94)
 * [Digital Decisions ](https://www.youtube.com/watch?v=CivXY9CoJoM)
 * [Digital Electronics Decoded ](https://www.youtube.com/watch?v=368-MXtL6qY)
-* [Double Load Holding Valve]
-* [E_CYCLE from IEC 61499 (Exercise 84)]
-* [EAGLE CAD: A Legend]
-* [Eclipse & LogiBUS® Shortcut]
-* [Eclipse 4diac: Brain of the Smart Factory]
-* [Eclipse 4diac: More Than Code]
-* [Eclipse 4diac 3.0 (English)]
-* [Eclipse 4diac 3.0 (German)]
+* [Double Load Holding Valve](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Befreit-der-neue-Standard-die-Industrieautomation--Ein-Vergleich-mit-61131-und-die-Brcke-zwischen-OT--IT-e368446)
+* [E_CYCLE from IEC 61499 (Exercise 84)](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Der-E_SR-Baustein-entschlsselt--Einfachheit-trifft-Ereignissteuerung-e3682bo)
+* [EAGLE CAD: A Legend](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Fabrikautomation-im-Umbruch--Von-der-Vision-zur-industriellen-Realitt-e376pne)
+* [Eclipse & LogiBUS® Shortcut](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-Automatisierung--Ereignisgesteuerte-Systeme-und-intelligente-Datenflsse-entschlsselt-e375ghe)
+* [Eclipse 4diac: Brain of the Smart Factory](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-Automatisierung--Event-gesteuerte-FBs-und-verteilte-Systeme-erklrt-e3671vb)
+* [Eclipse 4diac: More Than Code](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-Industrieautomation--Warum-der-neue-Standard-Ihre-Systeme-fit-fr-die-Zukunft-macht-e375evm)
+* [Eclipse 4diac 3.0 (English)](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-Revolution-der-verteilten-Automatisierung--Ursprnge--Konzepte-und-Zukunftsperspektiven-e3671sl)
+* [Eclipse 4diac 3.0 (German)](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/IEC-61499-So-gewinnt-die-moderne-Automation--Strategien-fr-mehr-Reichweite-und-Business-Impact-e3ahc65)
 * [A Farmer's Handbook: 1892](https://www.youtube.com/watch?v=7BL67iofOaw)
 * [A 1958 tractor awakens](https://www.youtube.com/watch?v=ZBzx67cxPCs)
 * [Event switch E_SWITCH from IEC 61499 (Exercise 86)](https://www.youtube.com/watch?v=Gev-kGR4-Tc)

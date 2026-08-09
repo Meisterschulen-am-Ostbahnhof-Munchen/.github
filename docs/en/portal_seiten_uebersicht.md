@@ -47,51 +47,51 @@ Lifelong self-directed learning refers to a continuous learning process in which
 > Content and documentation from the master craftsman schools at Munich East Station.
 * [Electrical Current](https://www.ms-muc-docs.de/elektrotechnik/elektrik/grundlagen/elektrischer-strom/)
 > Content and documentation from the master craftsman schools at Munich East Station.
-* [Energy, Power]
+* [Energy, Power](https://www.ms-muc-docs.de/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Electrical Engineering Formula Wheel]
+* [Electrical Engineering Formula Wheel](https://www.ms-muc-docs.de/startseite/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Total Resistance Series-Parallel Circuits]
+* [Total Resistance Series-Parallel Circuits](https://www.ms-muc-docs.de/infos/bayerische-verfassung/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Historical Development & Standardization of Cable Dimensioning]
+* [Historical Development & Standardization of Cable Dimensioning](https://www.ms-muc-docs.de/infos/die-bedeutung-des-selbstgesteuerten-lernens-im-rahmenlehrplan/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Derivation of Formulas for Cable Calculation in Motor Vehicles]
+* [Derivation of Formulas for Cable Calculation in Motor Vehicles](https://www.ms-muc-docs.de/infos/infografik-die-zwei-arten-der-wahrheit/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Infographic: Capacitor & Inductor in a DC Circuit]
+* [Infographic: Capacitor & Inductor in a DC Circuit](https://www.ms-muc-docs.de/infos/infografik-kompetenzen/)
 > Content and documentation of the master craftsman schools at Munich East Station.
 * * [Interactive Guide to Resistors]
 > Content and documentation from the Master Craftsman Schools at Munich East Station.
-* [Kirchhoff's Laws]
+* [Kirchhoff's Laws](https://www.ms-muc-docs.de/infos/infografik-selbstgesteuertes-lernen/)
 > Content and documentation from the Master Craftsman Schools at Munich East Station.
-* [Capacitor (Components)]
+* [Capacitor (Components)](https://www.ms-muc-docs.de/infos/interaktiver-rahmenlehrplan/)
 > Capacitor (Components)
-* [Capacitor (Theory)]
+* [Capacitor (Theory)](https://www.ms-muc-docs.de/infos/normungsorganisationen/)
 > Capacitor (Theory)
-* [Capacitor in a DC Circuit]
+* [Capacitor in a DC Circuit](https://www.ms-muc-docs.de/infos/normungsorganisationen-übersicht/)
 > Content and documentation from the Master Craftsman Schools at Munich East Station.
-* [Capacitor and Inductor in an AC Circuit]
+* [Capacitor and Inductor in an AC Circuit](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-bauteil/baugrößen/)
 > Content and documentation from the Master Craftsman Schools at Munich East Station.
 * * [Cable Calculation according to DIN ISO 6722 / ISO 19642 & Bosch Tables]
 > Content and documentation of the master craftsman training courses at Munich East Station.
-* [Ground and 2-wire system]
+* [Ground and 2-wire system](https://www.ms-muc-docs.de/elektrotechnik/elektrik/)
 > Content and documentation of the master craftsman training courses at Munich East Station.
-* [MLCC - Multilayer Ceramic Chip Capacitor]
+* [MLCC - Multilayer Ceramic Chip Capacitor](https://www.ms-muc-docs.de/elektrotechnik/elektrik/grundlagen/elektrische-ladung/)
 > Content and documentation of the master craftsman training courses at Munich East Station.
-* [Modern Vehicles: LED Headlights, Smart Switches & Long-Range Inputs]
+* [Modern Vehicles: LED Headlights, Smart Switches & Long-Range Inputs](https://www.ms-muc-docs.de/elektrotechnik/elektrik/kondensator-spule/elektrische-politik-eine-interaktive-analogie/)
 > Content and documentation of the master craftsman training courses at Munich East Station.
-* [Standards History]
+* [Standards History](https://www.ms-muc-docs.de/elektrotechnik/elektrik/kondensator-spule/elektrische-politik-spule-vs-kondensator/)
 > Content and documentation of the master craftsman training courses at Munich East Station.
 * * [Ohm's Law]
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Voltage, Resistance, Power]
+* [Voltage, Resistance, Power](https://www.ms-muc-docs.de/elektrotechnik/elektrik/grundlagen/elektrischer-strom/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Voltage, Current, and Power]
+* [Voltage, Current, and Power](https://www.ms-muc-docs.de/elektrotechnik/elektrik/grundlagen/energie-leistung/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Voltage Drop]
+* [Voltage Drop](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/formelrad-elektrotechnik/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Voltage Divider]
+* [Voltage Divider](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/gesamtwiderstand-reihen-parallelschaltung/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Specific Resistance]
+* [Specific Resistance](https://www.ms-muc-docs.de/elektrotechnik/elektrik/leitungen/geschichtliche-entwicklung-normung-der-leitungsdimensionierung/)
 > Content and documentation of the master craftsman schools at Munich East Station.
 * * [Coil](https://www.ms-muc-docs.de/elektrotechnik/elektrik/spule/spule-theorie/spule/)
 > Content and documentation of the master craftsman schools at Munich East Station.
@@ -108,17 +108,17 @@ Lifelong self-directed learning refers to a continuous learning process in which
 ---
 
 ## 🔲 Electronics I & II: Diodes, LEDs, BJTs, FETs, Op-amps & Smart Switches
-* [Bipolar Transistor]
+* [Bipolar Transistor](https://www.ms-muc-docs.de/elektrotechnik/elektrik/leitungen/herleitung-der-formeln-zur-leitungsberechnung-im-kraftfahrzeug/)
 > Content and documentation from the master craftsman training courses at Munich East Station.
-* [Diode]
+* [Diode](https://www.ms-muc-docs.de/elektrotechnik/elektrik/kondensator-spule/infografik-kondensator-spule-im-dc-kreis/)
 > Content and documentation from the master craftsman training courses at Munich East Station.
-* [Electronics I]
+* [Electronics I](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-bauteil/interaktiver-guide-zu-widerständen/)
 > Electronics
-* [Electronics II]
+* [Electronics II](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/kirchhoffsche-regeln/)
 > Electronics II
-* [ESD Diodes for CAN and CAN-FD]
+* [ESD Diodes for CAN and CAN-FD](https://www.ms-muc-docs.de/elektrotechnik/elektrik/kondensator/kondensator-bauteile/)
 > Content and documentation from the master craftsman training courses at Munich East Station.
-* [Rectifiers, Zener Diodes and Freewheeling Diodes]
+* [Rectifiers, Zener Diodes and Freewheeling Diodes](https://www.ms-muc-docs.de/elektrotechnik/elektrik/kondensator/kondensator-theorie/)
 > Content and documentation from the master craftsman training courses at Munich East Station.
 * * [H-Bridge ](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/h-brücken/h-brücke/)
 > Content and documentation of the master craftsman training courses at Munich East Station.
@@ -144,17 +144,17 @@ Lifelong self-directed learning refers to a continuous learning process in which
 > Content and documentation of the master craftsman schools at Munich East Station.
 * [Relays vs. Smart Switch ](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/smart-switch/relais-vs-smart-switch/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Relays vs. Smart Switches]
+* [Relays vs. Smart Switches](https://www.ms-muc-docs.de/elektrotechnik/elektrik/kondensator/kondensator-theorie/kondensator-im-gleichstromkreis/)
 > Content and documentation from the master craftsman training courses at Munich East Station.
-* [Switches and Pushbuttons]
+* [Switches and Pushbuttons](https://www.ms-muc-docs.de/elektrotechnik/elektrik/wechselstrom/kondensator-spule-wechselstrom/kondensator-und-spule-im-wechselstromkreis/)
 > Content and documentation from the master craftsman training courses at Munich East Station.
-* [Smart Switches vs. Relays]
+* [Smart Switches vs. Relays](https://www.ms-muc-docs.de/elektrotechnik/elektrik/leitungen/leitungsberechnung-nach-din-iso-6722-iso-19642-bosch-tabellen/)
 > Content and documentation from the master craftsman training courses at Munich East Station.
-* [Voltage Converters - Linear Regulators vs. Switching Regulators]
+* [Voltage Converters - Linear Regulators vs. Switching Regulators](https://www.ms-muc-docs.de/elektrotechnik/elektrik/leitungen/masse-und-2-leitersystem/)
 > Content and documentation from the master craftsman training courses at Munich East Station.
-* [TVS Diodes]
+* [TVS Diodes](https://www.ms-muc-docs.de/elektrotechnik/elektrik/kondensator/kondensator-bauteile/mlcc-multilayer-ceramic-chip-capacitor/)
 > Content and documentation from the master craftsman training courses at Munich East Station.
-* [Reverse Polarity Protection]
+* [Reverse Polarity Protection](https://www.ms-muc-docs.de/elektrotechnik/elektrik/leitungen/moderne-fahrzeuge-led-scheinwerfer-smart-switches-weitbereichseingänge/)
 > Content and documentation from the master craftsman training courses at Munich East Station.
 * * [Reverse Polarity Protection](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/verpolschutz/verpolungsschutz_1/)
 > Content and documentation of the master craftsman schools at Munich East Station.
@@ -218,13 +218,13 @@ Jack S. Kilby: Invention...
 
 * [Microcontroller Infographic ](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mikrocontroller-mcu/infografik-mikrocontroller/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Infographic: The Anatomy of the Microchip]
+* [Infographic: The Anatomy of the Microchip](https://www.ms-muc-docs.de/elektrotechnik/elektrik/leitungen/normen-historie/)
 > Content and documentation of the Master Craftsman Schools at Munich East Station.
-* [Infographic: The Invention of the Integrated Circuit]
+* [Infographic: The Invention of the Integrated Circuit](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/ohmsches-gesetz/)
 > Content and documentation of the Master Craftsman Schools at Munich East Station.
-* [Infographic: Microprocessor vs. Microcontroller]
+* [Infographic: Microprocessor vs. Microcontroller](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannung-widerstand-leistung/)
 > Content and documentation of the Master Craftsman Schools at Munich East Station.
-* [Interactive Analysis of Microchip Fundamentals]
+* [Interactive Analysis of Microchip Fundamentals](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannung-strom-und-leistung/)
 > Content and documentation of the Master Craftsman Schools at Munich East Station.
 * [Interactive Analysis of Moore's Law ... * [Interactive History of the Microcontroller ](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mikrocontroller-mcu/interaktive-geschichte-des-mikrocontrollers/)
 > Content and documentation from the Master Craftsman Schools at Munich East Station.
@@ -264,15 +264,15 @@ Content and documentation of the master craftsman schools at Munich East Station
 ---
 
 ## 🔌 Printed Circuit Boards & PCB Manufacturing
-* [Assembly]
+* [Assembly](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsabfall/)
 > Assembly
-* [Printed Circuit Board Design]
+* [Printed Circuit Board Design](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/spannungsteiler/)
 > Printed Circuit Board Design
-* [Manufacturing]
+* [Manufacturing](https://www.ms-muc-docs.de/elektrotechnik/elektrik/grundlagen/spezifischer-widerstand/)
 > Manufacturing
-* [Printed Circuit Boards]
+* [Printed Circuit Boards](https://www.ms-muc-docs.de/elektrotechnik/elektrik/spule/spule-theorie/spule/)
 > Printed Circuit Boards
-* [Printed Circuit Boards]
+* [Printed Circuit Boards](https://www.ms-muc-docs.de/elektrotechnik/elektrik/spule/spule-bauteile/)
 > Content and documentation of the master craftsman courses at Munich East Station.
 
 *
@@ -306,9 +306,9 @@ Active soldering tips generally offer higher performance and better temperature 
 
 * [Measurement and Testing Technology in the Workshop ](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/messtechnik/mess-und-prüftechnik-in-der-werkstatt/)
 > Content and documentation from the master craftsman schools at Munich East Station.
-* [Visual Inspection of Crimp Connections]
+* [Visual Inspection of Crimp Connections](https://www.ms-muc-docs.de/elektrotechnik/elektrik/spule/spule-theorie/)
 > A concise overview of quality assurance and visual inspection of open crimp connections according to test posters from Kabelforum.com.
-* [Web App: Soldering Tips for Professionals]
+* [Web App: Soldering Tips for Professionals](https://www.ms-muc-docs.de/elektrotechnik/elektrik/grundlagen/stromkreis/)
 > Content and documentation from the master craftsman training courses at Munich East Station.
 
 ---
@@ -324,13 +324,13 @@ Active soldering tips generally offer higher performance and better temperature 
 > Content and documentation from the master craftsman schools at Munich East Station.
 * [Infographic_Standards_Automation ](https://www.ms-muc-docs.de/automatisierung/infographic_standards_automation/)
 > Content and documentation from the master craftsman schools at Munich East Station.
-* [Automation Standards]
+* [Automation Standards](https://www.ms-muc-docs.de/elektrotechnik/elektrik/kondensator-spule/transienten-diagramme-für-c-und-l/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Signal Shapes in Control and Automation Technology Infographic]
+* [Signal Shapes in Control and Automation Technology Infographic](https://www.ms-muc-docs.de/elektrotechnik/elektrik/kondensator-spule/wechselstrom-phasenverschiebung-infografik/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [Signal Shapes in Control and Automation Technology Website]
+* [Signal Shapes in Control and Automation Technology Website](https://www.ms-muc-docs.de/elektrotechnik/elektrik/wechselstrom/wechselstrom-grundlagen/wechselstromtechnik/)
 > Content and documentation of the master craftsman schools at Munich East Station.
-* [From Problem to Program]
+* [From Problem to Program](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-bauteil/)
 > Content and documentation of the master craftsman schools at Munich East Station.
 
 *
@@ -375,12 +375,12 @@ You can find the documents under the following:
 > Boolean Algebra
 * [The Revolution of Logic: George Boole & Boolean Algebra ](https://www.ms-muc-docs.de/informatik/boolesche-algebra/die-revolution-der-logik-george-boole-die-boolesche-algebra/)
 > Content and documentation from the Master Schools at Munich East Station.
-* [First female computer scientist in the world]
+* [First female computer scientist in the world](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-theorie/)
 > Ada Lovelace – The world's first programmer
 Wikipedia
 
-* [Computer science]
-* [Interactive exploration of Boolean algebra]
+* [Computer science](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-bauteil/widerstands-sonderformen/)
+* [Interactive exploration of Boolean algebra](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-bauteil/widerstände-eine-visuelle-infografik/)
 
 Content and documentation of the master schools at Munich East Station.
 
@@ -388,20 +388,20 @@ Content and documentation of the master schools at Munich East Station.
 ---
 
 ## 🎙️ Podcasts & Media Highlights
-* [Selected Podcasts]
+* [Selected Podcasts](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)
 > Agricultural Technology
 First Industrial Revolution, Steam Engine, Max Eyth
 Agricultural Revolution 1883: How Max Eyth Modernized England's Agriculture
 Landing Page
 Spot...
 
-* [Podcast Highlights]
+* [Podcast Highlights](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/diode/diode/)
 > Content and documentation from the Master Schools at Munich East Station.
-* [Podcasts]
+* [Podcasts](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/)
 > Content and documentation from the Master Schools at Munich East Station.
-* [Podcasts]
+* [Podcasts](https://www.ms-muc-docs.de/elektrotechnik/elektronik-ii/)
 > Content and documentation from the Master Schools at Munich East Station.
-* [Podcasts - Interesting]
+* [Podcasts - Interesting](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/diode/esd-dioden-für-can-und-can-fd/)
 > Content and documentation from the Master Schools at Munich East Station.
 
 *
