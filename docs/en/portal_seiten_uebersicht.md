@@ -167,19 +167,15 @@ Content and documentation from the Master Schools at Munich East Station.
 
 * Moore's Law: Limits and Future
 
-Content and documentation from the Master Schools at Munich East Station.
 
 * The Invention of the Integrated Circuit
 
-Content and documentation from the Master Schools at Munich East Station.
 
 * The Evolution of the Microchip: A Visual Analysis
 
-Content and documentation from the Master Schools at Munich East Station.
 
 * The Microcontroller Revolution: Infographic
 
-Content and documentation from the Master Schools at Munich East Station.
 
 * [Digital technology0️⃣1️⃣](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/digitaltechnik01/)
 > IT at the bar
@@ -250,17 +246,14 @@ Content and documentation of the master craftsman schools at Munich East Station
 
 * Microprocessor Infographic
 
-Content and documentation of the master craftsman schools at Munich East Station
 
 * Microprocessor MPU
 
-Content and documentation of the master craftsman schools at Munich East Station
 
 * Microprocessor MPU
 
 Moor's Law
 
-Content and documentation of the master craftsman schools at Munich East Station
 ---
 
 ## 🔌 Printed Circuit Boards & PCB Manufacturing
