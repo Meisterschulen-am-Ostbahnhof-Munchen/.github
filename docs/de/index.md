@@ -18,6 +18,7 @@ myst:
 ---
 
 ### 📋 [Das steht im Lehrplan (Rahmenlehrplan 2025)](./das_steht_im_lehrplan.md)
+>
 > **Zentraler Lehrplan-Hub:** Alle technischen und fachlichen Anforderungen der neuen Meisterprüfungsverordnung 2025 (LandBauMechMstrV vom 09.09.2024, in Kraft ab 01.08.2025) sowie die Wiki-Zuordnungsmatrix.
 
 - 📋 **[Das steht im Lehrplan – Gesamtsystematik & Technik-Mapping](./das_steht_im_lehrplan.md)**
@@ -76,4 +77,5 @@ Hier finden Sie den direkten Zugang zu den spezialisierten Dokumentationsbereich
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Eclipse 4diac IDE & Farb-Referenz auf ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)

@@ -5,7 +5,9 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 
 
 ## 🎧 Podcasts
+
 ### Eclipse 4diac (DE)
+
 - [4diac IDE: Dein "Hello World" der Automatisierung – Das Blinking Tutorial Lokal](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Dein-Hello-World-der-Automatisierung--Das-Blinking-Tutorial-Lokal-e36971r)
 - [4diac IDE: Dein Open-Source-Werkzeugkasten für verteilte Industrieautomatisierung nach IEC 61499](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Dein-Open-Source-Werkzeugkasten-fr-verteilte-Industrieautomatisierung-nach-IEC-61499-e36821e)
 - [4diac IDE: Wie der IEC 61499 Standard die Industrieautomatisierung revolutioniert](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/4diac-IDE-Wie-der-IEC-61499-Standard-die-Industrieautomatisierung-revolutioniert-e36756a)
@@ -25,6 +27,7 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 - [Von der SPS zur verteilten Intelligenz: IEC 61499 für Industrie 4.0 verstehen](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Von-der-SPS-zur-verteilten-Intelligenz-IEC-61499-fr-Industrie-4-0-verstehen-e36a78o)
 
 ### Eclipse 4diac (EN)
+
 - [Eclipse 4diac and FORTE: Unlocking Next-Gen Industrial Automation with Open-Source Power](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/Eclipse-4diac-and-FORTE-Unlocking-Next-Gen-Industrial-Automation-with-Open-Source-Power-e3682iu)
 - [Eclipse 4diac: Revolutionizing Industrial Control with Open-Source Cyber-Physical Systems](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/Eclipse-4diac-Revolutionizing-Industrial-Control-with-Open-Source-Cyber-Physical-Systems-e368lqu)
 - [Eclipse 4diac: Unpacking Open-Source Industrial Automation and the Power of Application-Centric Design](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/Eclipse-4diac-Unpacking-Open-Source-Industrial-Automation-and-the-Power-of-Application-Centric-Design-e3721li)
@@ -34,6 +37,7 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 - [The Future of Industrial Control: Decoding IEC 61499](https://podcasters.spotify.com/pod/show/eclipse-4diac-en/episodes/The-Future-of-Industrial-Control-Decoding-IEC-61499-e36cjlj)
 
 ### IEC 61499 Grundkurs (DE)
+
 - [Automatisierung 4.0: Warum Software die Hardware überholt und was das für deine Skills bedeutet](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Automatisierung-4-0-Warum-Software-die-Hardware-berholt-und-was-das-fr-deine-Skills-bedeutet-e375eqs)
 - [Building Tomorrow's Factories: Bridging OT and IT with IEC 61499](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Building-Tomorrows-Factories-Bridging-OT-and-IT-with-IEC-61499-e376pia)
 - [Das Geheimnis des 2-Bit-Quarter: Effizienz im CAN-Bus für Nutzfahrzeuge](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Das-Geheimnis-des-2-Bit-Quarter-Effizienz-im-CAN-Bus-fr-Nutzfahrzeuge-e3673bk)
@@ -115,6 +119,7 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 - [Von Watt zu Industrie 4.0: Wie Software das Herzstück der Fabrik wurde](https://podcasters.spotify.com/pod/show/iec-61499-grundkurs-de/episodes/Von-Watt-zu-Industrie-4-0-Wie-Software-das-Herzstck-der-Fabrik-wurde-e3671aq)
 
 ### IEC 61499 Prime Course (EN)
+
 - [Anatomy of a Smart Machine](https://podcasters.spotify.com/pod/show/iec-61499-prime-course-en/episodes/Anatomy-of-a-Smart-Machine-e3a9qvt)
 - [Decoding E_PERMIT: The Unsung Hero of Industrial Automation's Safety and Reliability](https://podcasters.spotify.com/pod/show/iec-61499-prime-course-en/episodes/Decoding-E_PERMIT-The-Unsung-Hero-of-Industrial-Automations-Safety-and-Reliability-e3681l1)
 - [Decoding Industrial Control: Function Blocks, Object-Oriented Principles, and the Power of IEC 61499](https://podcasters.spotify.com/pod/show/iec-61499-prime-course-en/episodes/Decoding-Industrial-Control-Function-Blocks--Object-Oriented-Principles--and-the-Power-of-IEC-61499-e3722d5)
@@ -127,6 +132,7 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 - [Unpacking E_T_FF_SR: The Secret Toggle Switch of Industrial Control Systems](https://podcasters.spotify.com/pod/show/iec-61499-prime-course-en/episodes/Unpacking-E_T_FF_SR-The-Secret-Toggle-Switch-of-Industrial-Control-Systems-e367ntv)
 
 ### ISOBUS VT Objects
+
 - ["Store Version" – Dein Schlüssel zur Verwaltung von Objektdatenpools im nichtflüchtigen VT-Speicher (ISO 11783-6)](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/Store-Version--Dein-Schlssel-zur-Verwaltung-von-Objektdatenpools-im-nichtflchtigen-VT-Speicher-ISO-11783-6-e36vfh0)
 - [Das Alarm Mask Objekt: Dein standardisierter Wachposten für Warnungen auf Landmaschinen](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/Das-Alarm-Mask-Objekt-Dein-standardisierter-Wachposten-fr-Warnungen-auf-Landmaschinen-e36e6c3)
 - [Das Working Set Objekt: Das Gehirn der ISOBUS-Bedienoberfläche verstehen – Von der Norm zur Praxis im ISO-Designer](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/Das-Working-Set-Objekt-Das-Gehirn-der-ISOBUS-Bedienoberflche-verstehen--Von-der-Norm-zur-Praxis-im-ISO-Designer-e36cl5v)
@@ -147,6 +153,7 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 - [VT-Versionen verstehen: Dein Weg zum Meister der Land- und Baumaschinenmechatronik](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/VT-Versionen-verstehen-Dein-Weg-zum-Meister-der-Land--und-Baumaschinenmechatronik-e36a8e8)
 
 ### logiBUS
+
 - [Code-Renovierung mit AX-Adaptern: Wie Eclipse 4diac™ durch Signal-Bündelung Komplexität besiegt](https://podcasters.spotify.com/pod/show/logibus/episodes/Code-Renovierung-mit-AX-Adaptern-Wie-Eclipse-4diac-durch-Signal-Bndelung-Komplexitt-besiegt-e3ahcd1)
 - [Content Assist Enthüllt: Der geniale Produktivitäts-Turbo für deine VDC-Umgebung und wie er Fehler automatisch korrigiert](https://podcasters.spotify.com/pod/show/logibus/episodes/Content-Assist-Enthllt-Der-geniale-Produktivitts-Turbo-fr-deine-VDC-Umgebung-und-wie-er-Fehler-automatisch-korrigiert-e3ahch4)
 - [Digitale Gedächtnisse: Das SR-Flip-Flop im logiBUS®-System erklärt](https://podcasters.spotify.com/pod/show/logibus/episodes/Digitale-Gedchtnisse-Das-SR-Flip-Flop-im-logiBUS-System-erklrt-e36vksj)
@@ -175,6 +182,7 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 - [Von 1400 Fehlern zum sauberen Code: Die Migration der „Getreidehacke“ auf Eclipse 4diac™ 3.0 und die Macht der AX-Adapter](https://podcasters.spotify.com/pod/show/logibus/episodes/Von-1400-Fehlern-zum-sauberen-Code-Die-Migration-der-Getreidehacke-auf-Eclipse-4diac-3-0-und-die-Macht-der-AX-Adapter-e3ahcko)
 
 ### MS-MUC LAMA
+
 - [0 und 1: Warum das Binärsystem trotz Quantensprung die Grundlage unserer digitalen Welt bleibt](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/0-und-1-Warum-das-Binrsystem-trotz-Quantensprung-die-Grundlage-unserer-digitalen-Welt-bleibt-e39ha6i)
 - [3000 Watt Lüge Die TVS Diode entschlüsselt](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/3000-Watt-Lge-Die-TVS-Diode-entschlsselt-e3aun8t)
 - [400 Millionen Tonnen Agrar-Logistik digitalisieren](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/400-Millionen-Tonnen-Agrar-Logistik-digitalisieren-e3b8o5m)
@@ -588,6 +596,7 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 ## 📂 Thematische Übersicht
 
 ### ISOBUS
+
 - **[ISOBUS VT Objects]** ["Store Version" – Dein Schlüssel zur Verwaltung von Objektdatenpools im nichtflüchtigen VT-Speicher (ISO 11783-6)](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/Store-Version--Dein-Schlssel-zur-Verwaltung-von-Objektdatenpools-im-nichtflchtigen-VT-Speicher-ISO-11783-6-e36vfh0)
 - **[ISOBUS VT Objects]** [Das Working Set Objekt: Das Gehirn der ISOBUS-Bedienoberfläche verstehen – Von der Norm zur Praxis im ISO-Designer](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/Das-Working-Set-Objekt-Das-Gehirn-der-ISOBUS-Bedienoberflche-verstehen--Von-der-Norm-zur-Praxis-im-ISO-Designer-e36cl5v)
 - **[logiBUS]** [From Cable Chaos to Custom Control: How Logibus is Revolutionizing Agricultural Tech with Accessible ISOBUS](https://podcasters.spotify.com/pod/show/logibus/episodes/From-Cable-Chaos-to-Custom-Control-How-Logibus-is-Revolutionizing-Agricultural-Tech-with-Accessible-ISOBUS-e3767lq)
@@ -618,6 +627,7 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 - **[YouTube]** [Zusätzlich: Uebung_083: Aufwärts/Abwärts zählen: E_CTUD_UDINT Datentyp UDINT; mit Anzeige am VT.](https://www.youtube.com/watch?v=oTPDtsw5eAw)
 
 ### 4diac / IEC 61499
+
 - **[YouTube]** [2025-01-29 09-27-56 Windows Defender exclusion check in der Eclipse 4diac™ IDE](https://www.youtube.com/watch?v=8k8-QnbTPxk)
 - **[YouTube]** [2025-02-21 13-04-43 aktueller Stand logiBUS® Eclipse 4diac™ IDE](https://www.youtube.com/watch?v=OMNP9p12mAw)
 - **[YouTube]** [2025-02-21 15-23-28 logiBUS® mit Eclipse 4diac™ neues IO Konzept für alle Controller](https://www.youtube.com/watch?v=YUCodIng1UA)
@@ -735,6 +745,7 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 - **[Eclipse 4diac (DE)]** [Von der SPS zur verteilten Intelligenz: IEC 61499 für Industrie 4.0 verstehen](https://podcasters.spotify.com/pod/show/eclipse-4diac-de/episodes/Von-der-SPS-zur-verteilten-Intelligenz-IEC-61499-fr-Industrie-4-0-verstehen-e36a78o)
 
 ### Landtechnik / LAMA
+
 - **[MS-MUC LAMA]** [Bulldog Legende: Wie der einfache LANZ-Traktor die Landwirtschaft revolutionierte und zum Duden-Eint](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Bulldog-Legende-Wie-der-einfache-LANZ-Traktor-die-Landwirtschaft-revolutionierte-und-zum-Duden-Eint-e39kif6)
 - **[MS-MUC LAMA]** [Bulldog, Boom und Business: Heinrich Lanz – Aufstieg aus dem Handelshaus zum Landmaschinenimperium (Die unterschätzte Rolle der Familie)](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Bulldog--Boom-und-Business-Heinrich-Lanz--Aufstieg-aus-dem-Handelshaus-zum-Landmaschinenimperium-Die-unterschtzte-Rolle-der-Familie-e3a99fs)
 - **[ISOBUS VT Objects]** [Das Alarm Mask Objekt: Dein standardisierter Wachposten für Warnungen auf Landmaschinen](https://podcasters.spotify.com/pod/show/isobus-vt-objects/episodes/Das-Alarm-Mask-Objekt-Dein-standardisierter-Wachposten-fr-Warnungen-auf-Landmaschinen-e36e6c3)
@@ -755,12 +766,14 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 - **[MS-MUC LAMA]** [Streit, Spaltung, Spektakel: 200 Jahre Agrarforschung in Weihenstephan – Wie Pflug, Prüfstation und Kuh-Computer die Welt veränderten](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Streit--Spaltung--Spektakel-200-Jahre-Agrarforschung-in-Weihenstephan--Wie-Pflug--Prfstation-und-Kuh-Computer-die-Welt-vernderten-e3aubep)
 
 ### Programmierung
+
 - **[YouTube]** [2025-03-30 19-41-34 Python Installation prüfen](https://www.youtube.com/watch?v=pBo6QPdWtgA)
 - **[MS-MUC LAMA]** [Architektonisches Duell in München: König Ludwigs Palast-Vision, Gärtners Bücherkaserne und die gehe](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/Architektonisches-Duell-in-Mnchen-Knig-Ludwigs-Palast-Vision--Grtners-Bcherkaserne-und-die-gehe-e38tb8e)
 - **[YouTube]** [KI-Leiter: Coder zu Architekt](https://www.youtube.com/watch?v=JCV9tn7QIww)
 - **[logiBUS]** [logiBUS® IO: Bye-bye Mapping! Was die neue Systemarchitektur wirklich ändert](https://podcasters.spotify.com/pod/show/logibus/episodes/logiBUS-IO-Bye-bye-Mapping--Was-die-neue-Systemarchitektur-wirklich-ndert-e36vfqs)
 
 ### Sonstiges
+
 - **[MS-MUC LAMA]** [0 und 1: Warum das Binärsystem trotz Quantensprung die Grundlage unserer digitalen Welt bleibt](https://podcasters.spotify.com/pod/show/ms-muc-lama/episodes/0-und-1-Warum-das-Binrsystem-trotz-Quantensprung-die-Grundlage-unserer-digitalen-Welt-bleibt-e39ha6i)
 - **[YouTube]** [06. Mai 2025 Tag 6 von logiBUS® Schulungsreihe (D)](https://www.youtube.com/watch?v=g-LuUu-QFcI)
 - **[YouTube]** [15. Apr. 2025  Tag 1 von logiBUS® Schulungsreihe (D)](https://www.youtube.com/watch?v=tlZC5rN_CUI)
@@ -1163,9 +1176,11 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 Für die folgenden Wiki-Themen sind aktuell noch keine dedizierten Videos oder Podcasts verfügbar. Diese sind in Planung:
 
 ### Wiki 0: Haupt-Wiki
+
 - Wiki 0: Haupt-Wiki (coming soon)
 
 ### Wiki 1: C-Programmierung
+
 - Atom Erweiterungen (coming soon)
 - Eagle (coming soon)
 - Hardware (coming soon)
@@ -1195,6 +1210,7 @@ Für die folgenden Wiki-Themen sind aktuell noch keine dedizierten Videos oder P
 - cci_EasyExample_CAN2IP (coming soon)
 
 ### Wiki 2: Virtual Terminal
+
 - Attribute (coming soon)
 - Ausgabe (coming soon)
 - AuxAssignOfApp (coming soon)
@@ -1269,6 +1285,7 @@ Für die folgenden Wiki-Themen sind aktuell noch keine dedizierten Videos oder P
 - logiBUS® (coming soon)
 
 ### Wiki 3: ISOBUS Technik
+
 - **Vehicle Direction/Speed (VDS) – PGN 65256 (0x18FEE8FE) im J1939-Protokoll** (coming soon)
 - AEF ISOBUS CHECK Tool (coming soon)
 - Ablaufstrukturen (coming soon)
@@ -1310,6 +1327,7 @@ Für die folgenden Wiki-Themen sind aktuell noch keine dedizierten Videos oder P
 - pconvert (coming soon)
 
 ### Wiki 4: Visuelle Sprachen
+
 - 4Diac neues Projekt anlegen (coming soon)
 - A2X (BOOL) (coming soon)
 - A2X_2AX_TO_2X (coming soon)
@@ -3101,6 +3119,7 @@ Für die folgenden Wiki-Themen sind aktuell noch keine dedizierten Videos oder P
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
 - [🌐 Die richtige Lötspitze für den Mechatroniker (Web-App & Vergleich auf ms-muc-docs.de)](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
 - [🌐 E_CTU Event Counter Baustein auf ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/event-function-blocks/e_ctu/)

@@ -17,6 +17,7 @@ html_meta:
 ---
 
 ### 📋 [This is in the curriculum (Framework Curriculum 2025)](./das_steht_im_lehrplan.md)
+>
 > **Central Curriculum Hub:** All technical and professional requirements of the new Master Craftsman Examination Ordinance 2025 (LandBauMechMstrV of 09.09.2024, in force from 01.08.2025) as well as the Wiki assignment matrix.
 
 - 📋 **[This is in the curriculum – overall system & technology mapping](./das_steht_im_lehrplan.md)**
@@ -67,4 +68,5 @@ Here you will find direct access to the specialized documentation areas:
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
+
 - [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)

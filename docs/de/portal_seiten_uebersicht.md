@@ -1,4 +1,5 @@
 # 🌐 Seiten-Übersicht des Hauptportals (www.ms-muc-docs.de)
+>
 > 📌 **Zentrales Webseiten-Verzeichnis:** Vollständige Übersicht aller auf dem Hauptportal [www.ms-muc-docs.de](https://www.ms-muc-docs.de/) verfügbaren Webseiten, Lehrinhalte, Infografiken und interaktiven Tools.
 ---
 
@@ -7,6 +8,7 @@
 ---
 
 ## 🌐 Startseite & Hauptportal
+
 - [docs/wikis Meisterschulen am Ostbahnhof](https://www.ms-muc-docs.de/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 - [docs/wikis Meisterschulen am Ostbahnhof](https://www.ms-muc-docs.de/startseite/)
@@ -15,6 +17,7 @@
 ---
 
 ## 📋 Rahmenlehrplan 2025, Prüfungsordnung & Didaktik
+
 - [bayerische Verfassung](https://www.ms-muc-docs.de/infos/bayerische-verfassung/)
   > Die Schüler sind im Geiste der Demokratie, in der Liebe zur bayerischen Heimat und zum deutschen Volk und im Sinne der Völkerversöhnung zu erziehen.
 - [Die Bedeutung des selbstgesteuerten Lernens im Rahmenlehrplan](https://www.ms-muc-docs.de/infos/die-bedeutung-des-selbstgesteuerten-lernens-im-rahmenlehrplan/)
@@ -38,6 +41,7 @@ Lebenslanges selbstgesteuertes Lernen bezeichnet einen kontinuierlichen Lernproz
 ---
 
 ## ⚡ Elektrotechnik & Elektrik Grundlagen
+
 - [Baugrößen](https://www.ms-muc-docs.de/elektrotechnik/elektrik/widerstand/widerstand-bauteil/baugrößen/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 - [Elektrik](https://www.ms-muc-docs.de/elektrotechnik/elektrik/)
@@ -122,6 +126,7 @@ Lebenslanges selbstgesteuertes Lernen bezeichnet einen kontinuierlichen Lernproz
 ---
 
 ## 🔲 Elektronik I & II: Dioden, LED, BJT, FET, OPV & Smart Switches
+
 - [Bipolarer Transistor](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/bipolartransistor/bipolarer-transistor/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 - [Diode](https://www.ms-muc-docs.de/elektrotechnik/elektronik-i/diode/diode/)
@@ -176,6 +181,7 @@ Lebenslanges selbstgesteuertes Lernen bezeichnet einen kontinuierlichen Lernproz
 ---
 
 ## 💻 Mikroelektronik & ESP32-S3
+
 - [Das Mooresche Gesetz: Eine visuelle Reise](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mikroprozessor-mpu/moorsches-gesetz/das-mooresche-gesetz-eine-visuelle-reise/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 - [Das Mooresche Gesetz: Grenzen und Zukunft](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/mikroprozessor-mpu/moorsches-gesetz/das-mooresche-gesetz-grenzen-und-zukunft/)
@@ -263,6 +269,7 @@ Infografik Mikro...
 ---
 
 ## 🔌 Leiterplatten & PCB-Fertigung
+
 - [Bestückung](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
   > Bestückung
 - [Entwurf von Leiterplatten](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/entwurf-von-leiterplatten/)
@@ -277,6 +284,7 @@ Infografik Mikro...
 ---
 
 ## 🛠️ Elektronik-Werkzeuge, Löttechnik, Crimptechnik & Messtechnik
+
 - [Crimptechnik und Steckersysteme](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/crimptechnik/crimptechnik-und-steckersysteme/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 - [Die richtige Lötspitze für den Mechatroniker](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/die-richtige-lötspitze-für-den-mechatroniker/)
@@ -312,6 +320,7 @@ Aktive Lötspitzen bieten in der Regel eine höhere Leistung und bessere Tempera
 ---
 
 ## 📐 Automatisierung & Signalformen
+
 - [Das PWM-Signal: Die Kunst, Spannung zu zerhacken Infografik](https://www.ms-muc-docs.de/automatisierung/das-pwm-signal-die-kunst-spannung-zu-zerhacken/das-pwm-signal-die-kunst-spannung-zu-zerhacken-website/das-pwm-signal-die-kunst-spannung-zu-zerhacken-infografik/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 - [Das PWM-Signal: Die Kunst, Spannung zu zerhacken Website](https://www.ms-muc-docs.de/automatisierung/das-pwm-signal-die-kunst-spannung-zu-zerhacken/das-pwm-signal-die-kunst-spannung-zu-zerhacken-website/das-pwm-signal-die-kunst-spannung-zu-zerhacken-website/)
@@ -334,6 +343,7 @@ Aktive Lötspitzen bieten in der Regel eine höhere Leistung und bessere Tempera
 ---
 
 ## 🧩 IEC 61499 & Visuelle Programmiersprachen
+
 - [Abkürzungen und Bedeutungen](https://www.ms-muc-docs.de/iec-61499/abk%C3%BCrzungen-und-bedeutungen/abk%C3%BCrzungen-und-bedeutungen/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 - [Abkürzungen und Bedeutungen](https://www.ms-muc-docs.de/iec-61499/abkürzungen-und-bedeutungen/)
@@ -365,6 +375,7 @@ Sie finden die Dokumente unter folgenden
 ---
 
 ## 🧮 Informatik & Digitaltechnik
+
 - [Ada Lovelace: Die Architektin des Digitalen Zeitalters](https://www.ms-muc-docs.de/informatik/erste-informatikerin-der-welt/ada-lovelace-die-architektin-des-digitalen-zeitalters/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 - [Ada Lovelace: Interaktive Biografie](https://www.ms-muc-docs.de/informatik/erste-informatikerin-der-welt/ada-lovelace-interaktive-biografie/)
@@ -387,6 +398,7 @@ https://de.wikipedia.org/wiki/Frauen_in_der_Informatik
 ---
 
 ## 🎙️ Podcasts & Medien-Highlights
+
 - [ausgewählte Podcasts](https://www.ms-muc-docs.de/podcasts/ausgewählte-podcasts/)
   > Landtechnik
 Erste industrielle Revolution, Dampfmaschine, Max Eyth
@@ -404,6 +416,7 @@ Spot...
 ---
 
 ## 📚 Literatur, Bibliotheken & Links
+
 - [Bibliotheken](https://www.ms-muc-docs.de/literatur/bibliotheken/)
   > Bibliotheken
 - [Hermann Auernhammer - Pionier des Precision Farmings](https://www.ms-muc-docs.de/literatur/hermann-auernhammer-pionier-des-precision-farmings/)
@@ -426,6 +439,7 @@ Das mediaTUM ist der Medien- und Publikationsserver d...
 ---
 
 ## 📅 Veranstaltungen, Messen & Seminare
+
 - [Messen](https://www.ms-muc-docs.de/veranstaltungen/messen/)
   > productronica
 Weltleitmesse für Entwicklung und Fertigung von Elektronik
@@ -441,6 +455,7 @@ https://www.lse.ls...
 ---
 
 ## ℹ️ Allgemeines, Kontakt & Sonstiges
+
 - [alle PDFs](https://www.ms-muc-docs.de/wikis/alle-pdfs/)
   > Inhalte und Dokumentation der Meisterschulen am Ostbahnhof München.
 - [Elektrotechnik](https://www.ms-muc-docs.de/elektrotechnik/)

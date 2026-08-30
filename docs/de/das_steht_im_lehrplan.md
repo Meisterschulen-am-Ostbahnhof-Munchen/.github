@@ -24,14 +24,17 @@ Der Rahmenlehrplan 2025 umfasst **1.190 Unterrichtsstunden (UE/UStd.)**, aufgete
 ## 📚 Inhaltsseiten & Systematische Zuordnung
 
 ### 1. 📖 [Gesamtlehrplan 2025 & Stundenverteilung](./lehrplan/gesamtlehrplan_uebersicht_2025.md)
+
 - Detaillierte Aufschlüsselung aller Lerneinheiten für Teil I (Fachpraxis) und Teil II (Fachtheorie).
 - Übersicht über die geforderten Fachkompetenzen: *Wissen, Fertigkeiten, Fähigkeiten und Einstellung*.
 
 ### 2. 🗺️ [Wiki-Zuordnungsmatrix (Wo finde ich welches Thema?)](./lehrplan/wiki_zuordnung_matrix.md)
+
 - Zuordnung aller im Lehrplan geforderten Technikthemen zu unseren 6 Dokumentations-Wikis (Wiki 0 bis Wiki 5).
 - Schnelle Orientierung für Dozenten, Ausbilder und Meisterschüler.
 
 ### 3. 📝 [Prüfungsstruktur & Anforderungen (Teil I & Teil II)](./lehrplan/pruefungsordnung_teil1_teil2.md)
+
 - Meisterprüfungsprojekt, Fachgespräch und Situationsaufgabe im Teil I.
 - Prüfungsanforderungen und Handlungsfelder im Teil II.
 
@@ -40,6 +43,7 @@ Der Rahmenlehrplan 2025 umfasst **1.190 Unterrichtsstunden (UE/UStd.)**, aufgete
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
+
 - [🌐 Eclipse 4diac IDE & Farb-Referenz auf ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
 
 ## 🔗 Hauptportal & Direktlinks zu den 6 Wikis

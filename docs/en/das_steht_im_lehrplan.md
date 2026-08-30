@@ -1,11 +1,14 @@
 # 📋 This is what the curriculum says: Framework curriculum 2025 (Technology & Overall Systematics)
+>
 > 📌 **Source & Legal Basis:**
 > **Source:** *Framework curriculum for preparing for the master craftsman's examination in the agricultural and construction machinery mechatronics trade*
 > **Publisher:** German Association of Agricultural Machinery Manufacturers (LandBauTechnik-Bundesverband e. V.), Alfredstraße 102, 45131 Essen (Status: 25.02.2025)
 > **Regulation:** *Master Craftsman Examination Regulation (LandBauMechMstrV)* of 09.09.2024 (Federal Law Gazette 2024 I No. 277, in force from 01.08.2025)
 ---
-**Legal basis:** Master Examination Regulations in the Agricultural and Construction Machinery Mechatronics Trade (LandBauMechMstrV of 09.09.2024, Federal Law Gazette 2024 I No. 277, in force from 01.08.2025).
+
+**Legal basis:** Master Examination Regulations in the Agricultural and Construction Machinery Mechatronics Trade (LandBauMechMstrV of 09.09.2024, Federal Law Gazette 2024 I No. 277, in force from 01.08.2025)
 ---
+
 ## 🎯 Overarching training objectives & number of hours
 
 The 2025 curriculum framework comprises **1,190 teaching hours (UE/UStd.)**, divided into:
@@ -18,14 +21,17 @@ The 2025 curriculum framework comprises **1,190 teaching hours (UE/UStd.)**, div
 ## 📚 Content Pages & Systematic Assignment
 
 ### 1. 📖 [Overall curriculum 2025 & timetable distribution](./lehrplan/gesamtlehrplan_uebersicht_2025.md)
+
 - Detailed breakdown of all learning units for Part I (practical skills) and Part II (theoretical skills).
 - Overview of the required professional skills: *knowledge, skills, abilities and attitude*.
 
 ### 2. 🗺️ [Wiki mapping matrix (Where can I find which topic?)](./lehrplan/wiki_zuordnung_matrix.md)
+
 - Assignment of all technology topics required in the curriculum to our 6 documentation wikis (Wiki 0 to Wiki 5).
 - Quick orientation for lecturers, trainers and master students.
 
 ### 3. 📝 [Examination structure & requirements (Part I & Part II)](./lehrplan/pruefungsordnung_teil1_teil2.md)
+
 - Master craftsman's examination project, technical discussion and situational task in Part I.
 - Examination requirements and fields of action in Part II.
 
@@ -34,6 +40,7 @@ The 2025 curriculum framework comprises **1,190 teaching hours (UE/UStd.)**, div
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
+
 - [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
 
 ## 🔗 Main portal & direct links to the 6 wikis
