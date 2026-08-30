@@ -19,6 +19,7 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 ## 📌 Übersicht der 6 Dokumentations-Wikis (Klickbare Direktlinks)
 
 ### [📖 Wiki 0: Haupt-Wiki (`.github`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
+
 - **Fokus:** Gesamtlehrplan 2025, Prüfungsordnung (Teil I & II), Medien-Bibliothek, zentrale Suche.
 - **Inhalte:** [`das_steht_im_lehrplan.md`](../das_steht_im_lehrplan.md), [`pruefungsordnung_teil1_teil2.md`](./pruefungsordnung_teil1_teil2.md), Gesamtstruktur.
 - **Direktlink:** 🌐 [**Wiki 0 auf ReadTheDocs öffnen**](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
@@ -26,6 +27,7 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 ---
 
 ### [🚜 Wiki 1: C-Programmierung in ISOBUS (`Install-ISOBUS-Environment-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/)
+
 - **Fokus:** C/C++ Entwicklung, Toolchains, C-Libraries für ISO 11783, IsoAgLib.
 - **Lehrplan-Bezug:** Teil I LE 1.4 | Teil II LE 1.1 (Systemtechnik & Programmierung).
 - **Direktlink:** 🌐 [**Wiki 1 auf ReadTheDocs öffnen**](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/)
@@ -33,6 +35,7 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 ---
 
 ### [🖥️ Wiki 2: ISOBUS Virtual Terminal (`ISOBUS-VT-Objects-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) – **Mensch-Maschine-Schnittstelle (HMI)**
+
 - **Fokus:** ISOBUS Virtual Terminal (UT / VT nach ISO 11783-6), ISO-Designer, VT-Objektpools (Data Mask, SoftKey Mask, Alarm Mask), HMI-Ergonomie, Tasten-Events & Eingabe-Attribute.
 - **Lehrplan-Bezug:** Teil I LE 1.4 (Bedienung & Visualisierung automatisierter Funktionen) | Teil II LE 1.1 (Mensch-Maschine-Schnittstellen & Systemtechnik), LE 1.4 (Planung von Bedienoberflächen & Maskenlayouts).
 - **Direktlink:** 🌐 [**Wiki 2 auf ReadTheDocs öffnen**](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/)
@@ -40,6 +43,7 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 ---
 
 ### [📡 Wiki 3: ISOBUS Technik & Maschinensysteme (`ISOBUS-other-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/)
+
 - **Fokus:** Hydraulik, Pneumatik, Motoren (Stage V), HV-Technik (DGUV 209-093), Getriebe, Maschinensicherheit (ISO 25119 AgPL) & CAN-Protokolle (SAE J1939, PGNs).
 - **Lehrplan-Bezug:** Teil I LE 2.3, 2.4, 2.5 | Teil II LE 1.1, 1.3 (Diagnose & Instandsetzung).
 - **Direktlink:** 🌐 [**Wiki 3 auf ReadTheDocs öffnen**](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/)
@@ -47,6 +51,7 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 ---
 
 ### [🧩 Wiki 4: Visuelle Programmiersprachen (`visual-programming-languages-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) – ⭐ **Zentrale Hauptmethode des Lehrplans 2025**
+
 - **Fokus:** IEC 61499, Eclipse 4diac IDE, Low-Code, ereignisgesteuerte Bausteinnetze, ESP32 DualCAN Steuerung.
 - **Lehrplan-Bezug:** Teil I LE 1.4 (Automatisierte Funktionen), LE 2.6 (Autonome Systeme) | Teil II LE 1.1 (Systemtechnik & Programmiermethodik), LE 1.3 (Diagnose in Bausteinnetzen).
 - **Zentrale Rolle:** Der Rahmenlehrplan 2025 fordert grafisch-visuelle Modellierung statt reiner Text-Code-Schreibung für vernetzte Automatisierung und Autonomie.
@@ -55,6 +60,7 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 ---
 
 ### [🛠️ Wiki 5: Werkzeug- & Messmittel-Handbuch (`werkzeug-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) – **Werkstattausrüstung & Diagnosewerkzeuge**
+
 - **Fokus (Alle 3 Werkzeug-Kategorien):**
   1. **Mess- & Diagnosewerkzeuge (Analysierend):** Oszilloskope, Multimeter, CAN-Tester (PEAK, Busmaster, AEF-Check), digitale Mikroskope zur Lötstellen- & Crimp-Inspektion.
   2. **Produzierende Werkzeuge (Verarbeitend):** Löttechnik (SMD/THT, Hotair, Hotplates, JBC/Aixun/Ersa), Crimptechnik (Deutsch-Stecker, AMP, Hydraulikcrimpen).
@@ -67,10 +73,11 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
-* [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
-* [🌐 Eclipse 4diac IDE & Farb-Referenz auf ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
-* [🌐 ESP32 & ESP32-S3 DevKit auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
-* [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
+
+- [🌐 Interaktiver JBC-Lötspitzen Guide & Infografik auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/werkzeug/lötkolben/jbc-lötspitzen-übersicht/)
+- [🌐 Eclipse 4diac IDE & Farb-Referenz auf ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
+- [🌐 ESP32 & ESP32-S3 DevKit auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/mikroelektronik/esp32/esp32-s3-devkit/)
+- [🌐 Leiterplatten-Entwurf & Bestückung auf ms-muc-docs.de](https://www.ms-muc-docs.de/elektrotechnik/leiterplatten/bestückung/)
 
 ## 🔗 Übersicht, Hauptportal & Direktlinks zu allen 6 Wikis
 

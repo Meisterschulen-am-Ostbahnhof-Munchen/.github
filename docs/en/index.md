@@ -17,12 +17,13 @@ html_meta:
 ---
 
 ### 📋 [This is in the curriculum (Framework Curriculum 2025)](./das_steht_im_lehrplan.md)
+>
 > **Central Curriculum Hub:** All technical and professional requirements of the new Master Craftsman Examination Ordinance 2025 (LandBauMechMstrV of 09.09.2024, in force from 01.08.2025) as well as the Wiki assignment matrix.
 
-* 📋 **[This is in the curriculum – overall system & technology mapping](./das_steht_im_lehrplan.md)**
-* 📖 [Complete curriculum 2025 & time distribution (380 teaching units + 810 teaching units)](./lehrplan/gesamtlehrplan_uebersicht_2025.md)
-* 🗺️ [Wiki mapping matrix (Where can I find which topic?)](./lehrplan/wiki_zuordnung_matrix.md)
-* 📝 [Examination structure & requirements (Part I & Part II)](./lehrplan/pruefungsordnung_teil1_teil2.md)
+- 📋 **[This is in the curriculum – overall system & technology mapping](./das_steht_im_lehrplan.md)**
+- 📖 [Complete curriculum 2025 & time distribution (380 teaching units + 810 teaching units)](./lehrplan/gesamtlehrplan_uebersicht_2025.md)
+- 🗺️ [Wiki mapping matrix (Where can I find which topic?)](./lehrplan/wiki_zuordnung_matrix.md)
+- 📝 [Examination structure & requirements (Part I & Part II)](./lehrplan/pruefungsordnung_teil1_teil2.md)
 
 ---
 
@@ -32,12 +33,12 @@ This page is your central hub ("super search"). A search here in the main wiki a
 
 **Useful Links & Main Portal:**
 
-* 🌐 [**Main Portal Master Schools Munich**](https://www.ms-muc-docs.de/)
-* 🌐 [**Page overview of the main portal (140 portal pages)**](./portal_seiten_uebersicht.md)
-* 📋 **[This is in the curriculum (Curriculum 2025)](./das_steht_im_lehrplan.md)**
-* [🔍 Super search (all wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/en/latest/)
-* [🎙️ Media Library (Videos & Podcasts)](medien.md)
-* [📄 Download PDF manual ](https://meisterschulen-am-ostbahnhof-munchen.github.io/.github/en/pdf/meisterschulen-wiki-en.pdf)
+- 🌐 [**Main Portal Master Schools Munich**](https://www.ms-muc-docs.de/)
+- 🌐 [**Page overview of the main portal (140 portal pages)**](./portal_seiten_uebersicht.md)
+- 📋 **[This is in the curriculum (Curriculum 2025)](./das_steht_im_lehrplan.md)**
+- [🔍 Super search (all wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/en/latest/)
+- [🎙️ Media Library (Videos & Podcasts)](medien.md)
+- [📄 Download PDF manual ](https://meisterschulen-am-ostbahnhof-munchen.github.io/.github/en/pdf/meisterschulen-wiki-en.pdf)
 
 ---
 
@@ -67,4 +68,5 @@ Here you will find direct access to the specialized documentation areas:
 ---
 
 ### 🌐 Related topic subpages on ms-muc-docs.de
-* [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
+
+- [🌐 Eclipse 4diac IDE & Color Reference on ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)

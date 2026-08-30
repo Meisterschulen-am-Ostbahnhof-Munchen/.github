@@ -18,12 +18,13 @@ myst:
 ---
 
 ### 📋 [Das steht im Lehrplan (Rahmenlehrplan 2025)](./das_steht_im_lehrplan.md)
+>
 > **Zentraler Lehrplan-Hub:** Alle technischen und fachlichen Anforderungen der neuen Meisterprüfungsverordnung 2025 (LandBauMechMstrV vom 09.09.2024, in Kraft ab 01.08.2025) sowie die Wiki-Zuordnungsmatrix.
 
-* 📋 **[Das steht im Lehrplan – Gesamtsystematik & Technik-Mapping](./das_steht_im_lehrplan.md)**
-  * 📖 [Gesamtlehrplan 2025 & Stundenverteilung (380 UE + 810 UStd.)](./lehrplan/gesamtlehrplan_uebersicht_2025.md)
-  * 🗺️ [Wiki-Zuordnungsmatrix (Wo finde ich welches Thema?)](./lehrplan/wiki_zuordnung_matrix.md)
-  * 📝 [Prüfungsstruktur & Anforderungen (Teil I & Teil II)](./lehrplan/pruefungsordnung_teil1_teil2.md)
+- 📋 **[Das steht im Lehrplan – Gesamtsystematik & Technik-Mapping](./das_steht_im_lehrplan.md)**
+  - 📖 [Gesamtlehrplan 2025 & Stundenverteilung (380 UE + 810 UStd.)](./lehrplan/gesamtlehrplan_uebersicht_2025.md)
+  - 🗺️ [Wiki-Zuordnungsmatrix (Wo finde ich welches Thema?)](./lehrplan/wiki_zuordnung_matrix.md)
+  - 📝 [Prüfungsstruktur & Anforderungen (Teil I & Teil II)](./lehrplan/pruefungsordnung_teil1_teil2.md)
 
 ---
 
@@ -33,12 +34,12 @@ Diese Seite ist Ihr zentraler Anlaufpunkt („Super-Suche“). Eine Suche hier i
 
 **Nützliche Links & Hauptportal:**
 
-* 🌐 [**Hauptportal Meisterschulen München**](https://www.ms-muc-docs.de/)
-* 🌐 [**Seiten-Übersicht des Hauptportals (140 Portal-Seiten)**](./portal_seiten_uebersicht.md)
-* 📋 **[Das steht im Lehrplan (Lehrplan 2025)](./das_steht_im_lehrplan.md)**
-* [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
-* [🎙️ Medien-Bibliothek (Videos & Podcasts)](medien.md)
-* [📄 PDF-Handbuch herunterladen](https://meisterschulen-am-ostbahnhof-munchen.github.io/.github/de/pdf/meisterschulen-wiki-de.pdf)
+- 🌐 [**Hauptportal Meisterschulen München**](https://www.ms-muc-docs.de/)
+- 🌐 [**Seiten-Übersicht des Hauptportals (140 Portal-Seiten)**](./portal_seiten_uebersicht.md)
+- 📋 **[Das steht im Lehrplan (Lehrplan 2025)](./das_steht_im_lehrplan.md)**
+- [🔍 Super-Suche (alle Wikis)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/)
+- [🎙️ Medien-Bibliothek (Videos & Podcasts)](medien.md)
+- [📄 PDF-Handbuch herunterladen](https://meisterschulen-am-ostbahnhof-munchen.github.io/.github/de/pdf/meisterschulen-wiki-de.pdf)
 
 
 ---
@@ -76,4 +77,5 @@ Hier finden Sie den direkten Zugang zu den spezialisierten Dokumentationsbereich
 ---
 
 ### 🌐 Passende Themen-Unterseiten auf ms-muc-docs.de
-* [🌐 Eclipse 4diac IDE & Farb-Referenz auf ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
+
+- [🌐 Eclipse 4diac IDE & Farb-Referenz auf ms-muc-docs.de](https://www.ms-muc-docs.de/iec-61499/eclipse-4diac/)
