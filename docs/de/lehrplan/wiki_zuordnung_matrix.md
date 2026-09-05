@@ -59,6 +59,22 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 
 ---
 
+### [🧩 Wiki 4.1: 4diac Bibliotheken: FB- & Adapter-Referenz (`4diac-library-reference-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-library-reference-docs-de/de/latest/)
+
+- **Fokus:** Referenz aller Funktionsbausteine (FB) und Adapter der 4diac-Standardbibliotheken.
+- **Lehrplan-Bezug:** Teil II LE 1.1 (Systemtechnik & Programmiermethodik), ergänzend zu Wiki 4.
+- **Direktlink:** 🌐 [**Wiki 4.1 auf ReadTheDocs öffnen**](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-library-reference-docs-de/de/latest/)
+
+---
+
+### [🧩 Wiki 4.2: Übungsaufgaben: 4diac Trainingslösungen (`4diac-exercises-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-exercises-docs-de/de/latest/)
+
+- **Fokus:** Übungsaufgaben und Musterlösungen zum Training mit Eclipse 4diac.
+- **Lehrplan-Bezug:** Teil II LE 1.1 (Systemtechnik & Programmiermethodik), praktische Vertiefung zu Wiki 4.
+- **Direktlink:** 🌐 [**Wiki 4.2 auf ReadTheDocs öffnen**](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-exercises-docs-de/de/latest/)
+
+---
+
 ### [🛠️ Wiki 5: Werkzeug- & Messmittel-Handbuch (`werkzeug-docs`)](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) – **Werkstattausrüstung & Diagnosewerkzeuge**
 
 - **Fokus (Alle 3 Werkzeug-Kategorien):**
@@ -88,4 +104,6 @@ Hier finden Sie die exakte Verortung aller im **Rahmenlehrplan 2025** geforderte
 | **Wiki 2** | **ISOBUS Virtual Terminal (VT)**<br>Benutzeroberflächen, ISO-Designer, VT-Objektpools & HMI. | [🖥️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) |
 | **Wiki 3** | **ISOBUS Technik & Maschinensysteme**<br>Hydraulik, Pneumatik, Motoren, HV-Technik, Getriebe & Maschinensicherheit. | [📡 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) |
 | **Wiki 4** | **Visuelle Programmiersprachen**<br>Low-Code Entwicklung, IEC 61499 & 4diac IDE (Lehrplan-Hauptthema). | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
+| **Wiki 4.1** | **4diac Bibliotheken: FB- & Adapter-Referenz**<br>Referenz der Funktionsbausteine und Adapter der 4diac-Bibliotheken. | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-library-reference-docs-de/de/latest/) |
+| **Wiki 4.2** | **Übungsaufgaben: 4diac Trainingslösungen**<br>Übungsaufgaben und Musterlösungen zum Training mit 4diac. | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-exercises-docs-de/de/latest/) |
 | **Wiki 5** | **Elektronik-Werkzeuge & Messgeräte**<br>Handbuch für Crimptechnik, Lötstationen, Oszilloskope & Mikroskope. | [🛠️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |

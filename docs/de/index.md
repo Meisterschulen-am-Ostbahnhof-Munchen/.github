@@ -55,6 +55,8 @@ Hier finden Sie den direkten Zugang zu den spezialisierten Dokumentationsbereich
 | **Wiki 2** | **ISOBUS Virtual Terminal**<br>Detaillierte Dokumentation zu Benutzeroberflächen und Objekten. | [🖥️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) |
 | **Wiki 3** | **ISOBUS Technik & Maschinensysteme**<br>Hydraulik, Pneumatik, Motoren, HV-Technik, Getriebe & Maschinensicherheit. | [📡 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) |
 | **Wiki 4** | **Visuelle Programmiersprachen**<br>Einführung und Handbuch zu Low-Code Entwicklungsumgebungen (4diac). | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
+| **Wiki 4.1** | **4diac Bibliotheken: FB- & Adapter-Referenz**<br>Referenz der Funktionsbausteine und Adapter der 4diac-Bibliotheken. | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-library-reference-docs-de/de/latest/) |
+| **Wiki 4.2** | **Übungsaufgaben: 4diac Trainingslösungen**<br>Übungsaufgaben und Trainingslösungen zu 4diac. | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-exercises-docs-de/de/latest/) |
 | **Wiki 5** | **Elektronik-Werkzeuge**<br>Handbuch für Löttechnik, Messgeräte und Werkstatt-Ausstattung. | [🛠️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |
 
 
