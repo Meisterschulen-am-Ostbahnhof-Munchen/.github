@@ -9,7 +9,7 @@ markdown_extensions:
 plugins:
 - search
 site_name: Wiki of the Master Craftsmen's Schools at Munich East Station (0)
-site_url: https://docs.ms-muc-docs.de/
+site_url: https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/
 extra:
   alternate:
   - lang: de
