@@ -166,4 +166,4 @@ cython_debug/
 # Typst & Pandoc artifacts
 *combined.md
 *book.typ
-*img/downloaded/
+**/img/downloaded/
