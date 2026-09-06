@@ -5,7 +5,8 @@
 > **Publisher:** German Association of Agricultural Machinery Manufacturers (LandBauTechnik-Bundesverband e. V.), Alfredstraße 102, 45131 Essen (Status: 25.02.2025)
 > **Regulation:** *Master Craftsman Examination Regulation (LandBauMechMstrV)* of 09.09.2024 (Federal Law Gazette 2024 I No. 277, in force from 01.08.2025)
 ---
-**Regulations for the Master Craftsman's Examination in Parts I and II in the Agricultural and Construction Machinery Mechatronics Trade**
+
+## Regulations for the Master Craftsman's Examination in Parts I and II in the Agricultural and Construction Machinery Mechatronics Trade
 
 ---
 

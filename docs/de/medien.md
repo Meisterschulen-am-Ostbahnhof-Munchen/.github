@@ -380,7 +380,7 @@ Hier finden Sie eine Übersicht aller Videos und Podcasts der Meisterschulen am 
 
 ## 📺 YouTube Videos
 
-*(Ohne Shorts und ohne Podcast-Dubletten)*
+(Ohne Shorts und ohne Podcast-Dubletten)
 
 - [06. Mai 2025 Tag 6 von logiBUS® Schulungsreihe (D)](https://www.youtube.com/watch?v=g-LuUu-QFcI)
 - [15. Apr. 2025  Tag 1 von logiBUS® Schulungsreihe (D)](https://www.youtube.com/watch?v=tlZC5rN_CUI)

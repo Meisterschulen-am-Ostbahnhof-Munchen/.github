@@ -7,6 +7,7 @@
 ---
 
 **Legal basis:** Master Examination Regulations in the Agricultural and Construction Machinery Mechatronics Trade (LandBauMechMstrV of 09.09.2024, Federal Law Gazette 2024 I No. 277, in force from 01.08.2025)
+
 ---
 
 ## 🎯 Overarching training objectives & number of hours
