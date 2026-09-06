@@ -20,13 +20,13 @@ Hier ist eine Übersicht unserer spezialisierten Dokumentationsbereiche:
 | Wiki | Beschreibung | Link |
 | :--- | :--- | :---: |
 | **Wiki 0** | **Wiki der Meisterschulen**<br>Allgemeine Informationen und Haupt-Wiki. | [📖 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/de/latest/) |
-| **Wiki 1** | **C-Programmierung in ISOBUS**<br>Grundlagen der Programmierung. | [🚜 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs/de/latest/) |
-| **Wiki 2** | **ISOBUS Virtual Terminal**<br>Benutzeroberfläche und Objekte. | [🖥️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs/de/latest/) |
-| **Wiki 3** | **ISOBUS Technik**<br>Technische Grundlagen und Kommunikation. | [📡 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs/de/latest/) |
-| **Wiki 4** | **Visuelle Programmiersprachen**<br>Low-Code Entwicklung. | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs/de/latest/) |
+| **Wiki 1** | **C-Programmierung in ISOBUS**<br>Grundlagen der Programmierung. | [🚜 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/install-isobus-environment-docs-de/de/latest/) |
+| **Wiki 2** | **ISOBUS Virtual Terminal**<br>Benutzeroberfläche und Objekte. | [🖥️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-vt-objects-docs-de/de/latest/) |
+| **Wiki 3** | **ISOBUS Technik**<br>Technische Grundlagen und Kommunikation. | [📡 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/isobus-other-docs-de/de/latest/) |
+| **Wiki 4** | **Visuelle Programmiersprachen**<br>Low-Code Entwicklung. | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/visual-programming-languages-docs-de/de/latest/) |
 | **Wiki 4.1** | **4diac Bibliotheken**<br>FB- & Adapter-Referenz. | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-library-reference-docs-de/de/latest/) |
 | **Wiki 4.2** | **4diac Übungsaufgaben**<br>Trainingslösungen. | [🧩 Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/4diac-exercises-docs-de/de/latest/) |
-| **Wiki 5** | **Elektronik-Werkzeuge**<br>Handbuch für Lötkolben und mehr. | [🛠️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs/de/latest/) |
+| **Wiki 5** | **Elektronik-Werkzeuge**<br>Handbuch für Lötkolben und mehr. | [🛠️ Öffnen](https://meisterschulen-am-ostbahnhof-munchen-docs.readthedocs.io/projects/werkzeug-docs-de/de/latest/) |
 
 ### 📄 PDF-Downloads aller Wikis
 
