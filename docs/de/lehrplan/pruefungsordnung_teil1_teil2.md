@@ -7,7 +7,7 @@
 
 ---
 
-**Regelung der Meisterprüfung in den Teilen I und II im Land- und Baumaschinenmechatroniker-Handwerk**
+## Regelung der Meisterprüfung in den Teilen I und II im Land- und Baumaschinenmechatroniker-Handwerk
 
 ---
 

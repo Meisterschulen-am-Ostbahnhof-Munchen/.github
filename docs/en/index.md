@@ -8,9 +8,9 @@ html_meta:
 "property=og:locale": "de"
 ---
 
-<img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
-
 # Wiki 0: Main Wiki of the Master Schools
+
+<img src="_static/logos/Meisterschulen_LogoG1_4c.gif" alt="Logo Meisterschulen am Ostbahnhof" width="400px" />
 
 ## Master Schools at Munich East Station
 

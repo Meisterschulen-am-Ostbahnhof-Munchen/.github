@@ -396,7 +396,7 @@ Unlock Simultaneous Connectivity: Your Guide to Dual Wi-Fi for Uninterrupted Loc
 
 ## 📺 YouTube Videos
 
-*(Excluding shorts and duplicate podcasts)*
+(Excluding shorts and duplicate podcasts)
 
 -
 

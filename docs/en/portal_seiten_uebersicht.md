@@ -4,6 +4,7 @@
 ---
 
 **Total number of portal pages recorded:** `173 Seiten`
+
 ---
 
 ## 🌐 Homepage & Main Portal

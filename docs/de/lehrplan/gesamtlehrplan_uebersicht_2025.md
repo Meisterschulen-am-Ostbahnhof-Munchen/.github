@@ -8,7 +8,7 @@
 ---
 
 
-**Rahmenlehrplan für die Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk**
+## Rahmenlehrplan für die Meisterprüfung im Land- und Baumaschinenmechatroniker-Handwerk
 
 ---
 
