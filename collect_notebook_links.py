@@ -40,7 +40,8 @@ def collect_links():
 
     print("Suche nach NotebookLM Links...")
     for wiki in WIKIS:
-        if not os.path.exists(wiki): continue
+        if not os.path.exists(wiki):
+            continue
         for root, _, files in os.walk(wiki):
             for file in files:
                 if file.endswith(".md") and file != "medien.md":

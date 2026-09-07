@@ -211,7 +211,8 @@ def update_file(path, videos, podcasts):
                 insert_idx = i
                 break
         
-        if insert_idx == -1: insert_idx = len(lines)
+        if insert_idx == -1:
+            insert_idx = len(lines)
         
         lines.insert(insert_idx, "")
         lines.insert(insert_idx, title)
@@ -235,7 +236,8 @@ def main():
     print(f"Datenbank geladen: {len(db['videos'])} Videos, {len(db['podcasts'])} Podcasts.")
 
     for wiki in WIKIS:
-        if not os.path.exists(wiki): continue
+        if not os.path.exists(wiki):
+            continue
         for root, _, files in os.walk(wiki):
             for file in files:
                 if file.endswith(".md") and file != "medien.md" and file != "index.md":

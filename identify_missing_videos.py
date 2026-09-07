@@ -79,7 +79,8 @@ def main():
             t_low = topic.lower()
             t_clean = re.sub(r'[^a-z0-9]', ' ', t_low).strip()
             
-            if not t_clean: continue
+            if not t_clean:
+                continue
 
             # Heuristik für Abdeckung
             is_covered = False
