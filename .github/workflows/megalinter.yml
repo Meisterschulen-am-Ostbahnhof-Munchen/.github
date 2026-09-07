@@ -25,3 +25,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_ALL_CODEBASE: true
+          # Set here rather than only in .mega-linter.yml: the YAML-list
+          # form of ENABLE_LINTERS was not being honored by the runner
+          # (every sub-linter for each enabled language still ran), but
+          # the env-var form is MegaLinter's native config mechanism and
+          # is documented to take priority over everything else.
+          ENABLE_LINTERS: ACTION_ACTIONLINT,CSS_STYLELINT,HTML_HTMLHINT,JAVASCRIPT_STANDARD,PYTHON_RUFF,YAML_YAMLLINT
