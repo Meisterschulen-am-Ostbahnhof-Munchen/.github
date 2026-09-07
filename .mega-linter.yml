@@ -1,1 +1,21 @@
-VALIDATE_ALL_CODEBASE: true
+# Configuration for MegaLinter
+# https://megalinter.io/latest/config-file/
+#
+# Scoped to the languages/formats actually present in this repo
+# (checked via `git ls-files`: .py, .yml/.yaml, .css, .js, .html,
+# plus the GitHub Actions workflows themselves). Markdown and secrets
+# scanning are intentionally left out of this list - they're already
+# covered by this repo's dedicated markdownlint CI workflow (tuned
+# config) and the DeepSource "secrets" analyzer, so enabling them
+# here too would just produce duplicate/conflicting feedback on the
+# same files.
+ENABLE:
+  - ACTION
+  - CSS
+  - HTML
+  - JAVASCRIPT
+  - PYTHON
+  - YAML
+
+SHOW_ELAPSED_TIME: true
+FILEIO_REPORTER: false
