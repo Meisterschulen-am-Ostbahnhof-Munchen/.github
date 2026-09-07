@@ -1,5 +1,7 @@
 # Wiki der Meisterschulen am Ostbahnhof München
 
+[![MegaLinter](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/actions/workflows/megalinter.yml/badge.svg)](https://github.com/Meisterschulen-am-Ostbahnhof-Munchen/.github/actions/workflows/megalinter.yml)
+
 Quellcode und Inhalte für **Wiki 0** – das Haupt-Wiki der Meisterschulen am Ostbahnhof München. Dieses Repository ist zugleich das speziell benannte `.github`-Repository der GitHub-Organisation und liefert das öffentliche Org-Profil unter [`profile/README.md`](profile/README.md).
 
 ## Dokumentation lesen
