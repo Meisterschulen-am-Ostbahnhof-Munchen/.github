@@ -1,0 +1,13 @@
+# Codacy configuration
+# https://docs.codacy.com/related-tools/configuring-analysis/codacy-configuration-file/
+#
+# ESLint is disabled here: this repo's JavaScript files are already
+# enforced by the MegaLinter CI workflow using JavaScript Standard
+# Style. Codacy's own bundled ESLint preset (Prettier + Ember + compat
+# plugins) actively conflicts with Standard's conventions (semicolons
+# vs. none, quote style) and flags Ember-specific jQuery rules that
+# don't apply here - producing duplicate, contradictory findings
+# instead of useful ones.
+engines:
+  eslint:
+    enabled: false
