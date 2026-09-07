@@ -1,5 +1,4 @@
 import os
-import re
 
 # Liste der Dokumentations-Verzeichnisse
 directories = [
@@ -53,7 +52,7 @@ def process_file(file_path):
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write("\n".join(new_lines) + "\n")
             print(f"Index hinzugefügt: {file_path} ({title})")
-        except Exception as e:
+        except Exception as e:  # noqa: BLE001 - best-effort batch write, log and continue
             print(f"Fehler beim Schreiben von {file_path}: {e}")
 
 def main():

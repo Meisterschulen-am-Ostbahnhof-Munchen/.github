@@ -58,7 +58,8 @@ def get_wiki_topics():
                                     if not is_ignored and len(clean_title) > 2:
                                         wiki_topics[wiki_label].append(title)
                                     break
-                    except:
+                    except Exception as e:  # noqa: BLE001 - best-effort scan, skip unparsable file
+                        print(f"Fehler beim Verarbeiten von {path}: {e}")
                         continue
     return wiki_topics
 
@@ -78,7 +79,8 @@ def main():
             t_low = topic.lower()
             t_clean = re.sub(r'[^a-z0-9]', ' ', t_low).strip()
             
-            if not t_clean: continue
+            if not t_clean:
+                continue
 
             # Heuristik für Abdeckung
             is_covered = False
@@ -104,7 +106,7 @@ def main():
     for wiki, topics in missing_by_wiki.items():
         if topics:
             # Duplikate filtern und sortieren
-            unique_topics = sorted(list(set(topics)))
+            unique_topics = sorted(set(topics))
             if unique_topics:
                 found_any = True
                 new_section += f"### {wiki}\n"

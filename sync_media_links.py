@@ -13,7 +13,8 @@ WIKIS = [
 
 def parse_medien_db():
     db = {'videos': [], 'podcasts': []}
-    if not os.path.exists(MEDIA_FILE): return db
+    if not os.path.exists(MEDIA_FILE):
+        return db
     with open(MEDIA_FILE, "r", encoding="utf-8") as f:
         content = f.read()
     
@@ -24,12 +25,13 @@ def parse_medien_db():
         yt_content = parts[1] if len(parts) > 1 else ""
         db['podcasts'] = re.findall(r"\* \[(.*?)\]\((.*?)\)", pod_content)
         db['videos'] = re.findall(r"\* \[(.*?)\]\((.*?)\)", yt_content)
-    except:
+    except Exception:  # noqa: BLE001 - best-effort parse, report and return partial db
         print("Fehler beim Parsen der medien.md")
     return db
 
 def normalize_ex_id(text):
-    if not text: return None
+    if not text:
+        return None
     # Extrahiert Nummersteil und entfernt führende Nullen (z.B. 010b2 -> 10b2)
     match = re.search(r"uebung[ _](0*)(\w+)", text.lower())
     return match.group(2) if match else None
@@ -40,13 +42,13 @@ def get_isobus_id(text):
 
 def sync_file(path, db):
     with open(path, "r", encoding="utf-8") as f:
-        lines = [line.rstrip() for line in f.readlines()]
+        lines = [line.rstrip() for line in f]
     
     filename = os.path.basename(path)
     h1_title = ""
-    for l in lines:
-        if l.startswith("# "):
-            h1_title = l.lstrip("# ").strip()
+    for line in lines:
+        if line.startswith("# "):
+            h1_title = line.lstrip("# ").strip()
             break
 
     # Bestimme die Ziel-IDs für diese Datei
@@ -61,11 +63,15 @@ def sync_file(path, db):
             m_ex = normalize_ex_id(title)
             m_iso = get_isobus_id(title)
             
-            if ex_id and m_ex == ex_id: score += 100
-            elif ex_id and m_ex: score -= 50
-            
-            if iso_id and m_iso == iso_id: score += 90
-            elif iso_id and m_iso: score -= 40
+            if ex_id and m_ex == ex_id:
+                score += 100
+            elif ex_id and m_ex:
+                score -= 50
+
+            if iso_id and m_iso == iso_id:
+                score += 90
+            elif iso_id and m_iso:
+                score -= 40
             
             # Text-Matching auf signifikante Wörter
             t_clean = re.sub(r'[^a-z0-9]', ' ', current_title.lower())
@@ -80,10 +86,10 @@ def sync_file(path, db):
         # Unique links
         seen = set()
         unique = []
-        for s, t, l in matches:
-            if l not in seen:
-                unique.append((s, t, l))
-                seen.add(l)
+        for s, t, link in matches:
+            if link not in seen:
+                unique.append((s, t, link))
+                seen.add(link)
         return unique[:5]
 
     matched_v = get_matches(db['videos'], target_ex, target_id, h1_title)
@@ -95,15 +101,16 @@ def sync_file(path, db):
     for line in lines:
         l_strip = line.strip()
         # Start einer Mediensektion
-        if l_strip.startswith("## 📺 Video") or l_strip.startswith("## Video") or \
-           l_strip.startswith("## 🎧 Podcast") or l_strip.startswith("## Podcast") or \
-           l_strip.startswith("<iframe src=\"https://creators.spotify.com"):
+        if l_strip.startswith((
+            "## 📺 Video", "## Video", "## 🎧 Podcast", "## Podcast",
+            "<iframe src=\"https://creators.spotify.com",
+        )):
             skip = True
             continue
         
         if skip:
             # Ende der Mediensektion: Jeder neue Header oder Trenner
-            if l_strip.startswith("## ") or l_strip.startswith("---") or l_strip.startswith("----"):
+            if l_strip.startswith(("## ", "---", "----")):
                 skip = False
                 # Den Trenner selbst behalten wir NICHT, wenn er direkt nach einer Sektion kommt 
                 # (wir fügen eigene Trenner ein)
@@ -118,10 +125,11 @@ def sync_file(path, db):
     # 3. Neue Sektionen einfügen (nach dem ersten H1-Block/Einleitung)
     insert_pos = 0
     for i, line in enumerate(final_lines):
-        if i > 0 and (line.startswith("## ") or line.startswith("---")):
+        if i > 0 and line.startswith(("## ", "---")):
             insert_pos = i
             break
-    if insert_pos == 0: insert_pos = min(5, len(final_lines))
+    if insert_pos == 0:
+        insert_pos = min(5, len(final_lines))
 
     # Block zusammenbauen
     new_media_block = []
@@ -132,14 +140,14 @@ def sync_file(path, db):
         if matched_v:
             new_media_block.append("")
             new_media_block.append("## 📺 Video")
-            for s, t, l in matched_v:
-                new_media_block.append(f"* [{t}]({l})")
+            for s, t, link in matched_v:
+                new_media_block.append(f"* [{t}]({link})")
         
         if matched_p:
             new_media_block.append("")
             new_media_block.append("## 🎧 Podcast")
-            for s, t, l in matched_p:
-                new_media_block.append(f"* [{t}]({l})")
+            for s, t, link in matched_p:
+                new_media_block.append(f"* [{t}]({link})")
         new_media_block.append("")
 
     # Einfügen
@@ -157,13 +165,14 @@ def sync_file(path, db):
 def main():
     db = parse_medien_db()
     for wiki in WIKIS:
-        if not os.path.exists(wiki): continue
+        if not os.path.exists(wiki):
+            continue
         for root, _, files in os.walk(wiki):
             for file in files:
                 if file.endswith(".md") and file not in ["index.md", "medien.md"]:
                     try:
                         sync_file(os.path.join(root, file), db)
-                    except Exception as e:
+                    except Exception as e:  # noqa: BLE001 - best-effort batch sync, skip file on error
                         print(f"Fehler in {file}: {e}")
 
 if __name__ == "__main__":

@@ -40,7 +40,8 @@ def collect_links():
 
     print("Suche nach NotebookLM Links...")
     for wiki in WIKIS:
-        if not os.path.exists(wiki): continue
+        if not os.path.exists(wiki):
+            continue
         for root, _, files in os.walk(wiki):
             for file in files:
                 if file.endswith(".md") and file != "medien.md":
@@ -69,7 +70,7 @@ def collect_links():
                                 if link not in seen_links:
                                     notebooks.append({'title': file_title, 'link': link})
                                     seen_links.add(link)
-                    except Exception as e:
+                    except Exception as e:  # noqa: BLE001 - best-effort batch read, log and continue
                         print(f"Error reading {path}: {e}")
     return notebooks
 

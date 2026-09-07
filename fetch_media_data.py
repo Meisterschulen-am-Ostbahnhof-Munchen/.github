@@ -1,6 +1,5 @@
 import feedparser
 import yt_dlp
-import os
 
 # Konfiguration
 podcasts = {
@@ -112,7 +111,8 @@ def generate_markdown():
     # 3. Thematische Liste
     md += "## 📂 Thematische Übersicht\n\n"
     all_media = []
-    for eps in pod_data.values(): all_media.extend(eps)
+    for eps in pod_data.values():
+        all_media.extend(eps)
     all_media.extend(yt_data)
     
     themed = categorize(all_media)
