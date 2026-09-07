@@ -25,9 +25,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           VALIDATE_ALL_CODEBASE: true
-          # Set here rather than only in .mega-linter.yml: the YAML-list
-          # form of ENABLE_LINTERS was not being honored by the runner
-          # (every sub-linter for each enabled language still ran), but
-          # the env-var form is MegaLinter's native config mechanism and
-          # is documented to take priority over everything else.
-          ENABLE_LINTERS: ACTION_ACTIONLINT,CSS_STYLELINT,HTML_HTMLHINT,JAVASCRIPT_STANDARD,PYTHON_RUFF,YAML_YAMLLINT
+          # ENABLE_LINTERS (as a YAML list in .mega-linter.yml, then as a
+          # CSV env var here) did not restrict execution either way -
+          # every sub-linter for each enabled language still ran. Using
+          # the denylist form instead: explicitly turn off the redundant
+          # linters within each already-enabled language, keeping one
+          # per language (ruff, htmlhint, yamllint; ACTION/CSS/JS only
+          # ever had one linter each).
+          DISABLE_LINTERS: PYTHON_BANDIT,PYTHON_BLACK,PYTHON_FLAKE8,PYTHON_ISORT,PYTHON_MYPY,PYTHON_PYLINT,PYTHON_PYRIGHT,HTML_DJLINT,YAML_PRETTIER,YAML_V8R
