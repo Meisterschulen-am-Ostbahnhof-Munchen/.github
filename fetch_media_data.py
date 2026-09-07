@@ -1,6 +1,5 @@
 import feedparser
 import yt_dlp
-import os
 
 # Konfiguration
 podcasts = {

@@ -1,8 +1,7 @@
+import hashlib
 import os
 import re
 import sys
-import yaml
-import hashlib
 import urllib.request
 from unittest.mock import MagicMock
 
@@ -11,6 +10,7 @@ sys.modules['weasyprint'] = MagicMock()
 
 import mkdocs.config
 import mkdocs.config.config_options
+
 # No-op validation to allow docs_dir: . and site_dir inside docs_dir during merge
 mkdocs.config.config_options.DocsDir.post_validation = lambda self, config, key_name: None
 mkdocs.config.config_options.SiteDir.post_validation = lambda self, config, key_name: None
@@ -18,11 +18,11 @@ mkdocs.config.config_options.SiteDir.post_validation = lambda self, config, key_
 from mkdocs.structure.files import get_files
 from mkdocs.structure.nav import get_navigation
 
+
 def clean_id(path):
     # Convert path like "Allgemeines/Zahlen.md" to a clean anchor id "allgemeines-zahlen"
     p = path.replace('\\', '/').lower()
-    if p.endswith('.md'):
-        p = p[:-3]
+    p = p.removesuffix('.md')
     # Replace anything that's not alphanumeric, hyphen or underscore with hyphen
     p = re.sub(r'[^a-z0-9/_-]', '', p)
     p = p.replace('/', '-').replace('_', '-')
@@ -112,7 +112,7 @@ def download_remote_image(url, docs_dir):
                 out_file.write(data)
 
             return f"img/downloaded/{local_name}"
-    except Exception as e:
+    except Exception as e:  # noqa: BLE001 - best-effort download, fall back to placeholder
         print(f"Error downloading {url}: {e}")
         # Write a placeholder black 1x1 PNG if download fails
         placeholder_path = os.path.join(downloaded_dir, 'placeholder.png')
@@ -126,7 +126,7 @@ def download_remote_image(url, docs_dir):
             try:
                 with open(placeholder_path, 'wb') as f:
                     f.write(minimal_png)
-            except Exception as write_err:
+            except Exception as write_err:  # noqa: BLE001 - best-effort fallback write
                 print(f"Error writing placeholder image: {write_err}")
         return "img/downloaded/placeholder.png"
 
@@ -196,7 +196,7 @@ def rewrite_content(content, file_src_path, path_to_id, docs_dir):
         target_src = os.path.normpath(os.path.join(file_dir, url_path)).replace('\\', '/')
         
         # Check if the target is a markdown file
-        no_ext = target_src[:-3] if target_src.endswith('.md') else target_src
+        no_ext = target_src.removesuffix('.md')
         target_src_md = no_ext + '.md'
         
         target_key = target_src_md if target_src_md in path_to_id else target_src_md.lower()
@@ -382,7 +382,7 @@ def process_nav(items, path_to_id, docs_dir, output_file, depth=0):
             try:
                 with open(abs_path, 'r', encoding='utf-8') as f:
                     content = f.read()
-            except Exception as e:
+            except Exception as e:  # noqa: BLE001 - best-effort batch read, skip file on error
                 print(f"Error reading {abs_path}: {e}")
                 continue
                 

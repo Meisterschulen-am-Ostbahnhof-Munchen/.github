@@ -66,15 +66,13 @@ def find_matches(file_title, filename, media_list):
     fname_clean = filename.lower().replace(".md", "")
     title_norm = normalize(file_title)
     title_agg = normalize_aggressive(file_title)
-    fname_agg = normalize_aggressive(fname_clean)
-    
+
     # Suche nach Übungs-Mustern (z.B. 010b2)
     exercise_match = re.search(r"uebung_(\w+)", fname_clean) or re.search(r"uebung\s*(\w+)", title_norm)
     obj_id_match = re.search(r"id-(\d+)", fname_clean) or re.search(r"id\s*(\d+)", title_norm)
 
     for item in media_list:
         m_title = item['title'].lower()
-        m_title_norm = normalize(item['title'])
         m_title_agg = normalize_aggressive(item['title'])
         
         score = 0
@@ -82,10 +80,8 @@ def find_matches(file_title, filename, media_list):
         if exercise_match:
             num = exercise_match.group(1).lower()
             clean_title = m_title.replace("ü", "ue")
-            if num in clean_title:
+            if num in clean_title or num.lstrip("0") in clean_title and len(num.lstrip("0")) > 1:
                 score += 100
-            elif num.lstrip("0") in clean_title and len(num.lstrip("0")) > 1:
-                 score += 100
         
         # 2. Prio: ISOBUS ID Match
         if obj_id_match:
@@ -116,11 +112,11 @@ def find_matches(file_title, filename, media_list):
         
         match_count = 0
         for w in f_words:
-            if len(w) > 3: # Ignoriere "id", "iso", "the" etc wenn möglich (aber ISO ist wichtig)
-                # Suche das Wort (aggressiv) im aggressiven Titel
-                if w in m_words_agg:
-                    score += 15
-                    match_count += 1
+            # Ignoriere "id", "iso", "the" etc wenn möglich (aber ISO ist wichtig);
+            # Suche das Wort (aggressiv) im aggressiven Titel
+            if len(w) > 3 and w in m_words_agg:
+                score += 15
+                match_count += 1
         
         # Bonus für "Softkey" Spezialfall (zusammengesetzte Wörter)
         if "softkey" in title_agg and "softkey" in m_title_agg:
@@ -155,7 +151,7 @@ def remove_section(content, header):
         if skip:
             # Stop skipping at next header or separator (but be careful not to catch list items)
             s = line.strip()
-            if s.startswith("## ") or s.startswith("----") or s.startswith("```{") or s.startswith(":::{"):
+            if s.startswith(("## ", "----", "```{", ":::{")):
                 skip = False
             else:
                 continue
@@ -206,8 +202,8 @@ def update_file(path, videos, podcasts):
                 has_title = True
             if has_title and line.strip() == "```": # Ende vom Index Block
                 insert_idx = i + 1
-            if has_title and i > 5 and line.strip() == "": # Erste leere Zeile nach Header Bereich
-                if insert_idx == -1: insert_idx = i
+            if has_title and i > 5 and line.strip() == "" and insert_idx == -1: # Erste leere Zeile nach Header Bereich
+                insert_idx = i
                 
         # Wenn wir '----' finden, ist das meist ein guter Platz davor
         for i, line in enumerate(lines):
@@ -256,7 +252,8 @@ def main():
                         p_matches = find_matches(file_title, file, db['podcasts'])
                         
                         update_file(path, v_matches, p_matches)
-                    except:
+                    except Exception as e:  # noqa: BLE001 - best-effort batch update, skip file on error
+                        print(f"Fehler bei {path}: {e}")
                         continue
 
 if __name__ == "__main__":

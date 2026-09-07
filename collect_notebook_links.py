@@ -69,7 +69,7 @@ def collect_links():
                                 if link not in seen_links:
                                     notebooks.append({'title': file_title, 'link': link})
                                     seen_links.add(link)
-                    except Exception as e:
+                    except Exception as e:  # noqa: BLE001 - best-effort batch read, log and continue
                         print(f"Error reading {path}: {e}")
     return notebooks
 
