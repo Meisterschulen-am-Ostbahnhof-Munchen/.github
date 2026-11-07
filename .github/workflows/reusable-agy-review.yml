@@ -1,0 +1,76 @@
+name: Antigravity Code Review
+
+on:
+  workflow_call:
+    inputs:
+      python-version:
+        description: 'Python Version'
+        required: false
+        default: '3.11'
+        type: string
+      ref:
+        description: 'Branch/Ref im .github Repo, aus dem review_agent.py geladen wird'
+        required: false
+        default: 'main'
+        type: string
+    secrets:
+      GEMINI_API_KEY:
+        required: false
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  code-review:
+    name: AI PR Review (Antigravity SDK)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout Central Review Script (falls aufgerufen aus anderem Repo)
+        if: github.repository != 'Meisterschulen-am-Ostbahnhof-Munchen/.github'
+        uses: actions/checkout@v4
+        with:
+          repository: 'Meisterschulen-am-Ostbahnhof-Munchen/.github'
+          ref: ${{ inputs.ref || 'main' }}
+          path: '.central-agy'
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ inputs.python-version || '3.11' }}
+
+      - name: Install Antigravity SDK
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-antigravity
+
+      - name: Run Antigravity Review Agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GITHUB_BASE_REF: ${{ github.base_ref }}
+        run: |
+          SCRIPT_PATH="scripts/review_agent.py"
+          if [ ! -f "$SCRIPT_PATH" ]; then
+            SCRIPT_PATH=".central-agy/scripts/review_agent.py"
+          fi
+          echo "Ausführen von: $SCRIPT_PATH"
+          python "$SCRIPT_PATH"
+
+      - name: Post Comment to PR
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          if [ -s review_output.md ]; then
+            echo "Poste Review-Kommentar auf PR #$PR_NUMBER..."
+            gh pr comment "$PR_NUMBER" --body-file review_output.md
+          else
+            echo "Keine review_output.md gefunden oder Datei ist leer."
+          fi
